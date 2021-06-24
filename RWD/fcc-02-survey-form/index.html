@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Potta+One&display=swap" rel="stylesheet"/> 
+		<title>Survey Form - A FreeCodeCamp project</title>
+		<meta 
+			name="description" 
+			content="Zoo questionnaire made by Sandrine MANGUY as a freeCodeCamp Responsive Web Design project."/>
+		<meta name="keywords" content="surveyform, freeCodeCamp RWD project, Sandrine MANGUY">
+		<meta name="author" content="Sandrine MANGUY">
+		<meta name="viewport" content="width=device-width"/>
+	</head>
+
+	<body>
+		<div id="global" class="container">
+			<header>
+				<h1 id="title">Survey form</h1>
+				<p id="description" class="text-center-italic">Thank you for taking the time to help us improve the zoo</p>
+			</header>
+			
+			<main>
+				<form 
+					action="" 
+					method="POST" 
+					id="survey-form">
+
+					<p class="field-information">* required fields</p>
+			
+						<div class="form-group">
+							<label for="name" id="name-label"><strong>Name *</strong></label><input type="text" class="form-input" name="surname" id="name" placeholder="Enter your name" aria-label="Enter your name" maxlength="20" pattern="[A-Za-z-' ]+" required autofocus class="form-control"/><span class="field-information">
+						</div>
+						<div class="form-group">
+							<label for="email" id="email-label"><strong>Email *</strong></label><input type="email" class="form-input" name="email" id="email" placeholder="Enter your Email" aria-label="Enter your Email" pattern="^[a-z0-9._-]+@[a-z0-9._-]{2,}\.[a-z]{2,4}$" required class="form-control"/><span class="field-information">e.g., surname.name@gmail.com</span>
+						</div>
+						<div class="form-group">
+							<label for="number" id="number-label"><strong>Age</strong></label><input type="number" class="form-input" name="age" id="number" min="18" max="99" placeholder="Age" class="form-control"/><span class="field-information">Between 18 and 99</span>
+						</div>
+						<div class="form-group">
+							<label for="dropdown"><strong>Which country are you from ?</strong></label>
+							<select class="form-input" name="country" id="dropdown" class="form-control">
+								<optgroup label="Europe">
+									<option value="eu-b">Belgium</option>
+									<option value="eu-fr" selected="selected">France</option>
+									<option value="eu-uk">Great Britain</option>
+									<option value="eu-d">Germany</option>
+									<option value="eu-i">Italy</option>
+									<option value="eu-sp">Spain</option>
+									<option value="eu-sw">Switzerland</option>
+									<option value="eur-o">Other European country</option>
+								</optgroup>
+								<optgroup label="Asia">
+									<option value="asia-c">China</option>
+									<option value="asia-j">Japan</option>
+									<option value="asia-k">Korea</option>
+									<option value="asia-o">Other Asian country</option>
+								</optgroup>
+								<optgroup label="America">
+									<option value="am-b">Brazil</option>
+									<option value="am-c">Canada</option>
+									<option value="am-us">United States</option>
+									<option value="am-o">Other American country</option>
+								</optgroup>	
+							</select>
+						</div>
+						
+						<div class="form-group" role="group" aria-labelledby="children">
+							<p id="children"><strong>Do you have children ?</strong></p>
+							<label for="havechild"><input type="radio" name="children" value="Y" id="havechild"/>Yes</label>
+							<label for="nochild"><input type="radio" name="children" value="N" id="nochild"/>No</label>
+						</div>
+						
+						<div class="form-group" role="group" aria-labelledby="visit-reasons">
+							<p id="visit-reasons"><strong>Why did you come to visit our zoo ?</strong><span class="field-information">(Check all that apply)</span></p>
+							<!--role /arialabel-->
+							<label for="family"><input type="checkbox" name="family" value="family" id="family"/>Time with family</label>
+							<label for="fun"><input type="checkbox" name="fun" value="fun" id="fun"/>Just for fun</label>
+							<label for="sight"><input type="checkbox" name="sight" value="sight" id="sight"/>See animals</label>
+							<label for="pictures"><input type="checkbox" name="pictures" value="pictures" id="pictures"/>Take pictures or Draw</label>
+							<label for="studies"><input type="checkbox" name="studies" value="studies" id="studies"/>
+							Learn about animals</label>
+						</div>
+						<div class="form-group" role="group" aria-labelledby="improvement-ideas">
+							<p id="improvement-ideas" ><strong>Would you be interested in ?</strong><span class="field-information">(Check all that apply)</span></p>
+							<label for="picnic"><input type="checkbox" name="picnic" value="picnic" id="picnic" />Picnic areas</label>
+							<label for="play"><input type="checkbox" name="play" value="play" id="play" />Playgrounds</label>
+							<label for="tours"><input type="checkbox" name="tours" value="tours" id="tours" />Guided tours</label>
+							<label for="feedings"><input type="checkbox" name="feedings" value="feedings" id="feedings" />Feedings</label>
+							<label for="workshops"><input type="checkbox" name="workshops" value="workshops" id="workshops" />Art workshops</label>
+						</div>
+						<div class="form-group">
+							<label for="improve"><strong>Let us know how to improve our zoo</strong><textarea name="improve" id="improve">The zoo is fantastic but...</textarea></label>
+						</div>
+
+					<button type="submit" value="Submit" name="form-submit" id="submit">Submit</button>
+
+					<p class="text-center-italic">This survey form is a <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form" target="_blank">FreeCodeCamp Responsive Web Design project</a></br>coded by <a href="https://codepen.io/s-manguy" target="_blank">Sandrine MANGUY</a></p>
+					
+
+				</form>
+			</main>
+					<p class="text-center-italic" id="credit"><span >Background photo by <a href="https://unsplash.com/@trommelkopf?utm_source=unsplash&amputm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Steve Harvey</a> on <a href="https://unsplash.com/s/photos/animal-background-pattern?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"target="_blank">Unsplash</a></span></p>
+		</div>
+
+		<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+	</body>
+	</html>

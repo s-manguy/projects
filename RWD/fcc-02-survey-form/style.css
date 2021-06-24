@@ -1,0 +1,235 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Potta+One&display=swap');
+
+
+:root {
+	--primary-light:#0fc7ff; /*button:hover, input box shadow*/
+	--primary-light--trasp: rgba(15, 199, 255, 0.7); /*credit*/
+	/*--primary-medium:#0e42b4;*/
+	--primary-medium--trasp: rgba(14, 66, 180, 0.8); /*form background*/
+	--primary-dark:#0e1f42; /*background, text shadow*/
+	--primary-dark--trasp: rgba(14, 31, 66, 0.8); /*button shadow*/
+	--secondary:#FFAB00; /*input:focus, button*/
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	margin: auto;
+}
+
+/*smartphone*/
+
+@media screen and (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+/*tablet, laptop, desktop*/
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+body {
+	background-image: white;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color : #fff;
+	text-align: center;
+	margin: 0;
+}
+
+/* background covered by an image, fixed, image covered by a gradient --> color range */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background: var(--primary-dark);
+  background-image: 
+  	linear-gradient(
+      115deg,
+      rgba(14, 31, 66, 0.75),
+      rgba(14, 66, 180, 0.5)
+    ),
+    url(picture/paon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header, footer {
+	margin-bottom: 1.5rem; 
+	padding-top: 3rem;
+}
+
+h1 {
+	font-family: 'Potta One', cursive;
+	line-height: 1.2;
+	text-shadow: 0.5rem 0.5rem 0.3rem var(--primary-dark);
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-size: 2.5em;	
+	text-transform: uppercase;
+}
+
+.text-center-italic {
+	font-size: 0.9rem;
+	font-style: italic;
+	text-align: center;
+}
+
+h1+p {
+	text-shadow: 0.5rem 0.5rem 0.3rem var(--primary-dark);
+}
+
+p[class="field-information"] {
+	text-align: right;
+	margin-right: 0.5rem;
+	margin-bottom: 0px;
+}
+
+.field-information {
+	font-weight: 400;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+strong {
+	font-weight: 600;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	padding: 0rem 0.625rem;
+	border-radius: 0.25rem
+}
+
+form {
+	margin: 0rem auto 0rem auto;
+	padding: 0rem 1.5rem 0rem 1.5rem;
+	background-color: var(--primary-medium--trasp);
+}
+
+label {
+	display: block;
+	align-items: center;
+	margin-bottom: 0.125rem;
+}
+
+label, form p {
+	font-size: 1.25rem;
+}
+
+::placeholder, select, textarea {
+	font-size: 0.9rem;
+	font-family: poppins;
+	color: grey;
+}
+
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+.form-control {
+	display: block;
+	justify-content: center;
+	width: 100%;
+	height: 2.5rem;
+	padding: 0.375rem 0.75rem ;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: none;
+	border-radius: 0.25rem;
+}
+
+.form-input {
+	width: 100%;
+	height: 3.8rem;
+	padding: 1rem;
+	font-size: 1.25rem; 
+}
+
+.form-input:hover, textarea:hover {  
+  	outline: 0;
+  	box-shadow: 0.2rem 0.2rem 0.5rem var(--primary-light);
+}
+
+.form-input:focus, textarea:focus {  
+	border: 0.125rem solid var(--secondary);
+	box-shadow: none;
+}
+
+/*.form-input:valid {
+	border: 0.5rem green groove;
+}*/
+
+.form-input:invalid {
+	border: 0.3rem red solid;
+}
+
+input[type="radio"], input[type="checkbox"] {
+	display: inline-block;
+	margin-right: 0.625rem;
+	min-height: 1.25rem;
+	min-width: 1.25rem;
+	vertical-align: middle;
+}
+
+textarea {
+	min-height: 120px;
+	width: 100%;
+	margin-top: 0.5rem;
+	padding: 1rem;
+	resize: vertical;
+	font-size: 1.25rem; 
+}
+
+button {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-bottom: 2.5rem;
+	border-radius: 0.250rem;
+	border-color: none;
+	border-width: 0rem;
+	padding: 0.75rem;
+	background-color: var(--secondary);
+	box-shadow: 0.2rem 0.2rem 0.25rem var(--primary-dark--trasp);
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #fff;
+	cursor: pointer;
+
+}
+
+button:hover {
+	background-color: var(--primary-light);
+}
+
+#credit, a {
+	font-size: 0.8rem;
+	color: var(--primary-light--trasp);
+	margin-top: 5rem;
+}
+
+a:visited {
+	color: white;
+}
