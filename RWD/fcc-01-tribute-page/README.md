@@ -23,11 +23,11 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 **User Story #9:** The img element should be centered within its parent element. 
 
 
-# My working way  
+# The way I work  
 * Choose a personnality who is neither a religious nor a political nor a showbiz celebrity : ***Antoine Parmentier***.
 * Search Tribute Pages to get inspiration.
 * Search information and pictures about the chosen celebrity.
 * Select pieces of information.
 * Work on the text.
 * Design the Tribute Page using pen and paper and then Figma.
-* Code the Tribute Page.
+* Code the Tribute Page in HTML and CSS.
