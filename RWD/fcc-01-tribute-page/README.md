@@ -1,6 +1,8 @@
 This project is the first of five projects to obtain the RWD Certification.
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR)   
+Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised on 2021/02/18.  
+
+
 
 # The freeCodeCamp project : Build a Tribute Page
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
