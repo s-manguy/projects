@@ -1,0 +1,299 @@
+/* Global */
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+    
+
+/* Colors */
+:root{
+	/* Colors */
+	--backgroundcolor : #fafafa; /* Material Design: gray 50 */
+	--backgroundcolor-darker: #F5F5F5; /* Material Design: gray 100 */
+	--vuecolor: #006064; /* Material Design : Cyan 900; close to Vue logo colors*/
+	--important-accentcolour:#F57C00; /* Material design : Orange 700 */
+	--important-backgroundcolour: #FFCC80; /* Material design : Orange 200 */
+	--info-accentcolour: #0097A7; /* Material design : Cyan 700 */
+	--info-backgroundcolour: #E0F7FA; /* Material design : Cyan 50 */
+	--code-backgroundcolour: #EEEEEE; /* Material design : gray 200 */
+	--code-color: #B71C1C;
+	--textcolor:  rgba(0,0,0,0.87);
+	--textcolor-lighter: rgba(0,0,0,0.7);
+	/* font-size */
+	font-size: 16px; /* 1rem = 16px */
+}
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+
+/* Mobile first */
+body {
+	min-width: 300px;
+	background-color: var(--backgroundcolor);
+	color: var(--textcolor);
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	line-height: 1.5;
+	text-align: left;
+}
+
+/* navbar */
+#navbar{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	max-height: 275px;
+	margin-bottom: 10px;
+	z-index: 1;
+	background-color: var(--backgroundcolor-darker);
+}
+
+#navbar header{
+	padding: 20px 0;
+	background-color: var(--vuecolor);
+	text-align: center;
+	color: white;
+	text-align: center;
+	font-size: 1.6rem;
+	width: 100%;
+}
+
+#navbar header a{
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+}
+
+#navbar header a:hover{
+	font-weight: bold;
+}
+
+#navbar ul{
+	margin-left: -40px;
+	padding-top: 10px;
+	height: 200px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+#navbar li{
+	list-style-type: none;
+	margin: 0;
+	/*border-bottom: 1px solid;*/
+	position: relative;
+	width: 100%;
+}
+
+.nav-link {
+	display: block;
+	padding : 15px 15px 15px 30px;
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+.nav-link:hover{
+	font-weight: bold;
+}
+
+.nav-link:visited{
+	color: var(--vuecolor);
+}
+
+
+
+/* Main doc */
+#main-doc{
+	position: relative;
+	margin: 340px 10px 50px 10px;
+	padding: 0 10px 0 10px;
+}
+
+h1{
+	text-align: center;
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+p{
+	margin: 20px 0;
+}
+
+section{
+	margin: 50px 10px 0 30px;
+}
+
+section header {
+	margin: 0 0 10px -30px;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+section li{
+	padding: 10px 0 10px 0;
+}
+
+#main-doc header{
+  	font-size: 1.6rem;
+  }
+
+#main-doc a{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#main-doc a:hover{
+	text-decoration: underline;
+}
+
+.prerequisite, .objective, .note{
+	display: block;
+	padding:  10px 10px 10px 20px;
+	margin-left: 10px;
+	margin-bottom: 15px;	
+}
+
+.prerequisite{
+	background-color: var(--important-backgroundcolour);
+	border-left: 5px solid var(--important-accentcolour);
+}
+
+.objective{
+	background-color: var(--info-backgroundcolour);
+	border-left: 5px solid var(--info-accentcolour);
+}
+
+.note{
+	display: block;
+	background-color: var(--info-backgroundcolour);
+	padding: 10px 25px;
+	border-left: 5px solid var(--info-accentcolour);
+}
+
+code, pre code{
+	background-color: var(--code-backgroundcolour);
+}
+
+code{
+	display: inline-block;
+	padding: 0 3px;
+	margin: 4px;
+	color: var(--code-color);
+	word-break: normal;
+	word-wrap: normal;
+}
+
+pre code{
+	display: block;
+	color: var(--textcolor);
+	margin: 10px 0;
+	padding: 20px;
+	border-radius: 3px;
+	overflow-x: auto;
+}
+
+.keyboard{
+	display: inline-block;
+	margin: 2px;
+	padding: 2px 6px;
+	border-radius: 4px;
+	border: 1px solid #757575;
+	background-color: var(--code-backgroundcolour);
+	box-shadow: 1px 1px 2px #555;
+}
+
+.project{
+	text-align: center;
+	font-size: 0.8em;
+	margin-top: 100px;
+	color: var(--textcolor-lighter);
+}
+
+
+
+/* for laptops and desktops */
+@media only screen and (min-width: 892px) {
+	:root{
+		font-size: 18px;
+	}
+
+  #navbar {
+    position: fixed;
+    min-width: 300px;
+    top: 0;
+    left: 0;
+    width: 350px;
+    max-height: 100%;
+    margin:10px 0 0 10px;
+    z-index: 0;
+  }
+
+  #navbar ul {
+    height: 90%;
+  }
+
+  #main-doc {
+    position: relative;
+	margin-left: 390px; /*nav width + 40px*/
+	margin-top: 10px;
+	padding: 30px 30px 0 30px;
+
+  }
+
+ h1{
+  	font-size: 2.5rem;
+  }
+
+  section{
+  	margin: 60px 20px 0 10px;
+  }
+
+  .prerequisite, .objective, .note{
+	margin: 30px 0 30px 20px;	
+  }
+}
+
+
+
+/* for XL screen */
+@media only screen and (min-width: 1600px) {
+	:root{
+		font-size: 20px;
+	}
+
+	 #navbar {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 380px;
+	    max-height: 100%;
+	    margin:10px 0 0 10px;
+	    z-index: 0;
+	  }
+
+	  #navbar ul {
+	    height: 100vw;
+	  }
+
+	  #main-doc {
+	    position: relative;
+		margin-left: 420px; /*nav width + 30px*/
+		margin-top: 0;
+		padding: 40px 40px 0 40px;
+	  }
+
+	 h1{
+	  	font-size: 2.5rem;
+	  }
+
+	  section{
+	  	margin: 60px 20px 0 10px;
+	  }
+
+	  .prerequisite, .objective, .note{
+		margin: 30px 0 30px 20px;	
+	  }
+	}
