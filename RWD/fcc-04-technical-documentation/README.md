@@ -30,7 +30,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised 
 
 
 # The way I worked
-1. Think about and **choose a** **JavaScript Library**.
+1. Think about and **choose** the **JavaScript Library** as I have the [OpenClassrooms Vue.js course Certification](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js?status=published).
 2. Search MDN documentation.
 3. Select pieces of information.
 4. Search Technical documentation examples on the internet to get inspiration.
