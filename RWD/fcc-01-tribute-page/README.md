@@ -24,7 +24,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 
 # My working way  
-* Choose a personnality who is neither a religious nor a political nor a showbiz celebrity : Antoine Parmentier.
+* Choose a personnality who is neither a religious nor a political nor a showbiz celebrity : ***Antoine Parmentier***.
 * Search Tribute Pages to get inspiration.
 * Search information and pictures about the chosen celebrity.
 * Select pieces of information.
