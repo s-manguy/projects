@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+	<title>Create your seamless pattern</title>
+	<meta name="description" content="With WePrintYourFabric you can print your fabric to realise clothes, accessories, pillows, curtains... This landing page is a RWD fCC project coded by Sandrine MANGUY, webdesigner, webdevelopper and illustrator.">
+	<meta name="keywords" content="SandrineMANGUY, RWD, LandingPage, fccProject">
+	<meta name="author" content="Sandrine MANGUY">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<div id="container">
+		<header id="header">
+			<div>
+				<img id="header-img" src="https://raw.githubusercontent.com/s-manguy/pictures-base/main/weprintyourfabric_logo.svg" alt="Logo" title="Logo of the WePrintYourFabric company - accueil" />
+				<span aria-labelledby="header-img"><a href="#">We print <span class="accent">YOUR</span> fabric</a></span>
+			</div>
+				
+			<nav id="nav-bar" aria-label="main navigation">
+				<ul>
+					<li><a class="nav-link" href="#about">About</a></li>
+					<li><a class="nav-link" href="#form">Subscribe</a></li>
+					<li><a class="nav-link" href="#video">Tutorial</a></li>
+					<li><a class="nav-link" href="#features">Features</a></li>					
+				</ul>
+			</nav>
+		</header>
+	<!-- div pour position relative -->
+		<main>
+			<!-- call to action -->
+			<section id="hero">
+				<div>
+					<h1>Create your own seamless pattern</h1>
+					<p><strong>free</strong> access to video tutorials</p>
+					<form id="form" method="POST" action="https://www.freecodecamp.com/email-submit">
+						<label for="email" class="sr-only">Email : </label>
+						<span>
+							<input type="email" name="email" id="email" placeholder="Enter your email" aria-labelledby="email" aria-describedby="email-instruction" pattern="^[a-z0-9._-]+@[a-z0-9._-]{2,}\.[a-z]{2,4}$" maxlength="70" required=""/>
+							<span id="email-instruction" class="sr-only">Enter your email</span>
+						</span><br/>
+						<input type="submit" name="subscribe" value="Subscribe" id="submit"/>
+					</form>
+				</div>
+			</section>
+
+			<!-- video -->
+			<section>
+				<h2 class="sr-only">Create a seamless vector pattern</h2>
+				<iframe id="video" title="How to create a seamless vector pattern - Video realised by Teela Cunningham" width="959" height="340" src="https://www.youtube.com/embed/ITRZ75OKrG0?t=128" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</section>
+
+			<!-- who what HOW -->
+			<section id="about">
+				<h2>How to obtain <span class="accent">YOUR OWN</span> printed fabric ?</h2>
+					<div class="step" role="region" aria-labelledby="step1">
+						<div><img src="https://raw.githubusercontent.com/s-manguy/pictures-base/main/brush_red_24dp.svg" alt="" title="a brush representing the possibility to draw or paint the pattern"></div>
+						<div>
+							<h3 id="step1">Create your seamless or engineered pattern.</h3>
+							<p>Create the pattern.</p>
+							<p>Save it as a .jpg file.</p>
+						</div>
+					</div>
+						
+					<div class="step" role="region" aria-labelledby="step2">
+						<div><img src="https://raw.githubusercontent.com/s-manguy/pictures-base/main/upload_red_24dp.svg" alt="" title="an arrow representing the uploading"></div>
+						<div>
+							<h3 id="step2">Log in to our website.</h3>
+							<p>Select one of our 100% organic OKEO-TEX® certified fabrics.</p>
+							<p>Upload your .jpg file.</p>
+							<p>Adjust the size of your pattern.</p>
+						</div>
+					</div>	
+
+					<div class="step" role="region" aria-labelledby="step3">
+						<div><img src="https://raw.githubusercontent.com/s-manguy/pictures-base/main/credit_card_red_24dp.svg" alt="" title="a credit card representing the payment to confirm the order"></div>
+						<div>
+							<h3 id="step3">Confirm your order.</h3>
+							<p>...and you will receive your parcel at home !</p>	
+						</div>
+					</div>	
+			</section>
+
+			<!-- benefits -->
+			<section id="features">
+				<h2 class="sr-only">The features</h2>
+					<ul>
+						<li><i class="fas fa-truck" aria-hidden="true" title="a truck representing the fast delivery at home"></i><br/>express delivery</li>
+						<li><i class="fas fa-lock" aria-hidden="true" title="a locker representing the secured payment"></i><br/>secured payment</li>
+						<li><i class="far fa-smile" aria-hidden="true" title="a smiley representing a happy face after money-back"></i><br/>money-back guarantee</li>
+					</ul>
+			</section>
+		</main>
+
+		<footer>
+			<ul>
+				<li><a class="nav-link" href="#">Privacy</a></li>
+				<li><a class="nav-link" href="#">Terms</a></li>
+				<li><a class="nav-link" href="#">Contact</a></li>
+			</ul>
+			<span><em>Copyright 2021, WePrintYourFabric</em></span>
+		</footer>
+
+		<!-- credits fCC projects -->
+		<div class="credits">
+			<p>This Landing Page, coded by <a href="https://codepen.io/s-manguy" target="_blank">Sandrine MANGUY</a>, is a fCC Responsive Web Design <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page" target="_blank" title="fCC RWD project user stories">project</a>. The company WePrintYourPattern and the product don't exist.</p>
+			<P>Thanks to <a href="https://www.youtube.com/channel/UC7LfMHlnCxEJWZ-m5BN7_ig" title="Teela Cunningham on YouTube" target="_blank">Teela Cunningham</a> for the tutorial.</p>
+			<p>Thanks to <strong>Sandrine MANGUY</strong> for the authorisation to use the copyrighted seamless patterns.</p>
+			<p></p>
+		</div>
+	</div>
+	
+</body>
+</html>
