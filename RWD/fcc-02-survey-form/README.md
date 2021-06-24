@@ -40,4 +40,4 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) to see th
 2. Think about the form questions : respect the given user stories and **respect the market survey rules** [OpenClassroom Certification](https://openclassrooms.com/fr/courses/6067991-realisez-une-etude-de-marche)
 3. Search a picture for the background.
 4. Design the Survey Form based on the **picture colors** and the **Material Design rules**.
-5. Code the project in **HTML and plain CSS** as these languages are the one studied in this module.
+5. Code the project in **HTML and plain CSS** as these languages are the one studied in this module : [codepen](https://codepen.io/s-manguy/full/NWbgNYP) to see the result.
