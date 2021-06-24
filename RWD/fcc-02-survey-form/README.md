@@ -1,6 +1,6 @@
 This project is the second of five projects to obtain the RWD Certification.
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) to see the result.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised on 2021/02/18  to see the result.
 
 
 # The freeCodeCamp project : Build a Survey Form
