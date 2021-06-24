@@ -35,7 +35,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised 
 3. Search Landing Page on the internet to **get inspiration**.
 4. Search **youTube videos** to be used as tutorial on my landing page.
 5. Think of a moodboard.
-6. **Design** the project **using the Material Design** rules.
+6. **Design** the project **using the Material Design** and respecting the [Landing Page](https://openclassrooms.com/fr/courses/5192206-accelerez-la-croissance-de-votre-activite-avec-le-growth-hacking/6711356-realisez-votre-landing-page) rules indicated in the [OpenClassrooms course on the Growth Hacking](https://openclassrooms.com/fr/courses/5192206-accelerez-la-croissance-de-votre-activite-avec-le-growth-hacking).
 7. Search Font Awesome icons.
 8. Design the fake company logo.
 9. Design the seamless pattern.
