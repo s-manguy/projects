@@ -30,4 +30,4 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 * Select pieces of information.
 * Work on the text.
 * Design the Tribute Page using pen and paper and then Figma.
-* Code the Tribute Page in HTML and CSS : [codepen](https://codepen.io/s-manguy/full/PobmXOR) 
+* Code the Tribute Page in HTML and CSS : [codepen](https://codepen.io/s-manguy/full/PobmXOR)
