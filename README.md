@@ -1,7 +1,7 @@
 # projects
 contains all my projects
 
-## Font-End
+## Front-End
 
 ### Responsive Web Design
 1. Tribute Page, a fCC project
