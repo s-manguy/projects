@@ -25,7 +25,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised 
 **User Story #9:** The img element should be centered within its parent element. 
 
 
-# The way I worked  
+# My way of working  
 * Choose a personnality who is neither a religious nor a political nor a showbiz celebrity : ***Antoine Parmentier***.
 * Search Tribute Pages to get inspiration.
 * Search information and pictures about the chosen celebrity.
