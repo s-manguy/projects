@@ -12,7 +12,17 @@ contains all my projects
 
 ### Javascript
 ### Front-End Libraries
+1. Random Quote machine
+2. Drum Machine
+3. Markdown Editor
+4. JavaScript Calculator
+5. Pomodoro clock
 ### Data visualization
+1. Bar chart
+2. Scatterplot chart
+3. Heat map
+4. Chloropleth map
+5. Tree map
 
 ## Back-End
 ### API
