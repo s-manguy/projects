@@ -31,5 +31,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised 
 * Search information and pictures about the chosen celebrity.
 * Select pieces of information.
 * Work on the text.
+* Choose colors and fonts taking into account the subject (a scientist), the object (the potato), the trends (https://www.w3schools.com/colors/colors_2021.asp) and the Material Design rules.
+* Think of Mobile first.
 * Design the Tribute Page using pen and paper and then Figma.
 * Code the Tribute Page in HTML and CSS : [codepen](https://codepen.io/s-manguy/full/PobmXOR)
