@@ -1,3 +1,5 @@
+*in progress*
+
 # projects
 contains all my projects
 
@@ -13,10 +15,11 @@ contains all my projects
 ### Javascript
 ### Front-End Libraries
 1. Random Quote machine
-2. Drum Machine
-3. Markdown Editor
+2. Markdown Editor 
+3. Drum Machine
 4. JavaScript Calculator
 5. Pomodoro clock
+
 ### Data visualization
 1. Bar chart
 2. Scatterplot chart
