@@ -12,7 +12,13 @@ contains all my projects
 1. Technical documentation, a fCC project
 1. Portfolio, a fCC project
 
-### Javascript
+### Javascript algorythms and Data structure
+1. Palindrome Checker
+1. Roman Numeral Converter
+1. Caesars Cipher
+1. Telephone Number Validator
+1. Cash Register
+
 ### Front-End Libraries
 1. Random Quote machine
 2. Markdown Editor 
