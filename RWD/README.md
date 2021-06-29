@@ -14,4 +14,4 @@ This directory contains Responsive Web Design Project.
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4)  
 2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2)  
 1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)  
-1991-1994 :**Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac)  
+1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac)  
