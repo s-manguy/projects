@@ -1,11 +1,12 @@
 # JavaScript algorythms and Data Structures
 This directory contains JavaScript algorythms and Data Structures Projects.
 ## JavaScript algorythms and Data Structures projects
-1. **Tribute Page**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR)
-2. **Survey Form**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWbgNYP)
-3. **Landing Page**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/BaQGKmx)
-4. **Technical documentation**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx)
-5. **Portfolio**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd)
+1. Palindrome Checker
+1. Roman Numeral Converter
+1. Caesars Cipher
+1. Telephone Number Validator
+1. Cash Register  
+[View Certification & solutions](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
 
 ## Diploma & Certifications
