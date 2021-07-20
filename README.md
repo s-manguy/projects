@@ -22,11 +22,13 @@ contains all my studies projects / contient mes projets d'études.
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
 ### Front-End Libraries
-1. Random Quote machine
-2. Markdown Editor 
-3. Drum Machine
-4. JavaScript Calculator
-5. Pomodoro clock  
+1. take, a one page website
+2. info school, a multi-page website
+3. Random Quote machine
+4. Markdown Editor 
+5. Drum Machine
+6. JavaScript Calculator
+7. Pomodoro clock  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries
 )
 
