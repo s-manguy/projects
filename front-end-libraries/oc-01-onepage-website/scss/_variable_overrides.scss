@@ -1,0 +1,174 @@
+$spacer: 1rem !default;
+$spacers: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$spacers: map-merge(
+  (
+    0: 0,
+    1: ($spacer * .25),//4mm
+    2: ($spacer * .5),//8mm
+    3: $spacer,//16mm
+    4: ($spacer * 1.5),//24mm
+    30: ($spacer * 2),
+    5: ($spacer * 3),//48mm
+    55: ($spacer * 3.5),
+    60: ($spacer * 3.75),
+    81: ($spacer * 5),
+    96: ($spacer * 6),//96mm
+    105:($spacer * 6.6),
+    112: ($spacer * 7),//112mm
+    128: ($spacer * 8),//128mm
+    136: ($spacer *8.5),
+    150: ($spacer * 9.5),
+    160: ($spacer * 10),
+    176: ($spacer * 11),
+    300: ($spacer * 18.75),
+    400: ($spacer * 25),
+    432: ($spacer * 27),
+    453: ($spacer * 28.3),
+    528: ($spacer * 33)
+  ),
+  $spacers
+);
+
+
+$line-height-lg:              2.75;
+
+
+//Taille container modifiée en xl 1140-->1230 pour correspondre à la maquette.
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1230px
+);
+
+//Couleurs
+$green: #82ca9c;
+$pink: #f5989d;
+$purple: #615f7d;
+$gray: #cfcfcf;
+$back: #f6f7fa;
+$title: #2e3b4e;
+$eggplant:#bd8cbf;
+$footer-bg: #192431;
+.pink
+{
+    background-color: $pink;
+}
+.purple
+{
+    background-color: $purple;
+}
+.green
+{
+    background-color: $green;
+}
+.btn-eggplant
+{
+    background-color: $eggplant;
+}
+.gray
+ {
+     background-color: #3a3939;
+
+ }
+
+$light:         $back;
+$info:          $gray;
+$danger:        $eggplant;
+
+//polices
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+$font-family-base:'Open Sans', sans-serif; 
+
+//texte couleurs
+$body-color: white;
+$link-color: white;
+$link-hover-color: darken($link-color, 40%);
+.text-medium
+{
+    color : $gray;
+}
+
+$paragraph-margin-bottom:   2rem;
+
+
+$font-size-base:              0.9rem; // Assumes the browser default, typically `16px`
+$font-size-lg:                $font-size-base * 1.25 !default;
+$font-size-sm:                $font-size-base * .875 !default;
+
+$h1-font-size:                $font-size-base * 4.45;
+$h2-font-size:                $font-size-base * 2.25;
+$h3-font-size:                $font-size-base * 0.95;
+$p-font-size:                 $font-size-base;
+$a-font-size :                $p-font-size;
+
+$spacer: 1rem;
+$headings-margin-bottom:      $spacer *1.5;
+
+//background-images
+#section_one, .box3, .box4, #big_picture {
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+}
+
+#section_one {
+    background-image: url('../assets/masthead.jpg');
+   
+}
+
+.box3 {
+    background-image: url('../assets/plage.jpg');   
+}
+
+.box4 {
+    background-image: url('../assets/photographer.jpg');
+}
+
+#big_picture {
+    background-image: url('../assets/volant.jpg');
+}
+
+.parallax {
+    background-attachment: fixed;
+}
+
+.cellphone {
+    position: relative;
+    height: auto;
+    right: 10px;
+    top: 180px;
+}
+
+
+//paddings
+.price_spotlight {
+    background-color: white;
+    box-shadow: 0px 0px 32px rgba(120,120,120, 0.5);
+}
+
+
+
+//boutons
+
+.btn-eggplant
+{
+    background-color: $eggplant;
+}
+
+
+//takeapp.com text
+.app{
+    font-weight: 600;
+    font-size: 12px;
+    width: 100px;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    position: relative;
+    left: -200px;
+    top: 55px;
+    text-transform: uppercase;
+}

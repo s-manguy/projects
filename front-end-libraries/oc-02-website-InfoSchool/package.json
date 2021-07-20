@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap_infoschool",
+  "version": "1.0.0",
+  "description": "This website MVP for the non-existing infoschool uses Bootstrap.",
+  "keywords": ["Bootstrap", "HTML", "CSS", "JavaScript", "website"],
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch .scss/main.scss:./css/style.css --style compressed"
+  },
+  "author": "Sandrine MANGUY",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  } 
+}
