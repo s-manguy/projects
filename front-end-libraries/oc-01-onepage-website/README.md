@@ -1,5 +1,5 @@
 # take, a free mobile app
-
+[View the realized project / Voir le projet](https://codepen.io/s-manguy/full/OJmjXqm)
 ## Sujet : Découper et intégrer une maquette
 1. Comprendre ce qu’est une maquette et qui la fait ;
 2. Ouvrir une maquette dans Photoshop ;
