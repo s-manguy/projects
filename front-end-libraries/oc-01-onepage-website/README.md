@@ -14,4 +14,4 @@
 ## Liens
 * Cours OpenClassrooms : [Découpez et intégrez une maquette](https://openclassrooms.com/fr/courses/3504431-decoupez-et-integrez-une-maquette)
 * Maquette fournie : [Maquette take créée par Blaz Robar](https://blazrobar.com/free-psd-website-templates/take-a-free-mobile-app-landing-page-psd-template/) 
-  ![Maquette take créée par Blaz Robar](https://blazrobar.com/free-psd-website-templates/take-a-free-mobile-app-landing-page-psd-template/)   
+  ![Maquette take créée par Blaz Robar](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-01-onepage-website/mockup.jpg)   
