@@ -1,5 +1,7 @@
 This project is the first of five project to obtain the Front-end Libraries Certification.
-Have a look at the [codepen](https://codepen.io/s-manguy/full/QWdVaNP) realised on 2021/04/19.
+
+
+Have a look at the [codepen](https://codepen.io/s-manguy/full/QWdVaNP) realised in ***HTML, SCSS and jQuery*** on 2021/04/19.
 
 # The freeCodeCampProject : Build a Random Quote Machine
 
