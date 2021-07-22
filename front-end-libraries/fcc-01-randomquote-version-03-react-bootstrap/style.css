@@ -1,0 +1,57 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Work+Sans:wght@300;500&display=swap");
+html {
+  /* 1rem = 16px = 100% 
+   * if 1rem = 10px then 1rem= 62.54%*/
+  font-size: 62.54%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+.container-fluid {
+  height: 100vh;
+  background-color: darkgrey;
+  color: darkgray;
+}
+
+.footer {
+  background-color: trasparent;
+  color: white;
+  font-size: 1.5rem;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  border-bottom: 0.15rem solid white;
+}
+
+.box_quote {
+  font-family: "Work Sans", sans-serif;
+}
+.box_quote--text {
+  height: auto;
+  font-size: 2.8rem;
+  font-weight: 500;
+}
+.box_quote--text i {
+  font-size: 2.8rem;
+}
+.box_quote--author {
+  font-weight: 300;
+  font-size: 1.8rem;
+}
+
+.btn,
+btn-primary {
+  border: none;
+  outline: none;
+  color: white;
+}
