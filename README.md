@@ -24,7 +24,7 @@ contains all my studies projects / contient mes projets d'études.
 ### Front-End Libraries
 1. take, a one page website
 2. info school, a multi-page website
-3. Random Quote machine (three versions : HTML-SCSS-jQuery, HTML-Bootstrap-jQuery, React.js-Bootstrap)
+3. Random Quote machine *(three versions : HTML-SCSS-jQuery, HTML-Bootstrap-jQuery, React.js-Bootstrap)*
 4. Markdown Editor 
 5. Drum Machine
 6. JavaScript Calculator
