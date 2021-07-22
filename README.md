@@ -26,7 +26,7 @@ contains all my studies projects / contient mes projets d'études.
 2. info school, a multi-page website
 3. Random Quote machine *(three versions : HTML-SCSS-jQuery, HTML-Bootstrap-jQuery, React.js-Bootstrap)*
 4. Markdown Editor 
-5. Drum Machine
+5. Drum Machine *(three versions : React.js-SCSS, HTML-SCSS-plain JavaScript, HTML-SCSS-jQuery)*
 6. JavaScript Calculator
 7. Pomodoro clock  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries
