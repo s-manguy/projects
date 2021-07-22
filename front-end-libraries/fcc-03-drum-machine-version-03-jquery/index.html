@@ -1,0 +1,77 @@
+ <!DOCTYPE html>
+ <html lang="en">
+     <head>
+         <meta charset="utf-8">
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+        ">
+         <link rel="stylesheet" href="./css/style.css">
+         <meta name="author" content="Sandrine MANGUY">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     </head>
+     <body>
+        <div>
+            <!-- drum machine -->
+              <div id="drum-machine" class="container" >
+            <!-- Heading -->    
+                <h1 class="heading">Drum Machine</h1>         
+            <!-- display -->
+                <div>
+                  <p id="display" class="control_display">I am ready</p>
+                </div>
+            
+            <!-- drum-pad set -->
+                <div id='drumpad-set'>
+                  <!-- drum-pads -->
+                  <!-- these elements are created using JavaScript respecting the below scheme :
+                  <div
+                    class='drum-pad'
+                    keyCode= 81
+                    keyTrigger= 'Q'
+                    id='Heater-1'
+                  >
+                     <audio 
+                        class="clip" 
+                        id='Q'
+                        src='https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3'
+                     >
+                     </audio>
+                    Q
+                  </div>-->   
+                </div> 
+                
+              <!-- volume slider -->     
+                <div class="sound">
+                  <i class="fas fa-volume-off"></i>
+                  <label class="visually-hidden" for="volume">Volume</label>
+                  <input  
+                         class="control_volume" 
+                         type="range" 
+                         id="volume" 
+                         min= "0"
+                         max="1" 
+                         value="0.2" 
+                         step="0.01" 
+                         data-before
+                         />
+                  <i class="fas fa-volume-up"></i>
+                </div>
+                
+            <!-- Footer -->
+            <footer class="footer">
+              This Drum Machine is a <a href='https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-drum-machine' target="_blank">FCC Front-end project</a><br/>
+              by <a href='https://codepen.io/s-manguy'target="_blank">Sandrine MANGUY</a>
+            <br/><br/>
+              view the <a href='https://codepen.io/s-manguy/full/JjEQYVN'target="_blank">plain JavaScript</a> version<br/>
+              view the <a href='https://codepen.io/s-manguy/full/YzNMvgV'target="_blank">React</a> version<br/>
+            </footer>
+            
+            
+        </div>
+            
+            
+        <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="index.js"></script>
+             
+     </body>
+ </html>
