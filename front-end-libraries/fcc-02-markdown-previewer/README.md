@@ -1,7 +1,9 @@
 This project is the second of five project to obtain the Front-end Libraries Certification.
 
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/WNRmrdZ) realised on 2021/04/26.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/WNRmrdZ) realised with **React.js, Bootstrap, marked and Dompurify** on 2021/04/26.
+
+
 
 
 # Front End Development Libraries Projects : Build a Markdown Previewer
