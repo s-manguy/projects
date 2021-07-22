@@ -1,0 +1,168 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300;400;700&display=swap");
+/* variables */
+:root {
+  font-size: 62.54%;
+}
+
+#app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+body {
+  background-color: #e0e0e0;
+  font-family: "Bellota Text", cursive;
+  font-size: 4.5rem;
+  font-weight: 400;
+  color: #474747;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.calculator {
+  width: 32rem;
+  height: 60rem;
+  border-radius: 1.5rem;
+  background: white;
+  padding: 1.5rem;
+  box-shadow: 6px 6px 2px #adadad;
+}
+
+.display {
+  width: auto;
+  height: 13rem;
+  border-radius: 0.5rem;
+  text-align: right;
+  background-color: #fafafa;
+  padding: 0.7rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.formula {
+  font-weight: 300;
+  font-size: 2rem;
+  vertical-align: top;
+  height: 7.5rem;
+}
+
+.output {
+  height: 5.5rem;
+  font-weight: 700;
+  font-size: 4rem;
+  vertical-align: top;
+}
+
+.btn {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  border: none;
+  outline: none;
+  margin: 5px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 3rem;
+  cursor: pointer;
+  transition-property: font-size;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-in;
+}
+.btn:hover {
+  font-weight: 700;
+  font-size: 3rem;
+}
+.btn:active {
+  font-size: 2rem;
+}
+
+.btn-numbers {
+  background-color: #e0e0e0;
+  color: #474747;
+  transition-property: background-color, color;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-out;
+}
+.btn-numbers:active {
+  background-color: #949494;
+  color: white;
+}
+
+.btn-ac {
+  background-color: #E65100;
+  color: white;
+  transition-property: background-color, color;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-out;
+}
+.btn-ac:active {
+  background-color: #ff8c4d;
+  color: #474747;
+}
+
+.btn-erase {
+  background-color: white;
+  color: #E65100;
+  transition-property: background-color, color;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-out;
+}
+.btn-erase:active {
+  background-color: #E65100;
+  color: white;
+}
+
+.btn-operator {
+  background-color: #ededed;
+  color: #006318;
+  transition-property: background-color, color;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-out;
+}
+.btn-operator:active {
+  background-color: #009624;
+  color: white;
+}
+
+.btn-equals {
+  background-color: #009624;
+  color: white;
+  transition-property: background-color, color;
+  transistion-duration: 1000ms;
+  transition-timing-function: ease-out;
+}
+.btn-equals:active {
+  background-color: #00e336;
+  color: #474747;
+}
+
+.btn-erase:hover {
+  font-size: 3.8rem;
+}
+
+.footer {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 2.2rem;
+  text-align: center;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+.footer a {
+  color: #474747;
+  text-decoration: none;
+  font-weight: 700;
+}
+.footer a:hover {
+  border-bottom: 2px dotted;
+  color: #E65100;
+}
