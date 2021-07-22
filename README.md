@@ -14,11 +14,11 @@ contains all my studies projects / contient mes projets d'études.
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)
 
 ### Javascript algorythms and Data structure
-1. Palindrome Checker, a fCC project
-1. Roman Numeral Converter, a fCC project
-1. Caesars Cipher, a fCC project
-1. Telephone Number Validator, a fCC project
-1. Cash Register, a fCC project  
+1. [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
+1. [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
+1. [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
+1. [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
+1. [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
 ### Front-End Libraries
