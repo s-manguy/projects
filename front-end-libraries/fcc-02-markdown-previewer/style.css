@@ -1,0 +1,21 @@
+body {
+  background-color: #c2c2c2; /* Material Design - Secondary Dark */
+}
+
+blockquote {
+  border-left: solid 0.2rem lightgrey;
+  padding-left: 0.8rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h2 strong {
+  font-size: 2.5rem;
+}
+
+a {
+  color: #373737;
+  text-decoration: underline;
+}
