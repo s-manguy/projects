@@ -22,13 +22,13 @@ contains all my studies projects / contient mes projets d'études.
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
 ### Front-End Libraries
-1. take, a one page website, an OpenClassromms project
-2. info school, a multi-page website, an OpenClassromms project
-3. Random Quote machine *(three versions : HTML-SCSS-jQuery, HTML-Bootstrap-jQuery, React.js-Bootstrap)*, a fCC project
-4. Markdown Editor, a fCC project
-5. Drum Machine *(three versions : React.js-SCSS, HTML-SCSS-plain JavaScript, HTML-SCSS-jQuery)*, a fCC project
-6. JavaScript Calculator, a fCC project
-7. Pomodoro clock, a fCC project  
+1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassromms project
+2. [info school](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), a multi-page website, an OpenClassromms project
+3. Random Quote machine *(three versions : [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery), [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery), [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap))*, a fCC project
+4. [Markdown Editor](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer), a fCC project
+5. Drum Machine *(three versions : [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react), [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript), [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery))*, a fCC project
+6. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries), a fCC project
+7. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries
 )
 
