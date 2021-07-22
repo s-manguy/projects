@@ -15,7 +15,7 @@
 * Create your own theme / Créer son propre thème de conception
 * Use jQuery to improve the searchbar and filter content / Personnaliser les fonctionnalités à l'aide de jQuery
 
-## Outils/utils
+## Utils/Outils
 * HTML, SCSS
 * Framework : Bootstrap
 * Library: Jquery
