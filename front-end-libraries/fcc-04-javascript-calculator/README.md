@@ -1,6 +1,6 @@
 This project is the fourth of five project to obtain the Front-end Libraries Certification.
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/qBrWgMJ) **third version realised in React.js and SCSS** on 2021/05/05.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/qBrWgMJ) **realised in React.js and SCSS** on 2021/05/05.
 
 # Front End Development Libraries Projects : Build a JavaScript Calculator
 
