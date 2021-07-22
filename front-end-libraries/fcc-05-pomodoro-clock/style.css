@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+/* variables */
+:root {
+  font-size: 62.54%;
+}
+
+body {
+  color: black;
+  background-color: #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+#project {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+#app {
+  width: 32rem;
+  height: 60rem;
+  border-radius: 1.5rem;
+  background-color: white;
+  padding: 1.5rem;
+  box-shadow: 6px 6px 2px #a6a6a6;
+}
+
+h1 {
+  font-size: 3.8rem;
+}
+
+.timer-control {
+  width: 29rem;
+  padding: 0 0.75rem 0.75rem 0.75rem;
+  margin: auto;
+  border-radius: 1rem;
+}
+.timer-control .timer-type {
+  width: 50%;
+  text-align: center;
+  align-items: center;
+}
+.timer-control .timer-type p {
+  font-size: 1.8rem;
+}
+.timer-control .timer-type .time {
+  display: flex;
+  padding: 0.5rem;
+}
+.timer-control .timer-type .number {
+  width: 5rem;
+  font-size: 3rem;
+  display: inline-block;
+  vertical-align: sub;
+}
+
+.timer {
+  width: 26rem;
+  height: 27rem;
+  padding: 0 0.75rem 0.75rem 0.75rem;
+  margin: auto;
+  margin-top: 3rem;
+  border: solid 0.8rem grey;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.timer-label {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+.timer-timeleft {
+  font-size: 6rem;
+  margin-bottom: 1.5rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+}
+.controls button {
+  width: 5rem;
+  height: 5rem;
+  font-size: 2rem;
+  margin: 0.3rem;
+  padding: 0.5rem;
+  border: none;
+  background-color: white;
+}
+.controls button#reset {
+  width: 4rem;
+  height: 4rem;
+  font-size: 2.4rem;
+  border-radius: 2rem;
+  vertical-align: middle;
+  color: white;
+  background-color: black;
+  transition-property: color, background;
+  transition-duration: 200ms;
+  transition-timing-funtion: ease;
+}
+.controls button#reset:hover, .controls button#reset:active {
+  color: black;
+  background: white;
+}
+
+#start_stop {
+  width: 8rem;
+  height: 4rem;
+  border-radius: 2rem;
+  background-color: green;
+  color: white;
+  border: none;
+}
+
+.footer {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 2.5rem;
+  text-align: center;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+.footer a {
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+}
+.footer a:hover {
+  border-bottom: 2px dotted;
+  color: green;
+}
