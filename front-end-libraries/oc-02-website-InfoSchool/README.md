@@ -1,7 +1,7 @@
 # info school
-[View the project / Voir le projet]() on replit.
+[View the project / Voir le projet](https://codepen.io/s-manguy/full/gOWGzjx) on codepen.
 
-## 
+## A multi-page website prototype / un prototype de site internet mutli-page
 * Modbile first thinking / Penser mobile first
 * HTML architecture / Décomposer la structure des pages
 * Create the sections / Implémenter la structure des pages
