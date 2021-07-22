@@ -1,6 +1,6 @@
 *in progress*
 
-# projects
+# projects/projets
 contains all my studies projects / contient mes projets d'études.
 
 ## Front-End
