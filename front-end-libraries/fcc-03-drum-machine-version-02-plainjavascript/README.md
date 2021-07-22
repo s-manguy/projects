@@ -1,6 +1,6 @@
 This project is the third of five project to obtain the Front-end Libraries Certification.
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/YzNMvgV) **second version realised in HTML, SCSS and plain JavaScript** on 2021/04/30.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/JjEQYVN) **second version realised in HTML, SCSS and plain JavaScript** on 2021/04/30.
 
 # Front End Development Libraries Projects : Build a Drum Machine
 
