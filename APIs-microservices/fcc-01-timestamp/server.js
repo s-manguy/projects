@@ -31,10 +31,12 @@ app.get("/api/:date?", (req, res) => {
 
   // empty
 	if(!givenDate) {
+		// get current date
 		date = new Date();
   } else {
-    //valid date is a string and is considered as a date
-    //unix is a number but is considered as a string in the URI so it needs to be parsed to be considered as unix.
+    // get the given date in unix and UTC formats.
+    // valid date format (yyyy-mm-dd) is not a number ; it is considered as a string.
+    // In a URI the unix (which is a number) is considered as a string so it needs to be parsed to be considered as unix/number.
     date = isNaN(givenDate)?new Date(givenDate):new Date(parseInt(givenDate));
   }
 
@@ -46,9 +48,7 @@ app.get("/api/:date?", (req, res) => {
   } else {
     res.json({ unix: unixDate, utc: utcDate });
   }
-  
-
-  
+   
 });
 
 
