@@ -1,9 +1,8 @@
-This project is the second of five projects to obtain the RWD Certification.
+# The freeCodeCamp project : Build a Survey Form
+This project is the second of five projects to obtain the [**RWD Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised on 2021/02/18  to see the result.
 
-
-# The freeCodeCamp project : Build a Survey Form
 ## Instructions
 
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
@@ -42,3 +41,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised 
 3. Search a picture for the background.
 4. Design the Survey Form based on the **picture colors** and the **Material Design rules**.
 5. Code the project in **HTML and plain CSS** as these languages are the one studied in this module : [codepen](https://codepen.io/s-manguy/full/NWbgNYP) to see the result.
+
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised on 2021/02/18  to see the result.
