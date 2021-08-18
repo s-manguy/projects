@@ -4,6 +4,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised 
 
 
 # The freeCodeCamp project : Build a Survey Form
+## Instructions
 
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
 
@@ -35,7 +36,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised 
 **User Story #16:** Inside the form element, I am presented with a button with id="submit" to submit all my inputs.  
 
 
-# The way I worked
+## The way I worked
 1. Think about and choose a theme : ***a zoological park***.
 2. Think about the form questions : respect the given user stories and **respect the market survey rules** [OpenClassroom Certification](https://openclassrooms.com/fr/courses/6067991-realisez-une-etude-de-marche)
 3. Search a picture for the background.
