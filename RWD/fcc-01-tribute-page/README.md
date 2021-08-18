@@ -1,10 +1,9 @@
-This project is the first of five projects to obtain the RWD Certification.
-
-Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised on 2021/02/18.  
-
-
-
 # The freeCodeCamp project : Build a Tribute Page
+This project is the first of five projects to obtain the [**RWD Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design).
+
+Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised on 2021/02/18.    
+
+
 ## Instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
@@ -37,3 +36,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised 
 * Design the Style guide on Figma.
 * Design the Tribute Page using pen and paper and then Figma.
 * Code the Tribute Page in HTML and CSS : [codepen](https://codepen.io/s-manguy/full/PobmXOR)
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised on 2021/02/18.  
