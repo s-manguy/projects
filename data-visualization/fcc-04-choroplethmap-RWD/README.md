@@ -1,10 +1,10 @@
-This project is the first of five projects to obtain the Data Visualization Certification.
+# The freeCodeCampProject : Visualize Data with a Choropleth Map  
+This project is the first of five projects to obtain the [**Data Visualization Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization).  
 Have a look at the [codepen](https://codepen.io/s-manguy/full/jOBajye) realised on 2021/05/31 to obtain the certification.
 
 **HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/mdmggav) CORRESPONDING TO THE BELOW CODE created on 2021/08/.**  
-**I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. The general view is provided by the map, the details are provided by the table.**  
 
-# The freeCodeCampProject : Visualize Data with a Choropleth Map  
+## Instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/EZKqza.  
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**  
@@ -31,3 +31,14 @@ Here are the datasets you will need to complete this project:
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js  
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+## The way I worked
+* I have added a table for accessibility. 
+* The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. 
+* The general view is provided by the map. 
+* The details are provided by the table. 
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/jOBajye) realised on 2021/05/31 to obtain the certification.
+
+**HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/mdmggav) CORRESPONDING TO THE BELOW CODE created on 2021/08/.**  
