@@ -1,9 +1,12 @@
-This project is the second of five projects to obtain the Data Visualization Certification.
-Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.
-
-**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18. I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. On tablets, the chart is removed by a table. On Smartphone, the chart is removed by a one column table.**
-
 # The freeCodeCampProject : Visualize Data with a Scatterplot Graph
+This project is the second of five projects to obtain the [**Data Visualization Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization).  
+
+Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.  
+
+**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18.** 
+
+
+## Instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/bgpXyK.  
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -30,4 +33,14 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js  
 
-Once you're done, submit the URL to your working project with all its tests passing.  
+Once you're done, submit the URL to your working project with all its tests passing. 
+
+## The way I worked
+* I have added a table for accessibility. 
+* The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. 
+* On tablets, the chart is removed by a table.
+* On cell phones, the chart is removed by a one column table.
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.
+**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18. I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. On tablets, the chart is removed by a table. On Smartphone, the chart is removed by a one column table.**
