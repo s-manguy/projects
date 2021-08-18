@@ -1,7 +1,7 @@
-This project is the third of five projects to obtain the Data Visualization Certification.
+This project is the third of five projects to obtain the Data Visualization Certification.  
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpEzrW) realised on 2021/05/27 to obtain the certification.
 
-**The freeCodeCampProject : Visualize Data with a Heat Map**
+# The freeCodeCampProject : Visualize Data with a Heat Map  
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/JEXgeY.  
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**  
