@@ -43,4 +43,4 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.
-**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18. I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. On tablets, the chart is removed by a table. On Smartphone, the chart is removed by a one column table.**
+**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18.**
