@@ -1,5 +1,5 @@
 # The freeCodeCampProject : Build a Random Quote Machine
-This project is the first of five project to obtain the [**Front-end Libraries Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures).
+This project is the first of five project to obtain the [**Front-end Libraries Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/QWdVaNP) realised in ***HTML, SCSS and jQuery*** on 2021/04/19.
 
