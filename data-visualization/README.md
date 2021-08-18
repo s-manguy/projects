@@ -1,11 +1,11 @@
 # Data visualization
 This directory contains Data visualization Project.
 ## Data visualization projects
-1. **A bar chart**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR)
-2. **A scatter plot**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWbgNYP)
-3. **A heat map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/BaQGKmx)
-4. **A choropleth map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx)
-5. **A treemap diagram set**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd)
+1. **A bar chart**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBmKJBo)
+2. **A scatter plot**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/eYWwdrp)
+3. **A heat map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpEzrW)
+4. **A choropleth map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/mdmggav)
+5. **A treemap diagram set**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpzLez)
 
 
 ## Diploma & Certifications
