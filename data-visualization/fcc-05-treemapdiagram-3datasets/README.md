@@ -1,7 +1,8 @@
-This project is the first of five projects to obtain the Data Visualization Certification.
+# The freeCodeCampProject : Visualize Data with a Treemap Diagram
+This project is the first of five projects to obtain the [**Data Visualization Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization).  
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpzLez) realised on 2021/06/04 to obtain the certification.  
 
-# The freeCodeCampProject : Visualize Data with a Treemap Diagram
+## Instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/KaNGNR.  
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -29,3 +30,6 @@ For this project you can use any of the following datasets:
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpzLez) realised on 2021/06/04 to obtain the certification. 
