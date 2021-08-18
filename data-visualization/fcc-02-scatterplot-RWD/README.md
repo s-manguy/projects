@@ -1,7 +1,7 @@
 This project is the second of five projects to obtain the Data Visualization Certification.
 Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.
 
-HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18.
+**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18. I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. On tablets, the chart is removed by a table. On Smartphone, the chart is removed by a one column table.**
 
 # The freeCodeCampProject : Visualize Data with a Scatterplot Graph
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/bgpXyK.  
