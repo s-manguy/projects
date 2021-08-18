@@ -1,10 +1,9 @@
-This project is the fifth and last of five projects to obtain the RWD Certification.
+# The freeCodeCamp project : Build a Personal Portfolio Webpage
+This project is the fifth and last of five projects to obtain the [**RWD Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised on 2021/03/24.
 
-
-# The freeCodeCamp project : Build a Personal Portfolio Webpage
-
+## Instructions
 **Objective** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -25,7 +24,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised 
 **User Story #11:** The navbar should always be at the top of the viewport.  
 
 
-# My way of working
+## My way of working
 1. Search portfolio examples on the internet to get inspiration.
 2. Decrypt the code of the liked examples.
 3. Think about the design, the colors, the fonts...
@@ -36,3 +35,5 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised 
 8. **Design** the project **using the Material Design** rules.
 9. **Code** the Landing Page **in HTML and CSS** as these are the languages studied in the RWD module : [codepen](https://codepen.io/s-manguy/full/KKapbzd).
 
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised on 2021/03/24.
