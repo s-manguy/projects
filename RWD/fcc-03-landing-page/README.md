@@ -1,10 +1,8 @@
+# The freeCodeCamp project : Build a Product Landing Page
 This project is the third of five projects to obtain the RWD Certification.
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised on 2021/03/09.
-
-
-# The freeCodeCamp project : Build a Product Landing Page
-
+## Instructions
 **Objective** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -29,7 +27,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised 
 **User Story #15:** My product landing page should utilize CSS flexbox at least once.  
 
 
-# The way I worked
+## The way I worked
 1. Think about and **choose a** kind of **product** and company.
 2. Create a fake company name.
 3. Search Landing Page on the internet to **get inspiration**.
@@ -40,3 +38,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised 
 8. Design the fake company logo.
 9. Design the seamless pattern.
 10. **Code** the Landing Page **in HTML and CSS** as these are the languages studied in the RWD module : [codepen](https://codepen.io/s-manguy/full/BaQGKmx).
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised on 2021/03/09.
