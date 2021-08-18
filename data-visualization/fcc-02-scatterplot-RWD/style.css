@@ -1,0 +1,279 @@
+/* global */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+:root {
+  font-size: 62.54%;
+  /* 1rem = 10px */
+}
+
+@media screen and (max-width: 767px) {
+  :root {
+    font-size: 50%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  :root {
+    font-size: 55%;
+  }
+}
+
+.sr-only {
+  position: aboslute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  background-color: #c7c7c7;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: #fafafa;
+    justify-content: start;
+  } 
+}
+
+
+/* header for smartphones and tablets */
+@media screen and (max-width: 1024px) {
+  header {
+    margin: 2rem auto ;
+    line-height: 1;
+  }
+  
+  h1 {
+    font-size: 3.5rem; /* the font-size is modified in the :root ! */
+  }
+  
+  h2{
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 767px) and (orientation: landscape) {
+  h2{
+    margin-top: -1.5rem;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  header {
+    display: none; /* No visible, no readable by a screenreader to avoid heading redundancy. */ 
+  } 
+}
+
+
+/* container */
+.main {
+  display: flex;
+  background-color: #fafafa;
+  margin-bottom: 2rem;
+  box-shadow: 0.5rem 0.5rem 1rem 0.5rem #7b7b7b;
+}
+
+@media screen and (max-width: 767px){
+  #container, header {
+    width: 340px;
+  }
+}
+
+@media screen and (max-width: 767px) and (orientation: landscape), (min-width: 768px) and (max-width: 1024px){
+  #container, header {
+    width: 650px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation:landscape) {
+  #container {
+    width: 980px;
+  }
+}
+
+/* graph */
+#title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+#subtitle {
+  font-size: 2.5rem;
+}
+
+.axis-label, .legend {
+  font-size: 1.8rem;
+}
+
+.dot {
+  stroke: black;
+  stroke-width: 0.1rem;
+  cursor: pointer;
+}
+
+.ticks_font {
+  font-size: 1.5rem;
+}
+
+.tooltip {
+  text-align: left;
+  font-size: 1.5rem;
+  width: auto;
+  height: auto;
+  padding: 0.5rem;
+  background: #c7c7c7;
+  box-shadow: 0.2rem 0.2rem 0.2rem #7b7b7b;
+  border-radius: 0.2rem;
+  position: absolute;
+}
+
+/* table */
+#dataVisTable {
+  height: 75vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 767px) {
+  #dataVisTable {
+    height: 70vh;
+  }
+}
+
+@media screen and (max-width: 767px) and (orientation: landscape) {
+  #dataVisTable {
+    height: 55vh;
+  }
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+thead {
+  /*text-transform: uppercase;*/
+  font-size: 1.8rem;
+  background-color: #202020;
+  color: #fafafa;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+thead th {
+  padding: 5px 15px;
+  border: 1px black solid;
+  /*cursor: s-resize;*/
+}
+
+tbody td, tbody th {
+  border: 1px black solid;
+  padding: 0.5rem;
+}
+
+tbody tr:nth-of-type(odd) {
+  background-color: #c7c7c7;
+}
+
+tbody tr:hover {
+  background-color: #ffbb00;
+}
+
+@media screen and (max-width: 767px) and (orientation: portrait) {
+  /* not a table anymore */
+  thead, tbody, tr, th, td {
+    display: block;
+  }
+
+  /* Make the thead hidden on the screen but readable by the screen readers */
+  thead, thead th {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  tbody tr  {
+    border: 1px #ccc solid;
+    text-align: left;
+  }
+
+  tbody td, tbody th {
+    border: none;
+    border-bottom: 1px #eee solid;
+    position: relative;
+    padding-left: 30%;
+    min-height: 20px;
+  }
+
+  td:before, th:before { 
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 30%; 
+    padding-right: 10px; 
+    white-space: nowrap;
+    /*Label the data*/
+    content: attr(data-th) ": ";
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    display: inline-block;
+    }		
+}
+
+
+/* Hide the graph on smartphones and tablets */
+@media screen and (max-width: 1024px){
+  #graph {
+    display: none;
+  }
+
+  #table {
+    width: 95vh;
+  }
+}
+
+/* Make the table hidden on the screen but readable by the screen readers */
+@media screen and (min-width: 1025px){
+  #dataVisTable {
+      position: absolute;
+      left: -10000px;
+      top: auto;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+  }
+}
+
+
+/* footer */
+.footer {
+  font-size: 1.5rem;
+}
+.footer a {
+  color: black;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: #0288d1;
+  padding-bottom: 0.2rem;
+  border-bottom: solid 1px #0288d1;
+}

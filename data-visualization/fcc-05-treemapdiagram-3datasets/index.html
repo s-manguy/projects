@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" >
+	<head>
+	<meta charset="UTF-8">
+	<title>a 3 datasets Treemap Diagram</title>
+	<link rel="stylesheet" href="./style.css">
+	<meta name="description" content="Select the dataset of three you want to be visualiza as a Treemap diagram. Coded by Sandrine MANGUY as a freeCodeCamp Project to obtain the Data Visualization Certification.">
+	<meta name="author" content="sandrine manguy"><link rel="stylesheet" href="./style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<header>
+			<form id="data-selector">
+				<p class="sr-only">Select the data set</p>
+				<label for="KickstarterPledges"><input type="radio" name="data-select" value="pledge" id="kickstarter-pledges">Kickstarter Pledges</label>
+				<label for="video-game"><input type="radio" name="data-select" value="video" id="video" checked>Video Game Sales</label>
+				<label for="movie"><input type="radio" name="data-select" value="movie" id="movie">Movies Sales</label>
+			</form>
+		</header>
+
+		<main class="main">
+			<h1 id="title"> Video Game Sales</h1>
+			<p id="description"> Top 100 Most Sold Video Games Grouped by Platform</p>
+			<div id="graph">
+				<svg id="diagram"></svg>
+				<svg id="legend"></svg>
+			</div>
+			<div id="source">Data Source: <a target="_blank" id="source-url" class="link"></a></div>
+		</main>
+
+		<footer class="footer">
+			This Treemap Diagram is <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram" target="_blank" class="link">a freeCodeCamp Data Visualisation Project</a></br>
+			coded by <a href="https://codepen.io/s-manguy" target="_blank" class="link">Sandrine MANGUY</a>
+		</footer>
+		
+
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/6.7.0/d3.min.js'></script>
+		<script src="./script.js"></script>
+	</body>
+</html>

@@ -1,0 +1,118 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.54%;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+  color: black;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+header {
+  margin: 1rem auto 4rem auto;
+  font-size: 1.7rem;
+}
+header input {
+  margin-left: 2rem;
+}
+
+.main {
+  position: relative;
+  box-shadow: 0.1rem 0.1rem 0.3rem 0.2rem #cacaca;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 4.5rem;
+}
+
+p {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-top: 1.2rem;
+  margin-bottom: 3rem;
+}
+
+#graph {
+  display: flex;
+}
+
+#legend {
+  font-size: 2rem;
+}
+
+#source {
+  text-align: right;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+.link:hover {
+  border-bottom: solid 1px #2171b5;
+  color: #2171b5;
+}
+
+.tooltip {
+  position: absolute;
+  width: auto;
+  height: fit-content;
+  padding: 0.4rem 0.8rem;
+  background-color: black;
+  border-radius: 0.5rem;
+  box-shadow: 0.3rem 0.3rem 0.5rem grey;
+  color: white;
+  font-size: 1.6rem;
+  text-align: left;
+  pointer-events: fill;
+  opacity: 0;
+}
+
+.tile:hover {
+  stroke: black;
+  stroke-width: 0.3rem;
+}
+.tile-text {
+  font-size: 1.3rem;
+}
+
+.legend-item {
+  font-size: 1.5rem;
+}
+
+.footer {
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  line-height: 1.5;
+}
+
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}

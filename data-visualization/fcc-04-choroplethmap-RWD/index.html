@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+	<head>
+		<meta charset="UTF-8">
+		<title>CodePen - Choropleth Map, a fCC DataVisualization Project</title>
+		<meta name="description" content="Choropleth Map coded by Sandrine MANGUY as a freeCodeCamp project to obtain the Data Visualization Certification.">
+		<meta name="author" content="sandrine manguy"><link rel="stylesheet" href="./style.css">
+		<meta name="viewport" content="width=device-width" initial-scale="1.0">
+	</head>
+	<body>
+		<main id="container" class="main">
+			<h1 id="title">United States Educational Attainment</h1>
+			<h2 id="description">Percentage of adults age 25 and older with a bachelor's degree or higher (2010-2014)</h2>
+			<div id="graph" class="dataVis" role="image" aria-describedby="description"></div>
+			<div id="source" >Source: <a href= "https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx" target="_blank" class="link">USDA Economic Research Service</a>
+			<div class="dataVis_table"></div>
+		</main>
+		<footer class="footer">
+			This choropleth map is <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map" target="_blank" class="link">a freeCodeCamp Data Visualisation Project</a></br>
+			coded by <a href="https://codepen.io/s-manguy" target="_blank" class="link">Sandrine MANGUY</a>
+		</footer>
+		
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/6.7.0/d3.min.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js'></script>
+		<!--script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script-->
+		<script src='https://d3js.org/d3-scale-chromatic.v1.min.js'></script>
+		<script  src="./script.js"></script>
+
+	</body>
+</html>

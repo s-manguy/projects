@@ -1,0 +1,239 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.54%;
+}
+
+body {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+  color: black;
+}
+
+.main {
+  position: relative;
+  width: 1060px;
+  /*box-shadow: 0.1rem 0.1rem 0.3rem 0.2rem #cacaca;*/
+  padding: 2rem;
+}
+
+
+/* Smartphone, Iphone */
+@media screen and (max-width: 767px) {
+  :root {
+    font-size: 40%;
+  }
+  .main {
+    width: 340px;
+  }
+  .dataVis {
+    width: 320px;
+    margin: auto;
+  }
+}
+
+/* Ipad */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  :root {
+    font-size: 55%;
+  }
+  
+  .main, .dataVis {
+    width: 95vw;
+  }
+}
+
+/* Ipad landscape */
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation:landscape) {
+  :root {
+    font-size:55%;
+  }
+  
+  .main, .dataVis {
+    width: 85vw;
+  }
+}
+
+
+h1, caption {
+  font-size: 4.5rem;
+}
+
+h2, .subtitle {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-top: 1.2rem;
+  margin-bottom: 3rem;
+}
+
+#source {
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+.link:hover {
+  border-bottom: solid 1px #2171b5;
+  color: #2171b5;
+}
+
+
+@media screen and (max-width: 767px) {
+  #source {
+    margin-right: 10px;
+  }
+}
+
+
+.tooltip {
+  position: absolute;
+  width: auto;
+  height: fit-content;
+  padding: 0.4rem 0.8rem;
+  background-color: #ffd54f;
+  border: solid, 0.1rem black;
+  border-radius: 0.5rem;
+  box-shadow: 0.3rem 0.3rem 0.5rem grey;
+  color: black;
+  font-size: 1.8rem;
+  text-align: center;
+  opacity: 0;
+  z-index: 10;
+}
+
+/* smartphone, ipad portrait, ipad landscape*/
+@media screen and (max-width: 1024px) {
+  .tooltip {
+    visibility: hidden;
+  }
+}
+
+
+.county:hover {
+  stroke: red;
+  stroke-width: 0.1rem;
+}
+
+.states {
+  fill: none;
+  stroke: white;
+  stroke-width: 0.1rem;
+}
+
+.ticks_font {
+  font-size: 2.5rem;
+}
+
+
+@media screen and (max-width: 767px) {
+  .ticks_font {
+    font-size: 4.5rem;
+  }
+}
+
+
+.sr_only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}
+
+.dataVis_table {
+  height: 30vh;
+  overflow-y: auto;
+  margin-top: 4vh;
+  margin-bottom: 2vh;
+}
+
+table {
+  width:700px;
+  margin: auto;
+  border-collapse: collapse;
+  border: 1px black solid;
+  font-size: 1.5rem;
+}
+
+thead {
+  text-align: center;
+  background-color: #ccc;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  height: 3.5rem;
+}
+
+thead th {
+  padding: 2px;
+}
+
+tbody {
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+tbody tr {
+  border: 1px black solid;
+}
+tbody td {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+tbody td:nth-child(3) {
+  text-align: left;
+  padding-right: 5px;
+}
+
+
+@media screen and (max-width: 767px) {
+  .dataVis_table {
+    height: 37vh;
+    margin-bottom: 1vh;
+  }
+  
+  table {
+    width:320px;
+  }
+ 
+  tbody td:nth-child(3) {
+    width: 150px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .dataVis_table {
+    height: 22vh;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation:landscape) {
+  .dataVis_table {
+    height: 80vh;
+  }
+}
+
+
+.footer {
+  font-size: 1.4rem;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  line-height: 1.8rem;
+}

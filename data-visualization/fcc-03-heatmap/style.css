@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.tooltip {
+  font-size: 1.2rem;
+  color: white;
+  width: auto;
+  height: auto;
+  padding: 0.5rem;
+  background: black;
+  border-radius: 0.2rem;
+  position: absolute;
+}
+
+.cell:hover {
+  stroke: black;
+  stroke-width: 0.1rem;
+}
+
+.footer {
+  font-size: 0.8rem;
+  margin-top: 2rem;
+  color: grey;
+}
+.footer a {
+  color: grey;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: black;
+  padding-bottom: 0.2rem;
+  border-bottom: solid 1px black;
+}
