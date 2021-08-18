@@ -1,9 +1,9 @@
-This project is the third of five project to obtain the Front-end Libraries Certification.
+# Front End Development Libraries Projects : Build a Drum Machine
+This project is the third of five project to obtain the [**Front-end Libraries Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/YzNMvgV) **first version realised with React.js and SCCS** on 2021/04/28.
 
-# Front End Development Libraries Projects : Build a Drum Machine
-
+## Instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/MJyNMd.
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -25,3 +25,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/YzNMvgV) **first v
 **User Story #7:** When a .drum-pad is triggered, a string describing the associated audio clip is displayed as the inner text of the #display element (each string must be unique).
 
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/YzNMvgV) **first version realised with React.js and SCCS** on 2021/04/28.
