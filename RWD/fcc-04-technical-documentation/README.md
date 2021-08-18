@@ -1,10 +1,9 @@
-This project is the third of five projects to obtain the RWD Certification.
+# The freeCodeCamp project : Build a Technical Documentation Page
+This project is the third of five projects to obtain the [**RWD Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised on 2021/03/10.
 
-
-# The freeCodeCamp project : Build a Technical Documentation Page
-
+## Instructions
 **Objective** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -29,10 +28,13 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised 
 **User Story #15:** My Technical Documentation page should use at least one media query.  
 
 
-# The way I worked
+## The way I worked
 1. Think about and **choose** the **JavaScript Library** as I have the [OpenClassrooms Vue.js course Certification](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js?status=published).
 2. Search MDN documentation.
 3. Select pieces of information.
 4. Search Technical documentation examples on the internet to get inspiration.
 5. **Design** the project **using the Material Design** rules.
 6. **Code** the Landing Page **in HTML and CSS** as these are the languages studied in the RWD module : [codepen](https://codepen.io/s-manguy/full/bGBjwvx).
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised on 2021/03/10.
