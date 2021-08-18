@@ -32,8 +32,7 @@ Applications
 5. Drum Machine *(three versions : [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react), [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript), [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery))*, a fCC project
 6. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
 7. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries
-)
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)
 
 ### Data visualization
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
