@@ -1,7 +1,8 @@
 # info school
 [View the project / Voir le projet](https://codepen.io/s-manguy/full/gOWGzjx) on codepen.
 
-## A multi-page website prototype / un prototype de site internet mutli-page
+## Instructions
+### A multi-page website prototype / un prototype de site internet mutli-page
 * Modbile first thinking / Penser mobile first
 * HTML architecture / Décomposer la structure des pages
 * Create the sections / Implémenter la structure des pages
@@ -15,10 +16,14 @@
 * Create your own theme / Créer son propre thème de conception
 * Use jQuery to improve the searchbar and filter content / Personnaliser les fonctionnalités à l'aide de jQuery
 
-## Utils/Outils
+### Utils/Outils
 * HTML, SCSS
 * Framework : Bootstrap
 * Library: Jquery
 
-## Links/liens
+### Links/liens
 * OpenClassrooms course / cours OpenClassrooms : [Créez des sites web responsive avec Bootstrap 4](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4)
+
+## Result & Certification
+* [View the project / Voir le projet](https://codepen.io/s-manguy/full/gOWGzjx) on codepen.
+* [View the Certification / Voir le certificat de réussite](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-bootstrap-4-5100297731.pdf).
