@@ -2,7 +2,7 @@ This project is the first of five projects to obtain the Data Visualization Cert
 Have a look at the [codepen](https://codepen.io/s-manguy/full/jOBajye) realised on 2021/05/31 to obtain the certification.
 
 **HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/mdmggav) CORRESPONDING TO THE BELOW CODE created on 2021/08/.**  
-I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. The general view is provided by the map, the details are provided by the table. 
+**I have added a table for accessibility. The tooltips are hidden for smartphone, Iphone and Ipad users because the countries cannot be selected by the finger. The general view is provided by the map, the details are provided by the table.**  
 
 # The freeCodeCampProject : Visualize Data with a Choropleth Map  
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/EZKqza.  
