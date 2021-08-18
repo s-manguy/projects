@@ -1,7 +1,9 @@
 # The freeCodeCamp project : Build a Product Landing Page
-This project is the third of five projects to obtain the RWD Certification.
+This project is the third of five projects to obtain the [**RWD Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design).
 
-Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised on 2021/03/09.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised on 2021/03/09.  
+
+
 ## Instructions
 **Objective** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
 
