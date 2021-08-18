@@ -1,5 +1,5 @@
 This project is the first of five projects to obtain the Data Visualization Certification.
-Have a look at the [codepen](https://codepen.io/s-manguy/full/gOmgdyj) realised on 2021/05/21 to obtain the certification.
+Have a look at the [codepen](https://codepen.io/s-manguy/full/gOmgdyj) realised on 2021/05/21 to obtain the certification.  
 **HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/qBmKJBo) CORRESPONDING TO THE BELOW CODE created on 2021/08/02.**
 
 # The freeCodeCampProject : Visualize Data with a Bar Chart
