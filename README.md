@@ -36,11 +36,11 @@ Applications
 )
 
 ### Data visualization
-1. Bar chart
-2. Scatterplot chart
-3. Heat map
-4. Chloropleth map
-5. Tree map  
+1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
+2. [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
+3. [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
+4. [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project
+5. [Tree map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)
 
 ## Back-End
