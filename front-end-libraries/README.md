@@ -2,16 +2,16 @@
 This directory contains Front-end libraries Project.
 ## Front-end libraries projects
 ### OpenClassrooms projects
-1. **Take app - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR).
-2. **Info School - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR).
-3. **Memory game**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR).
+1. **Take app - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/OJmjXqm).
+2. **Info School - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
+3. **Memory game**, an OpenClassrooms project.
 
 ### freeCodeCamp projetcs
-1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR).
-2. **A markdown previewer**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWbgNYP).
-3. **A drumpad machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/BaQGKmx).
-4. **A JavaScript calculator**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx).
-5. **A 25+5 clock**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd).
+1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
+2. **A markdown previewer**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNRmrdZ).
+3. **A drump machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWpKNGP).
+5. **A JavaScript calculator**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBrWgMJ).
+6. **A 25+5 clock**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PopzrzK).
 
 
 ## Diploma & Certifications
