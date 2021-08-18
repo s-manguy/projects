@@ -1,10 +1,9 @@
-This project is the first of five project to obtain the Front-end Libraries Certification.
-
+# The freeCodeCampProject : Build a Random Quote Machine
+This project is the first of five project to obtain the [**Front-end Libraries Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries).
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/rNjqXWB) realised in ***HTML, Bootstrap and jQuery*** on 2021/04/21.
 
-# The freeCodeCampProject : Build a Random Quote Machine
-
+## instructions
 **Objective:** Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
 **Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.**
@@ -34,3 +33,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/rNjqXWB) realised 
 **User Story #11:** The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
 
 Note: Twitter does not allow links to be loaded in an iframe. Try using the target="_blank" or target="_top" attribute on the #tweet-quote element if your tweet won't load. target="_top" will replace the current tab so make sure your work is saved.
+
+## Result
+Have a look at the [codepen](https://codepen.io/s-manguy/full/rNjqXWB) realised in ***HTML, Bootstrap and jQuery*** on 2021/04/21.
