@@ -27,12 +27,21 @@ contains all my studies projects / contient mes projets d'études.
 2. [info school](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), a multi-page website, an OpenClassrooms project  
 
 #### Applications  
-1. Random Quote machine *(three versions : [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery), [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery), [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap))*, a fCC project
-4. [Markdown Editor](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer), a fCC project
-5. Drum Machine *(three versions : [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react), [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript), [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery))*, a fCC project
-6. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
-7. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
+1. Random Quote machine, a fCC project:
+    * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
+    * second version: [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery)
+    * third version [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap))
+2. [Markdown Editor](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer), a fCC project
+3. Drum Machine, a fCC project:
+    * first version: [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react)
+    * second version! [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript)
+    * third version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery)
+4. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
+5. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)
+
+#### Games
+1. Memory game, an OpenClassrooms project
 
 ### Data visualization
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
