@@ -37,4 +37,4 @@ Solution Link
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpEzrW) realised on 2021/05/27 to obtain the certification.  
   
 
-![heatmap realized by sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-03-heatmap/13%20heatmap.png)
+![heatmap realized by sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-03-heatmap/13%20heatmap_sandrinemanguy_red.png)
