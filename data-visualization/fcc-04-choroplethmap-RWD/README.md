@@ -46,4 +46,4 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/jOBajye) realised 
 
 ![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_mobile_sandrinemanguy_red.png) 
 ![ipad screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_tablet_sandrinemanguy_red.png)
-![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_desktop_sandrinemanguy_red.png)  
+![desktopscreenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_desktop_sandrinemanguy_red.png)  
