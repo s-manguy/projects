@@ -70,3 +70,6 @@ You can build your project by using this CodePen template and clicking Save to c
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/PopzrzK) **realised in React.js and SCSS** on 2021/05/17.
+
+
+![app realized by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-05-pomodoro-clock/10%20pomodoroclock_sandrinemanguy_red.png)
