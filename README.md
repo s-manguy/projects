@@ -13,7 +13,7 @@ contains all my studies projects / contient mes projets d'études.
 1. [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)
 
-### Javascript algorythms and Data structure
+### [Javascript algorythms and Data structure](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures)
 1. [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
 1. [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
 1. [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
@@ -21,7 +21,7 @@ contains all my studies projects / contient mes projets d'études.
 1. [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
-### Front-End Libraries
+### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 2. [info school](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), a multi-page website, an OpenClassrooms project  
@@ -43,7 +43,7 @@ contains all my studies projects / contient mes projets d'études.
 #### Games
 1. Memory game, an OpenClassrooms project
 
-### Data visualization
+### [Data visualization](https://github.com/s-manguy/projects/tree/main/data-visualization)
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
 2. [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
 3. [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
@@ -52,7 +52,7 @@ contains all my studies projects / contient mes projets d'études.
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)
 
 ## Back-End
-### API
+### [API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
 1. [Timestamp Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
 1. [Request Header Parser Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-02-requestheaderparser), a fCC project.  
 1. URL Shortener Microservice 
