@@ -39,3 +39,8 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised 
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/PobmXOR) realised on 2021/02/18.  
+
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-01-tribute-page/01%20parmentier_mobile_sandrinemanguy_red.png)
+![ipad screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-01-tribute-page/01%20Parmentier_ipad_sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-01-tribute-page/01%20parmentier_desktop_sandrinemanguy_red.png)
