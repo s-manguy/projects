@@ -43,3 +43,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised 
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/BaQGKmx) realised on 2021/03/09.
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-03-landing-page/04_landingpage_mobile_sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-03-landing-page/04_landingpage_desktop_sandrinemanguy_red.png)
