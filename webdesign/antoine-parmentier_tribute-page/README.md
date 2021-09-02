@@ -53,11 +53,11 @@ Build a Tribute Page that is functionally similar to this: https://codepen.io/fr
 * Tribute page (desktop B version)
 * Style Guide (mobile version)
 
-![Wireframe - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Wireframe.png)
-![Tribute page - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/mobile.png)
-![Tribute page - tablet](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/ipad.png)
-![Tribute page - desktop version B](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Desktop%20-%20version%202.png)
-![Style Guide - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png)
+![Wireframe - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Wireframe.png)  
+![Tribute page - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/mobile.png)  
+![Tribute page - tablet](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/ipad.png)  
+![Tribute page - desktop version B](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Desktop%20-%20version%202.png)  
+![Style Guide - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png)  
 
 
 ## Links to various tutorials and courses which were useful to realize this project:
@@ -66,8 +66,8 @@ Build a Tribute Page that is functionally similar to this: https://codepen.io/fr
 * The Laurène Castor's course : [Composez des interfaces utilisateurs en Material Design](https://openclassrooms.com/fr/courses/3936801-composez-des-interfaces-utilisateurs-en-material-design).
 * The Joseph Cavé's course : [Initiez-vous à la méthode Atomic Design](https://openclassrooms.com/fr/courses/5249021-initiez-vous-a-la-methode-atomic-design).
 * The Liv Danthon Lefebvre's course : [Appliquez la psychologie au Design](https://openclassrooms.com/fr/courses/5248811-appliquez-la-psychologie-au-design).
-* The Thomas Dinnet & Lisa Liskovoi's course : [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible).
+* The Thomas Dinnet & Lisa Liskovoi's course : [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible).  
 
-
-
+  
+## Another version 
 Have a look to [another RWD version of the Tribute Page](https://codepen.io/s-manguy/full/PobmXOR) coded to get the freeCodeCamp RWD Certification.
