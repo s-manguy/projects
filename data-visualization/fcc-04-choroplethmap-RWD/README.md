@@ -42,3 +42,8 @@ Once you're done, submit the URL to your working project with all its tests pass
 Have a look at the [codepen](https://codepen.io/s-manguy/full/jOBajye) realised on 2021/05/31 to obtain the certification.
 
 **HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/mdmggav) CORRESPONDING TO THE BELOW CODE created on 2021/08/.**  
+
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_mobile_sandrinemanguy_red.png) 
+![ipad screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_tablet_sandrinemanguy_red.png)
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-04-choroplethmap-RWD/14%20chloroplethmap_desktop_sandrinemanguy_red.png)  
