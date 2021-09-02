@@ -43,4 +43,8 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/oNZwbev) realised on 2021/05/25 to obtain the certification.
-**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18.**
+**HAVE A LOOK TO THE ADAPTATIVE VERSION [CODEPEN](https://codepen.io/s-manguy/full/eYWwdrp) realised on 2021/08/18.**  
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-02-scatterplot-RWD/12%20scatterplot_mobile_sandrinemanguy_red.png) 
+![ipad screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-02-scatterplot-RWD/12%20scatterplot_ipad_sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-02-scatterplot-RWD/12%20scatterplot_desktop_sandrinemanguy_red.png)
