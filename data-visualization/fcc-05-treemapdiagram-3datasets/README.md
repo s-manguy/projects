@@ -33,3 +33,5 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpzLez) realised on 2021/06/04 to obtain the certification. 
+
+![treemap diagram coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-05-treemapdiagram-3datasets/15%203datasettreemap_sandrinemanguy_red.png)
