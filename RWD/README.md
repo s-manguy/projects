@@ -12,7 +12,7 @@ This directory contains Responsive Web Design Project.
 2021-2021 : freeCodeCamp **Data Visualization** Certification  
 2021-2021 : freeCodeCamp **Front-end Libraries** Certification  
 2021-2021 : freeCodeCamp **JavaScript algorythms and Data Structures** Certification  
-2021-2021 : freeCodeCamp RWD Certification  
+2021-2021 : freeCodeCamp **RWD** Certification  
 2020-2020 : OpenCLassrooms **UX Designer** Certification, level I - 7 (Bac+5)  
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4)  
 2020-2020 : OpenClassooms **web developper** Certifications, level III - 5 (Bac+2)  
