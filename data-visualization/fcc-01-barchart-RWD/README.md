@@ -33,3 +33,8 @@ Once you're done, submit the URL to your working project with all its tests pass
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/gOmgdyj) realised on 2021/05/21 to obtain the certification. 
 **HAVE A LOOK TO THE RWD VERSION [codepen](https://codepen.io/s-manguy/full/qBmKJBo) CORRESPONDING TO THE BELOW CODE created on 2021/08/02.**
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_mobile2_sandrinemanguy_red.png)   
+![ipad screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_ipad_sandrinemanguy_red.png)  
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_desktop_sandrinemanguy_red.png
+)
