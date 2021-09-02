@@ -37,3 +37,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised 
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/KKapbzd) realised on 2021/03/24.
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-05-portfolio/05%20portfolio_mobile_sandrinemanguy.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-05-portfolio/05%20portfolio_desktop_sandrinemanguy_red.png)
