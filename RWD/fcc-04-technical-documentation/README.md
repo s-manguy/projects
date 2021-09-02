@@ -38,3 +38,6 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised 
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/bGBjwvx) realised on 2021/03/10.
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-04-technical-documentation/03%20technicaldocumentation_mobile_sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-04-technical-documentation/03%20technicaldocumentation_desktop_sandrinemanguy_red.png)
