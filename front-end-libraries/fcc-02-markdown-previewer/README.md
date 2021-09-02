@@ -29,3 +29,7 @@ You can build your project by using this CodePen template and clicking Save to c
 ## Result
 
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNRmrdZ) realised with **React.js, Bootstrap, marked and Dompurify** on 2021/04/26.
+
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-02-markdown-previewer/07%20makdownpreviewer_mobile_sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-02-markdown-previewer/07%20makdownpreviewer_desktop_sandrinemanguy_red.png)
