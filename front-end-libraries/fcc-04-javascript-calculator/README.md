@@ -51,3 +51,5 @@ You can build your project by using this CodePen template and clicking Save to c
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/qBrWgMJ) **realised in React.js and SCSS** on 2021/05/05.
+
+![app realized by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-04-javascript-calculator/09%20javascriptcalculator._sandrinemanguy_red.png)
