@@ -28,3 +28,7 @@ You can build your project by using this CodePen template and clicking Save to c
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/JjEQYVN) **second version realised in HTML, SCSS and plain JavaScript** on 2021/04/30.
+
+
+
+![app screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-03-drum-machine-version-01-react/07%20drummachine.png)
