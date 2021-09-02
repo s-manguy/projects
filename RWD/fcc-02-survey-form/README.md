@@ -45,3 +45,7 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised 
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/NWbgNYP) realised on 2021/02/18  to see the result.
+
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-02-survey-form/02%20surveyform_mobile._sandrinemanguy_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/RWD/fcc-02-survey-form/02%20surveyform_desktop_sandrinemanguy_red.png)
