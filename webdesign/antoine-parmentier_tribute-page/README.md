@@ -1,4 +1,4 @@
-# Realise the Antoine Parmentier Tribute page on figma  
+# Realize the Antoine Parmentier Tribute page on figma  
 
 ## Objective:
 Build a Tribute Page that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
@@ -53,11 +53,11 @@ Build a Tribute Page that is functionally similar to this: https://codepen.io/fr
 * Tribute page (desktop B version)
 * Style Guide (mobile version)
 
-![Wireframe - mobile]()
-![Tribute page - mobile]()
-![Tribute page - tablet]()
-![Tribute page - desktop version B]()
-![Style Guide - mobile]()
+![Wireframe - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Wireframe.png)
+![Tribute page - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/mobile.png)
+![Tribute page - tablet](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/ipad.png)
+![Tribute page - desktop version B](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Desktop%20-%20version%202.png)
+![Style Guide - mobile](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png)
 
 
 ## Links to various tutorials and courses which were useful to realize this project:
