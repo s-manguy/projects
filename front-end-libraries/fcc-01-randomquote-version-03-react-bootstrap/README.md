@@ -36,3 +36,7 @@ Note: Twitter does not allow links to be loaded in an iframe. Try using the targ
 
 ## Result
 Have a look at the [codepen](https://codepen.io/s-manguy/full/YzNRXRg) realised in ***React.js, Bootstrap and Axios*** on 2021/04/21.
+
+
+![mobile screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery/06%20randomquote_mobile_sandrine_red.png)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery/06%20randomquote_desktop_sandrinemanguy_red.png)
