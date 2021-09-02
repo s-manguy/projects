@@ -36,5 +36,4 @@ Have a look at the [codepen](https://codepen.io/s-manguy/full/gOmgdyj) realised 
 
 ![mobile screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_mobile2_sandrinemanguy_red.png)
 ![ipad screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_ipad_sandrinemanguy_red.png)
-![desktop screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_desktop_sandrinemanguy_red.png
-)
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/data-visualization/fcc-01-barchart-RWD/11%20barchart_desktop_sandrinemanguy_red.png)
