@@ -42,7 +42,7 @@ The pictures were downloaded from [github](https://github.com/Adarshshanbhag5/Su
 ### A more realistic [desktop version Prototype](https://www.figma.com/proto/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2) 
 1. Create the About us page and the Contact page to have the possibility to more realistic prototype.
 2. Create header and footer overlays to represente the different states of various elements.
-3. Add all the interactions and play the prototype.
+3. Add interactions and play the prototype (added interactions : logotype, navlink, contact button as examples).
 
 ### Add [accessibility notes](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=0%3A1) to the mockup
 1. Indicate the Home page skeleton/architecture.
@@ -66,6 +66,8 @@ The pictures were downloaded from [github](https://github.com/Adarshshanbhag5/Su
 * [Accessibility notes on the desktop version mockup](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=0%3A1)
 * [Desktop version prototype](https://www.figma.com/proto/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2)
 * [Mobile version prototype](https://www.figma.com/proto/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=51%3A34&scaling=scale-down&page-id=35%3A2&starting-point-node-id=51%3A34)
+* [Another Desktop version prototype](https://www.figma.com/proto/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=108%3A1544&scaling=min-zoom&page-id=108%3A510&starting-point-node-id=108%3A1544)
+* [Another Mobile version prototype](https://www.figma.com/proto/KorWlWLjfqqE1BqGaStgOP/Sunnyside-Figma-from-crach-course?node-id=108%3A2172&scaling=scale-down&page-id=108%3A1953&starting-point-node-id=108%3A2172)
 
 
 ## Captures & exports:
@@ -74,10 +76,10 @@ The pictures were downloaded from [github](https://github.com/Adarshshanbhag5/Su
 * Accessibility notes
 * Improved pictures
 
-![Desktop Home page]()
-![Style Guide]())
-![Accessibility notes]()
-![Improved pictures]()
+![Desktop Home page](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Desktop%20LandingPage%20result.png)  
+![Style Guide](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Mobile%20LandingPage%20result.png)  
+![Accessibility notes](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png)  
+![Improved pictures](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_pictures_ms.png)  
 
 
 ## Links to various tutorials and courses which were useful to realize this project:
@@ -87,4 +89,4 @@ The pictures were downloaded from [github](https://github.com/Adarshshanbhag5/Su
 * The Laurène Castor's course : [Composez des interfaces utilisateurs en Material Design](https://openclassrooms.com/fr/courses/3936801-composez-des-interfaces-utilisateurs-en-material-design).
 * The Joseph Cavé's course : [Initiez-vous à la méthode Atomic Design](https://openclassrooms.com/fr/courses/5249021-initiez-vous-a-la-methode-atomic-design).
 * The Liv Danthon Lefebvre's course : [Appliquez la psychologie au Design](https://openclassrooms.com/fr/courses/5248811-appliquez-la-psychologie-au-design).
-* TheThomas Dinnet & Lisa Liskovoi's course : [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible).
+* The Thomas Dinnet & Lisa Liskovoi's course : [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible).
