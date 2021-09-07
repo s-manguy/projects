@@ -1,0 +1,45 @@
+.highScoreInput {
+    font-size: 1.2em;
+    width: calc(100% - 0.4em);
+    margin: 0.2em;
+  }
+  .highScoreInput input {
+    display: block;
+    width: 100%;
+    font-size: 1.4em;
+    margin-bottom: 0.2em;
+    font-family: Menlo, Monaco, Consolas, Inconsolata, 'Courier New', monospace;
+    box-sizing: border-box;
+  }
+
+  .highScoreInput button  {
+    width: 100%;
+    margin: auto;
+    margin-top: 0.2em;
+    font-size: 1.8em;
+    background-color: orange;
+    border: none;
+    box-shadow: #757575 0.05em 0.05em 0.2em;
+    transition-property: background-color,box-shadow,color,border;
+    -o-transition-property: background-color,box-shadow,color,border;
+    -moz-transition-property: background-color,box-shadow,color,border;
+    transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    -moz-transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+  }
+
+  .highScoreInput button:hover {
+    background-color: #555;
+    box-shadow: #757575 0.1em 0.1em 0.4em;
+    color: white;
+  }
+
+  .highScoreInput button:focus {
+    background-color: white;
+    box-shadow: none;
+    color: orangered;
+    border: solid orangered 0.05em;
+  }
