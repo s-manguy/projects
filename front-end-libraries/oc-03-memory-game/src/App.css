@@ -1,0 +1,39 @@
+.memory {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: auto;
+    user-select: none;
+  }
+
+  .memory button {
+    font-size: 1.8em;
+    width: calc(70% - 0.4em);
+    padding: 0.4em;
+    margin: 0.4em auto 0.4em auto;
+    background-color: silver;
+    border: none;
+    box-shadow: #757575 0.05em 0.05em 0.2em;
+    transition-property: background-color,box-shadow,color,border;
+    -o-transition-property: background-color,box-shadow,color,border;
+    -moz-transition-property: background-color,box-shadow,color,border;
+    transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    -moz-transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+  }
+
+  .memory button:hover {
+    background-color: #555;
+    box-shadow: #757575 0.1em 0.1em 0.4em;
+    color: white;
+  }
+
+  .memory button:focus {
+    background-color: white;
+    box-shadow: none;
+    color: #757575;
+    border: solid #757575 0.05em;
+  }
