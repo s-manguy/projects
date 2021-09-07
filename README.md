@@ -3,6 +3,14 @@
 # projects/projets
 contains all my studies projects / contient mes projets d'études.
 
+
+## UX-UI
+### [Webdesign](https://github.com/s-manguy/projects/tree/main/webdesign)
+1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)
+2. [Landing Page (...) of the Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)
+
+And the below Front-End and Back-End projects !
+
 ## Front-End
 
 ### [Responsive Web Design](https://github.com/s-manguy/projects/tree/main/RWD)
@@ -59,11 +67,3 @@ contains all my studies projects / contient mes projets d'études.
 1. Exercise Tracker 
 1. File Metadata Microservice  
 [Certification]()
-
-
-## UX-UI
-### [Webdesign](https://github.com/s-manguy/projects/tree/main/webdesign)
-1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)
-2. [Landing Page (...) of the Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)
-
-And the above Front-End and Back-End projects !
