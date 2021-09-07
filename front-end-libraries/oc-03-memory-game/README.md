@@ -16,10 +16,17 @@ This  project is based on the Christophe Porteneuve 's "**Réalisez une applicat
 * Added a button "NEW GAME" to refresh the app after the game is over.
 * Added a thead to the winners list table.
 * Modify the text from Franch to English language.
-* Worked on the design (colors, sizes, transitions...).
+* Worked on the design (colors, sizes, transitions, :hover and :focus states...).
 
 ## Screenshots
-![memory game screenshots]()
+![memory game screenshots](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-03-memory-game/C-memory.png)  
+The steps are :
+* Click on the cards to find and match the eighteen pairs.
+* Control how many pairs you guessed on the top right corner.
+* When you win, enter your nickname and click on the "I WON !" button to save the result in the local browser.
+* The Hall of Fame table appears. You can check your results (from the last time you deleted the browser history).
+* Click on the "NEW GAME" button to refresh the app and start a new game.
+* Remark: you can re-start a new game any time.
 
 
 ## How to run the project
