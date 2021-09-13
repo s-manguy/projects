@@ -4,7 +4,7 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
 ## Instructions
 ### An e-shop website prototype / un prototype de site internet de boutique en ligne
 * Understand React.js
-* Create a React app sithy Create React App
+* Create a React desktop app with Create React App
 * Use states and effects with UseState & UseEffect
 
 ### Utils/Outils
@@ -43,7 +43,9 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
   * added aria-labels and <title>  
   * ...
 * webdesign :  
-  * improved th desktop layout  
+  * improved the desktop layout: colors, buttons, info colors and position on photo...  
+  * added "add to cart", "remove one item" & "remove item" icon in the cart
+  * changed the "open cart" and "add to cart" icons position
   * designed the mobile and tablet layouts   
   * transitions/animations   
   * ...
