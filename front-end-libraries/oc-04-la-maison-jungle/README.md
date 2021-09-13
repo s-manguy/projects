@@ -49,7 +49,7 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
   * ...
 ## Result & Certification
 * View the project / Voir le projet.
- ![La-maison-jungle-screenshots]()
+ ![La-maison-jungle-screenshots](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-04-la-maison-jungle/screenshots-sandrinemanguy.png)
 * [View the Certification / Voir le certificat de réussite](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-reactjs-cra-4031862868.pdf).
 
 
