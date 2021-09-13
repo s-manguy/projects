@@ -1,3 +1,65 @@
+# La maison jungle - a Create React App website
+Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** for **OpenClassrooms**.
+
+## Instructions
+### An e-shop website prototype / un prototype de site internet de boutique en ligne
+* Understand React.js
+* Create a React app sithy Create React App
+* Use states and effects with UseState & UseEffect
+
+### Utils/Outils
+* HTML, CSS
+* JavaScript, ES06
+* React.js & Create React App
+* npm
+* Terminal
+* git
+
+### Links/liens
+* OpenClassrooms course / cours OpenClassrooms : [Débutez avec React](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react)
+
+## What I have improved
+* checked and removed bugs on the given code
+* added features :
+  *  best sale icon    
+  *  on sales icon  
+  *  alert when an article is added to the cart from teh Shopping list  
+  *  add 1 item to an article which is already in the cart  
+  *  alert when 1 item is added directly from the cart  
+  *  remove 1 item from an article which is already in the cart   
+  *  alert when 1 item is removed directly from the cart   
+  *  confirm that the article must be removed from the cart when the only one item is removed  
+  *  alert when 1 item is removed directly from the cart   
+  *  delete 1 article from the cart  
+  *  confirm that the article must be removed from the cart  
+  *  alert when 1 item is deleted directly from the cart   
+* modified the index.html file : meta, title, links to fonts  
+* accessibility :  
+  * modified the colors of the projects to match the WCAG contrast level rules  
+  * replaced div by aside, ul, li, label... for accessibility reasons  
+  * added attributs to the input : type, id, placeholder, size, required  
+  * used google font icons for buttons and navigation  
+  * modified button text  
+  * added aria-labels and <title>  
+  * ...
+* webdesign :  
+  * improved th desktop layout  
+  * designed the mobile and tablet layouts   
+  * transitions/animations   
+  * ...
+## Result & Certification
+* [View the project / Voir le projet]().
+* [View the Certification / Voir le certificat de réussite](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-bootstrap-4-5100297731.pdf).
+
+
+
+
+
+
+
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
