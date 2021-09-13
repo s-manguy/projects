@@ -5,6 +5,7 @@ This directory contains Front-end libraries Project.
 1. **Take app - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/OJmjXqm).
 2. **Info School - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
 3. **Memory game**, an OpenClassrooms project.
+4. **La maison jungle**, an OpenClassrooms project.
 
 ### freeCodeCamp projetcs
 1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
