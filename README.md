@@ -32,8 +32,8 @@ And the below Front-End and Back-End projects !
 ### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
-2. [info school](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), a multi-page website, an OpenClassrooms project
-3. [La maison jungle](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), a webshop, an OpenClassrooms project  
+2. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
+3. [La maison jungle, a webshop website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 
 #### Applications  
 1. Random Quote machine, a fCC project:
