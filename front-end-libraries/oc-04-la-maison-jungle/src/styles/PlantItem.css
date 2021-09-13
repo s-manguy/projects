@@ -1,0 +1,51 @@
+.lmj-plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+
+.lmj-plant-item {
+	position: relative; /*added to make the "soldes label appears on */
+	margin: 1rem;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: uppercase;
+	font-size: 0.9rem;
+}
+
+.lmj-plant-item-price {
+	position: absolute;
+	border-radius: 20px 20px 20px 0;
+	background-color: #2ead6e;
+	color: white;
+	padding: 15px;
+	right: 0;
+	top: 0;
+	font-weight: 500;
+	font-size: 1.3rem;
+}
+
+.lmj-sales {
+	position: absolute;
+	left: 0px;
+	top: 10px;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: #1e7047;
+} 
+/* modified to put on the opposite corner */
+
+.lmj-bestSales {
+	position: absolute;
+	left: 0px;
+	top: 175px;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: #e26505;
+} 
+

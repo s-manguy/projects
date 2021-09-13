@@ -1,0 +1,56 @@
+.lmj-shopping-list {
+	width: auto;
+}
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;
+}
+
+@media screen and (max-width: 1199px)  {
+	.lmj-plant-list {
+		justify-content: center;
+		max-width:max-content;
+	}
+}
+
+.lmj-cart-add-button {
+	padding: 0.5rem;
+	border: none;
+	border-radius: 5px;
+	/* margin: -2rem 0rem 1rem 9rem;*/ /*button icon + text */
+	margin: -2rem 0rem 1rem 12.3rem; /*button icon only */
+	cursor: pointer;
+	background-color: #e26505; 
+	box-shadow: grey 0.2rem 0.2rem 0.2rem;
+	color: white;
+	font-size: 0.8rem;
+	text-transform: uppercase;
+	transition-property: transform;
+	transition-duration: 400ms;
+	transition-timing-function: ease-in-out;
+}
+
+.lmj-cart-add-button:hover {
+	transform: scale(150%);
+}
+
+.lmj-cart-add-button:focus {
+	background-color: #1e7047; 
+	box-shadow: none;
+}
+
+@media screen and (max-width: 959px)  {
+	.lmj-cart-add-button {
+		transform: scale(150%);
+		margin-left: 11.7rem;
+		box-shadow: grey 0.2rem 0.2rem 0.2rem;
+	}
+
+	.lmj-cart-add-button:hover {
+		transform: scale(200%);
+	}
+}

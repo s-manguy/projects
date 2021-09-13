@@ -1,0 +1,166 @@
+/* When cart is open */
+.lmj-cart {
+	color: white;
+	background-color: #2ead6e;
+	padding: 18px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	width: 360px;
+	font-size: 1.1rem;
+}
+
+@media screen and (max-width: 1199px)  {
+	.lmj-cart {
+		display: grid;
+		width: auto;
+		font-size: 1rem;
+		margin: none;
+		padding: none;
+		box-shadow: grey 0.2rem 0.2rem 0.2rem;
+	/* To see the cart in the place where the button is clicked ! */
+		z-index: 150;
+		position: sticky;
+		position: -webkit-sticky;
+		top: 1rem;
+		right: 0;
+	}
+}
+
+.lmj-cart-toggle-button {
+	background: none;
+	outline: none;
+	border: none;
+	font-weight: 600;
+	cursor: pointer;
+	padding: 0;
+	color: white;
+	align-self: flex-end;
+}
+
+@media screen and (max-width:1199px)  {
+	.lmj-cart-toggle-button {
+		justify-self: flex-end;  /* with grid */
+	}
+}
+
+.lmj-cart-item {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: -45px;
+	padding: 0.3rem;
+	text-transform: uppercase;
+}
+
+.lmj-cart-item-button-box {
+	margin-left: 1rem;
+}
+
+.lmj-cart-item-button {
+	transition: color 600ms ease-in-out;
+}
+
+.lmj-cart-item-button:hover {
+	color:#c43c00;	
+}
+
+.lmj-cart-item-button-add:hover {
+	color: #e26505 ;
+}
+
+.lmj-cart-remove-button {
+	color: white;
+	background-color: #2ead6e ; /* previous color: #31b572 */
+	width: auto;
+	padding: 10px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	text-align: end;
+	font-size: 1rem;
+	border: solid 2px white;
+	border-radius: 5px;
+	align-self: flex-end;
+}
+
+.lmj-cart-remove-button:hover {
+	background-color: #c43c00 ;
+}
+
+@media screen and (max-width: 1200px) {
+	.lmj-cart-item {
+		font-size: 0.9rem;
+	}
+
+	.lmj-cart-item-button-box {
+		align-self: flex-end;
+	}
+	
+	.lmj-cart-item-button {
+		padding: 4px;
+	}
+}
+
+/* When cart is closed */
+.lmj-cart-closed {
+	padding: 32px;
+	width: 330px;
+	display: grid;
+	justify-items: self-end;
+	align-self: self-start;
+	position: sticky;
+	position: -webkit-sticky;
+	top:20px;
+	left: 20px;
+}
+
+.lmj-cart-closed > button {
+	color: white;
+	background-color:#2ead6e;
+	width: auto;
+	padding: 1rem;
+	margin: 0;
+	margin-right: -16px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	font-size: 1rem; 
+	transition-property: background-color, box-shadow, transform;
+	transition-duration: 1000ms;
+	transition-timing-function: ease-in-out;
+}
+
+.lmj-cart-closed > button:hover {
+	background-color: #1E7047;
+	transform: translateX(-50px) scale(115%);
+}
+
+.lmj-cart-closed > button:focus {
+	background-color: #e26505;
+	box-shadow: none;
+}
+
+@media screen and (max-width: 1200px)  {
+	.lmj-cart-closed {
+		justify-content: flex-end;
+		width: 100%;
+		z-index: 100;	
+		margin: none;
+		margin-left: 95px;
+		padding: none;
+		padding-top: 1.6rem;
+		position: sticky;
+		position: -webkit-sticky;
+		top: 1.6rem;
+		right: 1.6rem;
+	}
+
+	.lmj-cart-closed > button {
+		box-shadow: grey 0.2rem 0.2rem 0.2rem;
+		align-self: flex-end;
+	}
+
+	.lmj-cart-closed > button:hover {
+		transform: translateX(-140px);
+	}
+}

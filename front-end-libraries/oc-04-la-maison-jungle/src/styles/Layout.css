@@ -1,0 +1,12 @@
+.lmj-layout-inner {
+	display: flex;
+	flex-direction: row;
+}
+
+@media screen and (max-width: 1199px)  {
+	.lmj-layout-inner {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+}

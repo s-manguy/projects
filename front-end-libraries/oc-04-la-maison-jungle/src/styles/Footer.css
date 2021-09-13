@@ -1,0 +1,36 @@
+.lmj-footer {
+	color: #0c2e1d;
+	padding: 32px;
+	border-top: solid 3px #0c2e1d;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 700;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.lmj-footer-elem {
+	margin-bottom: 10px;
+	font-weight: 500;
+}
+
+@media screen and (max-width: 959px)  {
+	.lmj-footer-elem {
+		display: block;
+		justify-content: center;
+		margin-bottom: 5px;
+	}
+}
+
+.lmj-footer-elem-input{
+	margin-left: 5px;
+}
+
+@media screen and (max-width: 959px)  {
+	.lmj-footer-elem-input {
+		width: 230px;
+		min-height: 48px;
+	}
+}
