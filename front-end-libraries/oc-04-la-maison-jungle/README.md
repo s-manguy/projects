@@ -48,8 +48,9 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
   * transitions/animations   
   * ...
 ## Result & Certification
-* [View the project / Voir le projet]().
-* [View the Certification / Voir le certificat de réussite](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-bootstrap-4-5100297731.pdf).
+* View the project / Voir le projet.
+ ![La-maison-jungle-screenshots]()
+* [View the Certification / Voir le certificat de réussite](https://github.com/s-manguy/diploma/blob/main/FRONT-END/Certificate-reactjs-cra-4031862868.pdf).
 
 
 
