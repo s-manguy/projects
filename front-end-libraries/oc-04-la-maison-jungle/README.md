@@ -1,7 +1,7 @@
 # La maison jungle - a Create React App website
-Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** for **OpenClassrooms**.
+Wesbite project based on the *Débutez avec React* course written by **Alexia Toulmet** for **OpenClassrooms**.
 
-## Instructions
+## Objectives
 ### An e-shop website prototype / un prototype de site internet de boutique en ligne
 * Understand React.js
 * Create a React desktop app with Create React App
@@ -18,37 +18,46 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
 ### Links/liens
 * OpenClassrooms course / cours OpenClassrooms : [Débutez avec React](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react)
 
-## What I have improved
-* checked and removed bugs on the given code
-* added features :
-  *  best sale icon    
-  *  on sales icon  
-  *  alert when an article is added to the cart from teh Shopping list  
-  *  add 1 item to an article which is already in the cart  
-  *  alert when 1 item is added directly from the cart  
-  *  remove 1 item from an article which is already in the cart   
-  *  alert when 1 item is removed directly from the cart   
-  *  confirm that the article must be removed from the cart when the only one item is removed  
-  *  alert when 1 item is removed directly from the cart   
-  *  delete 1 article from the cart  
-  *  confirm that the article must be removed from the cart  
-  *  alert when 1 item is deleted directly from the cart   
+## Far beyond the objectives: the improvements I did
+### Code basis
+* checked and removed bugs on the given code  
 * modified the index.html file : meta, title, links to fonts  
-* accessibility :  
-  * modified the colors of the projects to match the WCAG contrast level rules  
+
+### Added features
+*  best sale icon inline text
+*  best sale information on photo   
+*  on sales information on photo   
+*  alert when an article is added to the cart from teh Shopping list  
+*  add 1 item to an article which is already in the cart  
+*  alert when 1 item is added directly from the cart  
+*  remove 1 item from an article which is already in the cart   
+*  alert when 1 item is removed directly from the cart   
+*  confirm that the article must be removed from the cart when the only one item is removed  
+*  alert when 1 item is removed directly from the cart   
+*  delete 1 article from the cart  
+*  confirm that the article must be removed from the cart  
+*  alert when 1 item is deleted directly from the cart   
+ 
+### Accessibility :  
+  * modified the main color of the project to match the WCAG contrast level rules 
+  * added a dark main color and a vivid contrast to be used on call to action buttons  
   * replaced div by aside, ul, li, label... for accessibility reasons  
   * added attributs to the input : type, id, placeholder, size, required  
   * used google font icons for buttons and navigation  
   * modified button text  
-  * added aria-labels and <title>  
+  * added aria-labels and <title> 
+  * added button tab animation to emphasize de User experience
   * ...
-* webdesign :  
-  * improved the desktop layout: colors, buttons, info colors and position on photo...  
+ 
+### Webdesign :  
+  * improved the desktop layout: colors (replaced black by deep dark green), buttons, info colors and position on photo...  
   * added "add to cart", "remove one item" & "remove item" icon in the cart
   * changed the "open cart" and "add to cart" icons position
   * designed the mobile and tablet layouts   
   * transitions/animations   
   * ...
+ 
+ 
 ## Result & Certification
 * View the project / Voir le projet.
  ![La-maison-jungle-screenshots](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-04-la-maison-jungle/screenshots-sandrinemanguy.png)
@@ -63,7 +72,7 @@ Wesbite based on the *Débutez avec React* course written by **Alexia Toulmet** 
 
 
 
-## Getting Started with Create React App
+## Getting Started with Create React App (original README from CRA)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
