@@ -140,8 +140,67 @@
 	box-shadow: none;
 }
 
+@keyframes initButtonTabAnimationBox {
+	0% {
+		margin-left: 95px;
+	}
+
+	20% {
+		margin-left: -200px;
+	}
+
+	60% {
+		margin-left: -200px;
+	}
+
+	72% {
+		margin-left: 95px
+	}
+
+	80% {
+		margin-left: 95px
+	}
+
+	90% {
+		margin-left: 75px
+	}
+
+	100% {
+		margin-left: 95px;
+	}
+
+}
+
+@keyframes initButtonTabAnimationButton {
+	0% {
+		background-color:#2ead6e;
+	}
+
+	5% {
+		background-color:#1E7047;
+	}
+
+	65% {
+		background-color:#1E7047;
+	}
+
+	72% {
+		background-color:#2ead6e;
+	}
+
+	95% {
+		background-color:#1E7047;
+	}
+
+	100% {
+		background-color:#2ead6e;
+	}
+}
+
+
 @media screen and (max-width: 1200px)  {
 	.lmj-cart-closed {
+		animation: initButtonTabAnimationBox 3s 500ms  linear forwards;
 		justify-content: flex-end;
 		width: 100%;
 		z-index: 100;	
@@ -156,6 +215,7 @@
 	}
 
 	.lmj-cart-closed > button {
+		animation: initButtonTabAnimationButton 3s 500ms  linear forwards;
 		box-shadow: grey 0.2rem 0.2rem 0.2rem;
 		align-self: flex-end;
 	}
