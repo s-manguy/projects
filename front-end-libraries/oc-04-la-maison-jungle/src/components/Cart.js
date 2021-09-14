@@ -3,7 +3,7 @@ import '../styles/Cart.css'
 
 const Cart = ({ cart, updateCart/*}, activeCategory, setActiveCategory */}) => {
     // activeCategory & setActiveCategory have been put in this component in order to have the possibility to display an alert each time the category is changed
-    const [isOpen, setIsOpen] = useState(true)
+    const [isOpen, setIsOpen] = useState(false)
     const total = cart.reduce(
             (acc, plantType) => acc + plantType.amount * plantType.price,
             0
