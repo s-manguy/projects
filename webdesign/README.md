@@ -1,4 +1,4 @@
-# Webdesign
+# Webdesign - UXdesign
 This directory contains webdesign Project.
 ## Webdesign projects
 1. **[Tribute Page : Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project. 
