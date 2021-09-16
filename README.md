@@ -6,10 +6,10 @@ contains all my studies projects / contient mes projets d'études.
 
 ## UX-UI
 ### [Webdesign](https://github.com/s-manguy/projects/tree/main/webdesign)
-1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)
-2. [Landing Page (...) of the Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)
-3. [Travel Agency website for Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)
-4. [Puppies to adopt website for Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)
+1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page), a fCC project.
+2. [Landing Page (...) of the Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page), a fCC project.
+3. [Travel Agency website for Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website), an Openclassrooms project.
+4. [Puppies to adopt website for Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website), an Openclassrooms project.
 
 And the below Front-End and Back-End projects !
 
