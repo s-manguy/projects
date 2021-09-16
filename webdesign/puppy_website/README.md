@@ -1,4 +1,4 @@
-# Realize a mobile app mick-up for a dogs haven with AdobeXD
+# Realize a mobile app mock-up for a dogs haven with AdobeXD
 This project is the [activity](https://openclassrooms.com/fr/courses/3014016-realisez-la-maquette-d-une-application-mobile-avec-adobe-xd/6732391-entrainez-vous-sur-la-maquette-puppy) of the Laurène Castor's course [Réalisez la maquette d'une application mobile avec AdobeXD](https://openclassrooms.com/fr/courses/3014016-realisez-la-maquette-d-une-application-mobile-avec-adobe-xd) published on the OpenClassrooms platform.
 
 ## Objectives:
@@ -21,7 +21,7 @@ This project is the [activity](https://openclassrooms.com/fr/courses/3014016-rea
 *  ...
 
 ## Screenshot:
-![Puppy website mock-up screenshot]()
+![Puppy website mock-up screenshot](https://github.com/s-manguy/projects/blob/main/webdesign/puppy_website/puppy-sandrinemanguy-screenshot.png)
 
 ## Link to the prototype:
 View [the Puppy website mock-up prototype](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
