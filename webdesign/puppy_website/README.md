@@ -9,7 +9,7 @@ This project is the [activity](https://openclassrooms.com/fr/courses/3014016-rea
 *  Control the navigation path.
 *  Share your work.
 
-## Beyond the obejctives - What I did:
+## Beyond the objectives - What I did:
 *  created components,
 *  created text styles,
 *  created color styles,
