@@ -25,3 +25,17 @@ This project is the [activity](https://openclassrooms.com/fr/courses/3014016-rea
 
 ## Link to the prototype:
 View [the Puppy website mock-up prototype](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
+
+## Credits:
+### mock-up basis:
+*  [Laurène Castor](https://laurenecastor.com/)
+
+### photos from [Pexel](https://www.pexels.com):
+*  Ellen de Ruiter from Pexels
+*  Helena Lopes from Pexels
+*  Archibald Marajas from Pexels
+*  Lucas Andrade from Pexels
+*  Migs Reyes from Pexels
+*  Dominika Roseclay from Pexels
+*  Sart Face from Pexels
+*  Sam Lion from Pexels
