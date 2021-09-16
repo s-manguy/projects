@@ -4,7 +4,7 @@ This directory contains webdesign Project.
 1. **[Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project. 
 2. **[Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV). 
 3. **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project.
-4. **Puppies to adopt website: Puppy**, an OpenClassrooms project.
+4. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project.
 
 
 ## Diploma & Certifications 
