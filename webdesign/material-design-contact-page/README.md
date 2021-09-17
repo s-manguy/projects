@@ -35,4 +35,4 @@ This project is proposed by Laurène Castor in her course [Composez des interfac
 * Background: added a white background.  
 
 ## Screenshot:
-![material design - contact page - sandrinemanguy]()
+![material design - contact page - sandrinemanguy](https://github.com/s-manguy/projects/blob/main/webdesign/material-design-contact-page/Material%20design%20_%20Mes%20contacts.jpg)
