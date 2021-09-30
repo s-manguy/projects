@@ -1,11 +1,11 @@
 # Responsive Web Design
 This directory contains Responsive Web Design Project.
 ## RWD projects
-1. **Tribute Page**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR)
-2. **Survey Form**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWbgNYP)
-3. **Landing Page**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/BaQGKmx)
-4. **Technical documentation**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx)
-5. **Portfolio**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd)
+1. [**Tribute Page**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PobmXOR)
+2. [**Survey Form**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-02-survey-form), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWbgNYP)
+3. [**Landing Page**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/BaQGKmx)
+4. [**Technical documentation**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx)
+5. [**Portfolio**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd)
 
 
 ## Diploma & Certifications
