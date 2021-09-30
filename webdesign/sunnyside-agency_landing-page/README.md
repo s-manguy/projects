@@ -72,6 +72,7 @@ The pictures were downloaded from [github](https://github.com/Adarshshanbhag5/Su
 
 ## Captures & exports:
 * Desktop Home page
+* Mobile Home page
 * Style Guide (mobile version)
 * Accessibility notes
 * Improved pictures
