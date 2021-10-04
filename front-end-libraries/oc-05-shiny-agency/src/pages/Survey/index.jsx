@@ -92,44 +92,13 @@ const Survey = () => {
   const prevQuestionNumber =
     currentQuestionNumber === 1 ? 1 : currentQuestionNumber - 1
   const nextQuestionNumber = currentQuestionNumber + 1
-  //const [surveyData, setSurveyData] = useState({})
-  // const [isDataLoading, setDataLoading] = useState(false)
   const { answers, saveAnswers } = useContext(SurveyContext)
-  //const [error, setError] = useState(false)
   const { data, isLoading, error } = useFetch(`http://localhost:8000/survey`)
   const { surveyData } = data
-
-  // useEffect(() => {
-  //   setDataLoading(true)
-  //   fetch(`http://localhost:8000/survey`)
-  //     .then((response) => response.json())
-  //     .then(({ surveyData }) => {
-  //       setSurveyData(surveyData)
-  //       setDataLoading(false)
-  //     })
-  //  }, [])
 
   const saveReply = (answer) => {
     saveAnswers({ [questionNumber]: answer })
   }
-
-  // NO MORE USE DUE TO useFetch()
-  //  useEffect(() => {
-  //   async function fetchSurvey() {
-  //     setDataLoading(true)
-  //     try {
-  //       const response = await fetch(`http://localhost:8000/survey`)
-  //       const { surveyData } = await response.json()
-  //       setSurveyData(surveyData)
-  //     } catch (err) {
-  //       console.log(err)
-  //       setError(true)
-  //     } finally {
-  //       setDataLoading(false)
-  //     }
-  //   }
-  //   fetchSurvey()
-  // }, [])
 
   if (error) {
     return <span>Oups... Il y a eu un problème.</span>
