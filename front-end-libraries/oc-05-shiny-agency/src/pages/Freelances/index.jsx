@@ -7,23 +7,6 @@ import { Loader } from '../../utils/style/Atoms'
 import { useFetch, useTheme } from '../../utils/hooks'
 import { Link } from 'react-router-dom'
 
-// const freelanceProfiles = [
-//   {
-//     name: 'Jane Doe',
-//     jobTitle: 'Devops',
-//     picture: DefaultPicture,
-//   },
-//   {
-//     name: 'John Doe',
-//     jobTitle: 'Developpeur frontend',
-//     picture: DefaultPicture,
-//   },
-//   {
-//     name: 'Jeanne Biche',
-//     jobTitle: 'Développeuse Fullstack',
-//     picture: DefaultPicture,
-//   },
-// ]
 
 const MainWrapper = styled.main`
   display: flex;
@@ -66,30 +49,10 @@ const CardsContainer = styled.div`
 
 const Freelances = () => {
   const { theme } = useTheme()
-  // const [isDataLoading, setDataLoading] = useState(false)
-  // const [error, setError] = useState(false)
-  // const [freelancersList, setFreeLancersList] = useState([])
   const { data, isLoading, error } = useFetch(
     `http://localhost:8000/freelances`
   )
   const freelancersList = data?.freelancersList
-
-  // useEffect(() => {
-  //   async function fetchFreelances() {
-  //     setDataLoading(true)
-  //     try {
-  //       const response = await fetch(`http://localhost:8000/freelances`)
-  //       const { freelancersList } = await response.json()
-  //       setFreeLancersList(freelancersList)
-  //     } catch (err) {
-  //       console.log('error: ', err)
-  //       setError(true)
-  //     } finally {
-  //       setDataLoading(false)
-  //     }
-  //   }
-  //   fetchFreelances()
-  // }, [])
 
   if (error) {
     return <span>Oups... Il y a eu un problème.</span>
