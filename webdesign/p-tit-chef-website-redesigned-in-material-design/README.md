@@ -39,5 +39,5 @@ Matérialiser une interface utilisateur déjà existante est l'[activité](https
 ### Voir le résultat :
 * [Lien vers le prototype](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen).
 * Screenshots :  
-![Screenshot du redesign du site P'tit CHEF réalisé par Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/webdesign/p-tit-chef-website-redesigned-in-material-design/Ptit-chef-website-redesigned-by-sandrine-manguy_red.jpg)
+![Screenshot du redesign du site P'tit CHEF réalisé par Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/webdesign/p-tit-chef-website-redesigned-in-material-design/P-tit-chef-website-redesigned-by-sandrine-manguy.jpg)
 ![Screenshot original website UI](https://github.com/s-manguy/projects/blob/main/webdesign/p-tit-chef-website-redesigned-in-material-design/Screenshot%202021-10-04%20at%2011-56-04%20Tartelette%20fondant%20au%20chocolat%20sur%20lit%20de%20p%C3%A2te%20de%20sp%C3%A9culoos%20-%20Recette%20Ptitchef.png)
