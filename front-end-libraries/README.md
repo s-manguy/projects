@@ -6,7 +6,7 @@ This directory contains Front-end libraries Project.
 2. **Info School - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
 3. **Memory game**, an OpenClassrooms project.
 4. **La maison jungle - an online shop website**, an OpenClassrooms project.
-5. **Shiny agency - an SPA website with React Router**, an OpenClassrooms project.
+5. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
 
 ### freeCodeCamp projetcs
 1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
