@@ -1,5 +1,5 @@
 # Matérialiser une interface utilisateur
-Ce projet a permis d'obtenir la certification 
+Ce projet a permis d'obtenir la certification du cours [Composez des interfaces utilisateurs en material design](https://openclassrooms.com/fr/courses/3936801-composez-des-interfaces-utilisateurs-en-material-design) crée par Laurène Castor.
 
 ## Consignes :
 * Baladez-vous sur internet depuis votre ordinateur (ou tablette ou smartphone) et **cherchez un site ou une application qui n'utilise pas le Material Design**. 
@@ -38,4 +38,4 @@ Ce projet a permis d'obtenir la certification
 ### Voir le résultat :
 * [Lien vers le prototype](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen).
 * Screenshot :
-![Screenshot du redesign du site P'tit CHEF réalisé par Sandrine MANGUY]()
+![Screenshot du redesign du site P'tit CHEF réalisé par Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/webdesign/p-tit-chef-website-redesigned-in-material-design/P-tit-chef-website-redesigned-by-sandrine-manguy.jpg)
