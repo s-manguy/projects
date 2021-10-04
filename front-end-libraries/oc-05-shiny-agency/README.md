@@ -27,6 +27,25 @@ This SPA project is based on the [Créez une application React complète](https:
 * an [API](https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire)
 * yarn, git
 
+## Result:
+* link
+* screenshots:  
+![Sunny Agency home coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/home.jpg) 
+![Sunny Agency survey coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/survey.jpg)
+![Sunny Agency survey result coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/result.jpg)  
+![Sunny Agency noneed survey result coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/noneed.jpg)  
+![Sunny Agency freelances list coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/list.jpg)  
+![Sunny Agency freelance coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/item.jpg)  
+![Sunny Agency error404 coded by Sandrine MANGUY](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-05-shiny-agency/screenshots/error404.jpg)  
+
+
+## How to get this Sunny Agency SPA ?
+* Clone this project.
+* Run the yarn start command.
+* Clone the [API](https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire)
+* Run the yarn start command.
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
