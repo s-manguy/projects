@@ -6,6 +6,7 @@ This directory contains webdesign Project.
 3. **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD.
 4. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD.
 5. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD.
+6. **[Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD.
 
 
 ## Diploma & Certifications 
