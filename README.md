@@ -17,7 +17,7 @@ And the below Front-End and Back-End projects !
 
 ## Front-End
 
-### [Responsive Web Design](https://github.com/s-manguy/projects/tree/main/RWD)
+### [Responsive Web Design](https://github.com/s-manguy/projects/tree/main/RWD) in HTML5 & CSS3
 1. [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a fCC project
 1. [Survey Form](https://github.com/s-manguy/projects/tree/main/RWD/fcc-02-survey-form), a fCC project
 1. [Landing Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page), a fCC project
@@ -33,7 +33,7 @@ And the below Front-End and Back-End projects !
 1. [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
-### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
+### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries): Bootstrap, jQuery, React
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 2. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
@@ -56,7 +56,7 @@ And the below Front-End and Back-End projects !
 #### Games
 1. [Memory game](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
 
-### [Data visualization](https://github.com/s-manguy/projects/tree/main/data-visualization)
+### [Data visualization](https://github.com/s-manguy/projects/tree/main/data-visualization) with d3.js
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
 2. [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
 3. [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
