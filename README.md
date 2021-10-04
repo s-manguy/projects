@@ -11,6 +11,7 @@ contains all my studies projects / contient mes projets d'études.
 3. [Travel Agency website for Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website), an Openclassrooms project.
 4. [Puppies to adopt website for Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website), an Openclassrooms project.
 5. [Contact page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page), an OpenClassrooms project realised with AdobeXD.
+6. [Redesigned website in material design: P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design), an OpenClassrooms project realised with AdobeXD.
 
 And the below Front-End and Back-End projects !
 
