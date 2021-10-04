@@ -1,11 +1,11 @@
 # Data visualization
 This directory contains Data visualization Project.
 ## Data visualization projects
-1. **A bar chart**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBmKJBo)
-2. **A scatter plot**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/eYWwdrp)
-3. **A heat map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpEzrW)
-4. **A choropleth map**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/mdmggav)
-5. **A treemap diagram set**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpzLez)
+1. **[A bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBmKJBo)
+2. **[A scatter plot](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/eYWwdrp)
+3. **[A heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpEzrW)
+4. **[A choropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/mdmggav)
+5. **[A treemap diagram set](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNpzLez)
 
 
 ## Diploma & Certifications
