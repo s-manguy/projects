@@ -15,7 +15,7 @@ The code basis has been created by Etienne Deladonchamps.
 4. 'yarn start' in the terminal to run the app in the development mode.
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Screenshot
-
+![app-screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-06-tennis-score-redux/tennis-score-screenshot.png)
 ## Reminder : Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
