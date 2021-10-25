@@ -1,6 +1,12 @@
 # Shiny Agency : Create an SPA with React Router
-This SPA project is based on the [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) course written by Alexia Toulmet for OpenClassrooms.
-*Remark : there are four versions of this project. Have a look on the branches to view the different store state managements !*
+This SPA project is based on the [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) course written by Alexia Toulmet for OpenClassrooms.  
+
+
+*Remark : there are four versions of this project :*
+* *first version : this one.*  
+* *second version: [react, react-router & react-redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux)*    
+* *third version : [react, react-router, react-redux & react-toolkit](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-toolkit)*   
+* *fourth version: [react, react-router, react-redux, react-toolkit & useQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-and-usequery)*
 
 ## Objectives:
 * Create a **Single Page Application** with Create React App and React Router.
