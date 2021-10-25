@@ -7,7 +7,11 @@ This directory contains Front-end libraries Project.
 3. **Memory game**, an OpenClassrooms project.
 4. **La maison jungle - an online shop website**, an OpenClassrooms project.
 5. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
-6. **[Tennis Score App](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux)**, an OpenClassrooms project.
+  * first version : [react & react router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)
+  * second version: [react, react-router & react-redux](https://github.com/s-manguy/projects/tree/react-reactrouter-redux/front-end-libraries/oc-05-shiny-agency)
+  * third version : [react, react-router, react-redux & react-toolkit](https://github.com/s-manguy/projects/tree/redux-toolkit/front-end-libraries/oc-05-shiny-agency)
+  * fourth version: [react, react-router, react-redux, react-toolkit & useQuery](https://github.com/s-manguy/projects/tree/redux-and-usequery/front-end-libraries/oc-05-shiny-agency)
+7. **[Tennis Score App](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux)**, an OpenClassrooms project.
 
 ### freeCodeCamp projetcs
 1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
