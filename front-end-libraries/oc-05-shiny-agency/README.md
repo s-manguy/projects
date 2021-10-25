@@ -1,5 +1,6 @@
 # Shiny Agency : Create an SPA with React Router
 This SPA project is based on the [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) course written by Alexia Toulmet for OpenClassrooms.
+*Remark : there are four versions of this project. Have a look on the branches to view the different store state managements !*
 
 ## Objectives:
 * Create a **Single Page Application** with Create React App and React Router.
