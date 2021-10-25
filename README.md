@@ -33,7 +33,7 @@ And the below Front-End and Back-End projects !
 1. [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
-### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries): Bootstrap, jQuery, React
+### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries): Bootstrap, jQuery, React, Redux
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 2. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
