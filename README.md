@@ -53,10 +53,11 @@ And the below Front-End and Back-End projects !
 4. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
 5. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)
-6. [Tennis Score, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
+
 
 #### Games
 1. [Memory game](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
+2. [Tennis Score, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
 
 ### [Data visualization](https://github.com/s-manguy/projects/tree/main/data-visualization) with d3.js
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
@@ -67,10 +68,11 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)
 
 ## Back-End
-### [API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
+### [Node.js, Express, MongoDb API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
 1. [Timestamp Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
 1. [Request Header Parser Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-02-requestheaderparser), a fCC project.  
 1. URL Shortener Microservice 
 1. Exercise Tracker 
 1. File Metadata Microservice  
 [Certification]()
+### PHP
