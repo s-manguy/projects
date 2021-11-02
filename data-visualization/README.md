@@ -1,5 +1,5 @@
 # Data visualization
-This directory contains Data visualization Project.
+This directory contains Data visualization Projects.
 ## Data visualization projects
 1. **[A bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBmKJBo)
 2. **[A scatter plot](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/eYWwdrp)
