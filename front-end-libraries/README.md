@@ -12,7 +12,7 @@ This directory contains Front-end libraries Project.
     * third version : [react, react-router, react-redux & react-toolkit](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-toolkit)  
     * fourth version: [react, react-router, react-redux, react-toolkit & useQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-and-usequery)  
 7. **[Tennis Score App](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux)**, an OpenClassrooms project.
-8. **Filmo - a movies list app**, an OpenClassroom project
+8. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 ### freeCodeCamp projetcs
 1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
