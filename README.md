@@ -37,7 +37,7 @@ And the below Front-End and Back-End projects !
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 2. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
-3. [La maison jungle, a e-shop website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
+3. [La maison jungle, an e-shop website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 4. [Shiny Agency, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project
 
 #### Applications  
