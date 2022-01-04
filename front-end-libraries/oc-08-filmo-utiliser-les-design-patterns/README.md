@@ -18,7 +18,7 @@ This project has been coded in Vanilla JavaScript, it uses API calls to get the 
 
 
 ## Result
-![desktop screenshot]()
+![desktop screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns/filmo-patterns-screenshot-desktop_600px.png)
 
 
 ## How to get this project ?
