@@ -38,4 +38,4 @@ This project has been coded in Vanilla JavaScript and using design patterns, it 
 ## How to get this project ?
 1. Clone this project
 2. Open it in VSCode
-3. Launch the GoLive plugin
+3. Launch the LiveServer plugin
