@@ -16,7 +16,7 @@ Matérialiser une interface utilisateur déjà existante est l'[activité](https
 ### Raisons du choix :
 * Ensemble plat.
 * Plusieurs points d'intéractions sont traduisibles en Material Design.
-* Il faut scroller longtemps pour trouver l'information rechechée.
+* Il faut scroller longtemps pour trouver l'information recherchée.
 ### Re-design :
 * Utilisation de la couleur du fond du logo pour le Header et la couleur de saillance.
 * Utilisation de la version Dark de la couleur primaire pour la barre système, les liens actifs, les étapes.
