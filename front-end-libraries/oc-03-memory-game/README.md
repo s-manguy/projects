@@ -15,7 +15,7 @@ This  project is based on the Christophe Porteneuve 's "**Réalisez une applicat
 * Fixed card position during the game.
 * Added a button "NEW GAME" to refresh the app after the game is over.
 * Added a thead to the winners list table.
-* Modify the text from Franch to English language.
+* Modify the text from French to English language.
 * Worked on the design (colors, sizes, transitions, :hover and :focus states...).
 
 ## Screenshots
