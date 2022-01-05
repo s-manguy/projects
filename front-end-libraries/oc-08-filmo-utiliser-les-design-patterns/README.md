@@ -11,8 +11,8 @@ This project has been coded in Vanilla JavaScript and using design patterns, it 
 
 
 ### Objectives
-* Understand Pattern designs and OOP.
-* Use the Creational Design Patterns: Construstor, Factory and Singleton patterns.
+* Understand design patterns and object-oriented programing.
+* Use the Creational Design Patterns: Constructor, Factory and Singleton patterns.
 * Use the Structural Design Patterns: Adapter, Deorator and Proxy patterns.
 * Use the Behavioral Design Patterns: Observable, State and Template patterns.
 
@@ -30,9 +30,9 @@ This project has been coded in Vanilla JavaScript and using design patterns, it 
 * JavaScript basis files
 
 ### what I improved (RWD)
-* CSS rules for the youtube iframe sizing for smartphones and tablets.
-* CSS rules for the font size for smartphones.
-* CSS rules for the moviecards display for smartphones and tablets.
+* CSS rules for the youtube **iframe sizing for smartphones and tablets**.
+* CSS rules for the **font size for smartphones**.
+* CSS rules for the moviecards **display for smartphones and tablets**.
 
 
 ## How to get this project ?
