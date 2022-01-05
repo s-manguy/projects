@@ -17,19 +17,15 @@ This project has been coded in Vanilla JavaScript and using design patterns, it 
 * Use the Behavioral Design Patterns: Observable, State and Template patterns.
 
 
-## Result (desktop, tablet & smartphone)
+## Result & Certification
 ![desktop screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns/filmo-patterns-screenshot-desktop_600px.png)
 ![tablet screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns/filmo-patterns-screenshot-tablet_400px.png)
 ![smartphone screenshot](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns/filmo-patterns-screenshot-smartphone_200px.png)
 
-### Given by Thomas Dimnet
-* assets
-* json data files
-* CSS files for desktop
-* HTML basis
-* JavaScript basis files
 
-### what I improved (RWD)
+[view the certificate](https://github.com/s-manguy/diploma/blob/main/FRONT-END/certificate-designpatterns-javascript-8349450486.pdf)
+
+## what I improved (RWD)
 * CSS rules for the youtube **iframe sizing for smartphones and tablets**.
 * CSS rules for the **font size for smartphones**.
 * CSS rules for the moviecards **display for smartphones and tablets**.
