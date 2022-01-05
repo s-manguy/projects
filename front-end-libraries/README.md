@@ -19,13 +19,13 @@ This directory contains Front-end libraries Project.
     * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
     * second version: [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery)
     * third version [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap))
-3. **A markdown previewer**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNRmrdZ).
+3. **[A markdown previewer](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNRmrdZ).
 4. **A drump machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWpKNGP).
     * first version: [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react)
     * second version! [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript)
     * third version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery)
-6. **A JavaScript calculator**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBrWgMJ).
-7. **A 25+5 clock**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PopzrzK).
+6. **[A JavaScript calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBrWgMJ).
+7. **[A 25+5 clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PopzrzK).
 
 
 ## Diploma & Certifications
