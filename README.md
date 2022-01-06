@@ -23,7 +23,7 @@ And the below Front-End and Back-End projects !
 1. [Landing Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page), a fCC project
 1. [Technical documentation](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a fCC project
 1. [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
 ### [Javascript algorythms and Data structure](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures)
 1. [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
@@ -31,7 +31,8 @@ And the below Front-End and Back-End projects !
 1. [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
 1. [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
 1. [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
+
 
 ### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries): Bootstrap, jQuery, React, Redux
 #### Websites  
@@ -52,7 +53,7 @@ And the below Front-End and Back-End projects !
     * third version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery)
 4. [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
 5. [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)  -   view the projects on [codepen](https://codepen.io/collection/JGKqjx)
 6. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 #### Games
@@ -65,7 +66,7 @@ And the below Front-End and Back-End projects !
 3. [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
 4. [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project
 5. [Tree map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)  -   view the projects on [codepen](https://codepen.io/collection/zxBQGa)  
 
 ## Back-End
 ### [Node.js, Express, MongoDb API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
