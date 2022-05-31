@@ -1,3 +1,6 @@
+*[see all the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization)*
+
+
 # The freeCodeCampProject : Visualize Data with a Bar Chart
 This project is the first of five projects to obtain the [**Data Visualization Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization).   
 Have a look at the [codepen](https://codepen.io/s-manguy/full/gOmgdyj) realised on 2021/05/21 to obtain the certification.  
