@@ -1,3 +1,6 @@
+*[see all the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)*
+
+
 # Ma Super Agence - a Real Estate Agency Website
 This **PHP Symfony full-stack** project is based on a [tutorial](https://grafikart.fr/formations/symfony-4-pratique) proposed by Grafikart.   
 This project uses: **Symfony 5.4**, **HTML5**, **CSS3**, **Bootstrap**, **jQuery**, Cocur/Slugify, **MySql** & MAMP, Faker, KnpPaginatorBundle, VichUploaderBundle, liip-imagine bundle, MailDev, Select2, **PHPunit**, **nightwatch**.
