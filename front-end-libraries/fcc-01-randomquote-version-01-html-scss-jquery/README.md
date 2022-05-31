@@ -1,3 +1,7 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
+
 # The freeCodeCampProject : Build a Random Quote Machine
 This project is the first of five project to obtain the [**Front-end Libraries Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries).
 
