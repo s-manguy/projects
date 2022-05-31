@@ -53,20 +53,6 @@ class PropertyController extends AbstractController {
             'form'          => $form->createView()
         ]);
     }
-    
-    // /**
-    //  * @Route("/biens/{slug}-{id}", name="property.show", requirements={"slug": "[a-z0-9\-]*"})
-    //  *
-    //  * @return Response
-    //  */
-    // public function show ($slug, $id): Response
-    // {
-    //     $property = $this->repository->find($id);
-    //     return $this->render('pages/show.html.twig', [
-    //         'property' => $property,
-    //         'current_menu' => 'properties'
-    //     ]);
-    // }
 
     /**
      * show render a specific property details and a contact form
