@@ -57,6 +57,7 @@ This project uses: **Symfony 5.4**, **HTML5**, **CSS3**, **Bootstrap**, **jQuery
 ### Go further - Improvments to work on:
 * Display many pictures a property instead of one.
 * Add direct links to the admin properties dashboard and the admin options dashboard in the navbar. They could be displayed when the user is connected with the logout link...  
+* Add a 404 page.
 
 
 ## Credits:
