@@ -48,16 +48,6 @@ class AdminOptionController extends AbstractController
         ]);
     }
 
-    // /**
-    //  * @Route("/{id}", name="admin.option.show", methods={"GET"})
-    //  */
-    // public function show(Option $option): Response
-    // {
-    //     return $this->render('admin/option/show.html.twig', [
-    //         'option' => $option,
-    //     ]);
-    // }
-
     /**
      * @Route("/{id}/edit", name="admin.option.edit", methods={"GET", "POST"})
      */
