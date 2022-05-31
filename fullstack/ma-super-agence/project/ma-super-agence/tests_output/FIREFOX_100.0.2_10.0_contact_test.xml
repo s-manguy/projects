@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="contact_test"
+    errors="0" failures="0" hostname="" id="" package="contact_test" skipped="0"
+    tests="1" time="10.94" timestamp="">
+  
+    <testcase name="contactFormVisibilityTest" classname="contact_test" time="10.94" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,52 @@
+{% extends 'base.html.twig' %}
+
+{% block title 'Gérer les options' %}
+
+{% block body %}
+	<div class="container">
+		<h1>Gérer les options</h1>
+
+		{% for message in app.flashes('success') %}
+			<div class="alert alert-success">{{ message }}</div>
+		{% endfor %}
+
+		<!-- Below : added by Sandrine Manguy -->
+		<div class="text-right mb-3">
+			<a href="{{ path('admin.option.new') }}" class="btn btn-primary" role="button">Créer une nouvelle option</a>
+			<!-- role attribute: added by Sandrine Manguy -->
+		</div>
+		<!-- Above : added by Sandrine Manguy -->
+
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Nom</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for option in options %}
+					<tr>
+						<td>{{ option.name }}</td>
+						<td>
+							<a href="{{ path('admin.option.edit', {id: option.id}) }}" class="btn btn-primary" role="button">Editer</a>
+							<!-- role attribute: added by Sandrine Manguy -->
+							{# Uncomment this below line for normal running & nightwatch testing #}
+							<form method="post" action="{{ path('admin.option.delete', {id: option.id}) }}" onsubmit="return confirm('Êtes-vous sûr de vouloir supprimer cette option ?')" class="d-inline-block">
+								{# Uncomment this above line for PHPUnit testing #}
+								{# Comment this below line for normal running & nightwatch testing #}
+								{# <form method="post" action="{{ path('admin.option.delete', {id: option.id}) }}" class="d-inline-block"> #}
+								<input type="hidden" name="_token" value="{{ csrf_token('admin/delete' ~ option.id)}}"> <input type="hidden" name="_method" value="DELETE">
+								<button class="btn btn-danger">Supprimer</button>
+							</form>
+						</td>
+					</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+		<div class="text-right">
+			<a href="{{ path('admin.option.new') }}" class="btn btn-primary" role="button">Créer une nouvelle option</a>
+			<!-- role attribute: added by Sandrine Manguy -->
+		</div>
+	</div>
+{% endblock %}

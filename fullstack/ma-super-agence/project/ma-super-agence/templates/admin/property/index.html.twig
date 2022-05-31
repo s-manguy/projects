@@ -1,0 +1,54 @@
+{% extends 'base.html.twig' %}
+
+{% block title 'Gérer les biens' %}
+
+{% block body %}
+	<div class="container">
+		<h1>Gérer les biens</h1>
+
+		{% for message in app.flashes('success') %}
+			<div class="alert alert-success">{{ message }}</div>
+		{% endfor %}
+
+		<div class="text-right mt-3 mb-3">
+			<a href="{{ path('admin.property.new') }}" class="btn btn-primary" role="button">Créer un nouveau bien</a>
+		</div>
+
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Titre</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for property in properties %}
+					<tr>
+						<td>{{ property.title }}</td>
+						<td>
+							<a href="{{ path('admin.property.edit', {id: property.id}) }}" class="btn btn-primary mb-2 mb-md-0" role="button">Editer</a>
+							{# Comment the below line with onsubmit attribute for PHPUnit testing #}
+							<form method="post" action="{{ path('admin.property.delete', {id: property.id}) }}" onsubmit="return confirm('Êtes-vous sûr de vouloir supprimer ce bien ?')" class="d-inline-block">
+								{# Comment the above line with onsubmit attribute for PHPUnit testing #}
+
+								{# Comment the below line without onsubmit attribute for nightwatch testing and normal running #}
+								{# <form method="post" action="{{ path('admin.property.delete', {id: property.id}) }}" class="d-inline-block"> #}
+								{# Comment the above line without onsubmit attribute for nightwatch testing and normal running #}
+
+								<input type="hidden" name="_method" value="DELETE"> <input type="hidden" name="_token" value="{{ csrf_token('delete' ~ property.id)}}">
+								<button class="btn btn-danger">Supprimer</button>
+							</form>
+						</td>
+					</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+
+		<div class="text-right">
+			<a href="{{ path('admin.property.new') }}" class="btn btn-primary">Créer un nouveau bien</a>
+		</div>
+
+	</div>
+
+
+{% endblock %}

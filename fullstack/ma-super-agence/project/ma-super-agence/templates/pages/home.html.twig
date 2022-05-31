@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block title 'Mon agence' %}
+
+{% block body %}
+	<div class="jumbotron">
+		<h1 class="display-4 text-center">Agence lorem ipsum<h1>
+				<p class="lead container">Lorem ipsum dolor sit amet. Ut sunt enim qui autem atque et obcaecati nihil quo dolores optio et fuga officia ut molestiae quae. Eos rerum ratione aut ipsum velit et dolore quam sit repudiandae veniam qui enim eveniet. Sit dicta nihil ea eligendi repellat et autem cumque ea sint quae.</p>
+			</div>
+
+			<div class="container">
+				<h2 class="mb-4">Les derniers biens</h2>
+
+				<div class="row">
+					{% for property in properties %}
+						<div class="col-md-6 col-lg-3">
+							{% include 'property/_property.html.twig' %}
+						</div>
+					{% endfor %}
+				</div>
+			</div>
+
+		{% endblock %}
