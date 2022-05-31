@@ -79,11 +79,6 @@ And the below Front-End and Back-End projects !
 
 
 ## Full-stack
-### PHP
-1. [A blog]
-
-### Symfony
-1. [Ma Super Agence - a Real Estate Agency website]()
-
-### Symfony, API Platform & React
-1. [Comment module on a blog]()
+1. PHP: [A blog]
+2. Symfony: [Ma Super Agence - a Real Estate Agency website]()
+3. Symfony, API Platform & React: [Comment module on a blog]()
