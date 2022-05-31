@@ -1,3 +1,7 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
+
 # Shiny Agency : Manage the state of your React Router SPA with Redux Toolkit and teh react hook useQuery
 This SPA project is based on :
 * the [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) course written by Alexia Toulmet for OpenClassrooms and 
