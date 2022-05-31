@@ -1,3 +1,6 @@
+*[see all the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization)*
+
+
 # The freeCodeCampProject : Visualize Data with a Treemap Diagram
 This project is the first of five projects to obtain the [**Data Visualization Certification**](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization).  
 Have a look at the [codepen](https://codepen.io/s-manguy/full/WNpzLez) realised on 2021/06/04 to obtain the certification.  
