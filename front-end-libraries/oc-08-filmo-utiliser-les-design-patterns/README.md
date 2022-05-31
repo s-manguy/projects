@@ -1,3 +1,7 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
+
 # Filmo Patterns
 Filmo Patterns is an app to watch your favorite movies. This project is taken from the coutse [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript) written by Thomas Dimnet for OpenClassroom.
 This project has been coded in Vanilla JavaScript and using design patterns, it uses API calls to get the app data.
