@@ -57,7 +57,11 @@ This project uses: **Symfony 5.4**, **HTML5**, **CSS3**, **Bootstrap**, **jQuery
 ### Go further - Improvments to work on:
 * Display many pictures a property instead of one.
 * Add direct links to the admin properties dashboard and the admin options dashboard in the navbar. They could be displayed when the user is connected with the logout link...  
-* Add a 404 page.
+* Add a 404 page.  
+
+## Result
+[!mobile screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence__sandrinemanguy_mobile_screenshot_300.jpg) [!tablet screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence__sandrinemanguy_tablet_screenshot_450.jpg)  
+[!desktop screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence__sandrinemanguy_desktop_screenshot_600.jpg)
 
 
 ## Credits:
