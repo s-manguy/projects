@@ -1,0 +1,24 @@
+/* assets/styles/app.css */
+body {
+    background-color: white;
+}
+
+.formatted-price {
+    font-size: 2rem; 
+    font-weight:bold;
+}
+.formatted-price_show {
+    font-size: 4rem;
+    font-weight:bold;
+}
+
+.card-picture, .front-picture {
+    width: 100%;
+    height: auto;
+}
+
+.big-margin {
+    margin-bottom: 5rem;
+}
+  
+

@@ -1,0 +1,32 @@
+module.exports = {
+    contactFormVisibilityTest: function (client) {
+        client
+        .url('http://localhost:8000/')
+        .waitForElementVisible('h1')
+        .assert.title('Mon agence')
+        .assert.textContains('h1', 'Agence lorem ipsum')
+        .assert.textContains('h2', 'Les derniers biens')
+        .assert.visible('.card')
+        // .expect.elements('.card').count.to.equals(4)
+        .assert.visible('h5 a')
+        .click('.card-body .card-title a')
+        .waitForElementVisible('h1')
+        .assert.visible('img')
+        .assert.visible('#contactButton')
+        .assert.not.visible('#contactForm')
+        .click('#contactButton')
+        .waitForElementNotVisible('#contactButton')
+        .assert.visible('#contactForm')
+        .setValue('#contact_firstname', 'Jane')
+        .setValue('#contact_lastname', 'Doe')
+        .setValue('#contact_phone', '0600000000')
+        .setValue('#contact_email', 'janedoe@test.com')
+        .setValue('#contact_message', 'Je serais intéressée par cette propriété.')
+        .click('button[type="submit"]')
+        .waitForElementVisible('.alert-success')
+        .assert.textContains('.alert-success', 'Votre message a bien été envoyé')
+        .assert.not.visible('#contactForm')
+        .assert.visible('#contactButton')
+        .end()
+    }
+}

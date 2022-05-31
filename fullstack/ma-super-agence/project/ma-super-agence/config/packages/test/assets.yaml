@@ -1,0 +1,11 @@
+framework:
+  # commented by Sandrine Manguy on 2022/05/17 due to manifest.json error
+  # assets:
+  #   json_manifest_path: 'kernel.project_dir%/public/build/manifest.json'
+
+  # added by Sandrine Manguy on 2022/05/17 due to manifest.json error
+  # found on https://github.com/symfony/webpack-encore-bundle/issues/43
+  assets:
+      json_manifest_path: ~
+  # webpack_encore:
+  #     strict_mode: false
