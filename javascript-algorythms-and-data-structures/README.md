@@ -5,7 +5,7 @@
 This directory contains JavaScript algorythms and Data Structures Projects.
 ## JavaScript algorythms and Data Structures projects
 1. [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker)
-1. Roman Numeral Converter
+1. [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter)
 1. Caesars Cipher
 1. Telephone Number Validator
 1. Cash Register  
