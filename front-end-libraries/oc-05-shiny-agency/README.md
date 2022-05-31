@@ -1,3 +1,7 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
+
 # Shiny Agency : Create an SPA with React Router
 This SPA project is based on the [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete) course written by Alexia Toulmet for OpenClassrooms.  
 
