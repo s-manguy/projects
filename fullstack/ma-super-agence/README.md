@@ -61,7 +61,8 @@ This project uses: **Symfony 5.4**, **HTML5**, **CSS3**, **Bootstrap**, **jQuery
 
 ## Result:
 * link to the website
-* scrennshots below
+* screenshots below  
+
 ![mobile screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence__sandrinemanguy_mobile_screenshot_200_filigrane.jpg) ![tablet screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence_sandrinemanguy_tablet_screenshot_400_filigrane.jpg)
 ![desktop screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence_sandrinemanguy_desktop_screenshot_600_filigrane.jpg)
 
