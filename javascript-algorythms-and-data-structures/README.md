@@ -1,3 +1,6 @@
+*[see all the projects](https://github.com/s-manguy/projects)*
+
+
 # JavaScript algorythms and Data Structures
 This directory contains JavaScript algorythms and Data Structures Projects.
 ## JavaScript algorythms and Data Structures projects
