@@ -1,3 +1,7 @@
+*[see all the projects](https://github.com/s-manguy/projects)*
+
+
+
 # Fullstack projects
 This directory contains Fullstack Projects.
 1. PHP: a blog 
