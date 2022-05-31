@@ -1,3 +1,7 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
+
 # Create a memory game app with Create React App
 This  project is based on the Christophe Porteneuve 's "**Réalisez une application web avec React.js**" course published on the OpenClassrooms website.  
 
