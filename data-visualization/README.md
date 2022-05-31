@@ -1,3 +1,6 @@
+*[see all the projects](https://github.com/s-manguy/projects)*
+
+
 # Data visualization
 This directory contains Data visualization Projects.
 ## Data visualization projects
