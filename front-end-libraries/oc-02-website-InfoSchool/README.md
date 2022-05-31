@@ -1,3 +1,6 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
 # info school
 [View the project / Voir le projet](https://codepen.io/s-manguy/full/gOWGzjx) on codepen.
 
