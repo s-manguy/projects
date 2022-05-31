@@ -1,3 +1,6 @@
+*[see all the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)*
+
+
 # A blog - a Symfony, SQL, Apiplatform, React Full stack project
 
 This fullstack project (Symfony, API Platform & React) is based on a Grafikart [tutorial](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310) project idea.
