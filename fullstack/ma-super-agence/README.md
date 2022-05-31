@@ -59,7 +59,9 @@ This project uses: **Symfony 5.4**, **HTML5**, **CSS3**, **Bootstrap**, **jQuery
 * Add direct links to the admin properties dashboard and the admin options dashboard in the navbar. They could be displayed when the user is connected with the logout link...  
 * Add a 404 page.  
 
-## Result
+## Result:
+* link to the website
+* scrennshots below
 ![mobile screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence__sandrinemanguy_mobile_screenshot_200_filigrane.jpg) ![tablet screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence_sandrinemanguy_tablet_screenshot_400_filigrane.jpg)
 ![desktop screenshot](https://github.com/s-manguy/projects/blob/main/fullstack/ma-super-agence/masuperagence_sandrinemanguy_desktop_screenshot_600_filigrane.jpg)
 
