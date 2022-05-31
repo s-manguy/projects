@@ -75,59 +75,6 @@ class PropertyControllerTest extends WebTestCase
         within the HomeControllerTest
     */
 
-    
-    // /**
-    //  * testIndexPagination considering that 
-    //  * there are more than 12 properties
-    //  *
-    //  * @return void
-    //  */
-    // public function testIndexPagination()
-    // {
-    //     $client = static::createClient();
-    //     $crawler = $client->request('GET', '/biens');
-    //     $this->assertResponseIsSuccessful();
-    //     $this->assertPageTitleSame('Tous nos biens');
-    //     $link1 = $crawler->filter('.pagination nav ul li+li');
-    //     $link2 = $crawler->filter('.pagination nav ul li+li+li');
-    //     $linkPrevious = $crawler->filter('.pagination nav ul li')->first();
-    //     $linkNext = $crawler->filter('.pagination nav ul li')->last();
-    //     $this->assertSelectorTextSame('.pagination nav ul li+li', '1');
-    //     $this->assertSame('page-item active', $link1->attr('class'));
-    //     $this->assertSame('page-item disabled', $linkPrevious->attr('class'));
-    //     $this->assertSelectorTextSame('.pagination nav ul li+li+li', '2');
-    //     $this->assertNotSame('page-item active', $link2->attr('class'));
-    //     $this->assertNotSame('page-item disabled', $link2->attr('class'));
-    //     $this->assertNotSame('page-item disabled', $linkNext->attr('class'));
-    //     // from page 1 to page 2 via the link "2"
-    //     $clickedLink2 = $crawler->selectLink('2')->link();
-    //     $crawler = $client->click($clickedLink2);
-    //     $link2page2 = $crawler->filter('.pagination nav ul li+li+li');
-    //     $this->assertSame('page-item active', $link2page2->attr('class'));
-    //     // from page 2 to page 1 via the link "1"
-    //     $clickedLink1 = $crawler->selectLink('1')->link();
-    //     $crawler = $client->click($clickedLink1);
-    //     $link1page1 = $crawler->filter('.pagination nav ul li+li');
-    //     $this->assertSame('page-item active', $link1page1->attr('class'));
-    //     // from page 1 to page 2 via the link "Suivant >>"
-    //     $linkNextPage2 = $crawler->filter('.pagination nav ul li')->last()->text();
-    //     $clickedLinkNext = $crawler->selectLink($linkNextPage2)->link();
-    //     $crawler = $client->click($clickedLinkNext);
-    //     $this->assertSelectorTextSame('.pagination nav ul li+li+li', '2');
-    //     $link2page2 = $crawler->filter('.pagination nav ul li+li+li');
-    //     $this->assertSame('page-item active', $link2page2->attr('class'));
-    //     $link1page2 = $crawler->filter('.pagination nav ul li+li');
-    //     $this->assertNotSame('page-item active', $link1page2->attr('class'));
-    //     $linkPreviousPage2 = $crawler->filter('.pagination nav ul li')->first();
-    //     $this->assertNotSame('page-item disabled', $linkPreviousPage2->attr('class')); 
-    //     // from page 2 to page 1 via the link "<< Précédent"
-    //     $linkPreviousPage2 = $crawler->filter('.pagination nav ul li')->first()->text();
-    //     $clickedLinkPrevious = $crawler->selectLink($linkPreviousPage2)->link();
-    //     $crawler = $client->click($clickedLinkPrevious);
-    //     $link1page1 = $crawler->filter('.pagination nav ul li+li');
-    //     $this->assertSelectorTextSame('.pagination nav ul li+li', '1');
-    //     $this->assertSame('page-item active', $link1page1->attr('class'));   
-    // }
 
     public function testIndexPagination()
     {
