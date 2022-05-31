@@ -1,9 +1,12 @@
 # A blog - a Symfony, SQL, Apiplatform, React Full stack project
 
 This fullstack project (Symfony, API Platform & React) is based on a Grafikart [tutorial](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310) project idea.
+  
 First the comments were displayed with the post. **The performance is improved using React to display the comments only when the user has scrolled to the bottom of the page**. The use of React implies the use of an APIRest to get the comments. As the initial project was coded in PHP via the Symfony framework, the **API Rest is built with API Platform**.
 
-## Objectives :
+The comments are displayed in pairs to be easily tested. Obviously, in real context, there would be more comments displayed at one go!
+
+## Objectives:
 
 ### Tutorial Objectives:
 
@@ -16,14 +19,14 @@ First the comments were displayed with the post. **The performance is improved u
 - UPDATE and DELETE actions allowed to the author only.
 - Use **React.memo** and **UseCallback()**.
 
-### Beyond the objectives - What I have modified/improved
+### Beyond the objectives - What I have modified/improved:
 
-#### **API documentation** :
+#### **API documentation**:
 
 - Hidden the GET /comments/{id} endpoint from Postman.
 - Hidden the GET item operations (documentation, Entity, OpenApiFactory, services.yaml).
 
-#### **UI** :
+#### **UI**:
 
 - POST comment form : Moved the "Envoyer" button from left to right.
 - UPDATE comment form : Moved the "Supprimer" and "Editer" buttons from left to right.
@@ -32,7 +35,7 @@ First the comments were displayed with the post. **The performance is improved u
 - RWD : Added a bottom margin to the "Charger plus de commentaires" button to create a spacing between this button and the "aside" column on the mobile version.
 - Added a link to the login page above the comments list.
 
-#### **Accessibility** :
+#### **Accessibility**:
 
 - Added type="submit" to the form button.
 - Added method="POST" to the POST Comment form.
@@ -41,7 +44,7 @@ First the comments were displayed with the post. **The performance is improved u
 
 #### **Clean code**:
 
-- **Deleted/commented the useless Symfony files** due to React module :
+- **Deleted/commented the useless Symfony files** due to React module:
 
   - src/Controller/BlogController::commentForm
   - templates/blog/\_comment_form.html.twig
@@ -50,7 +53,7 @@ First the comments were displayed with the post. **The performance is improved u
   - src/Form/CommentType.php
   - tests/Controller/BlogcontrollerTest::testNewComment
 
-- **Modified the project architecure** :
+- **Modified the project architecure**:
   - Renamed Comment.jsx into Index.jsx.
   - Cut the Index.jsx into different components files.
 
@@ -61,13 +64,19 @@ First the comments were displayed with the post. **The performance is improved u
 - Coded Integration tests using React-Testing-Library.
 - Coded E2E tests using Nightwatch.
 
-### Go further - possibilities to work on :
+### Go further - possibilities to work on:
 
 - Redirection after log in instead of the "Acces denied" answer when role is User.
 - Loader when loading the comments.
 - ...
 
-## Interesting links to help to achieve this project :
+## Result:
+* link to the website
+* screenshot below:  
+
+  ![comment-module desktop version by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_400.png)
+
+## Interesting links to help to achieve this project:
 
 - Grafikart, [Module de commentaire - partie 1](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310)
 - Grafikart, [Module de commentaire - partie 2](https://grafikart.fr/tutoriels/module-commentaires-react-1311)
