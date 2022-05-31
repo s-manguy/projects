@@ -68,7 +68,7 @@ And the below Front-End and Back-End projects !
 5. [Tree map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)  -   view the projects on [codepen](https://codepen.io/collection/zxBQGa)  
 
-## Back-End
+## Back-End, APIs & microservices
 ### [Node.js, Express, MongoDb API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
 1. [Timestamp Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
 1. [Request Header Parser Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-02-requestheaderparser), a fCC project.  
@@ -76,4 +76,14 @@ And the below Front-End and Back-End projects !
 1. Exercise Tracker 
 1. File Metadata Microservice  
 [Certification]()
+
+
+## Full-stack
 ### PHP
+1. [A blog]
+
+### Symfony
+1. [Ma Super Agence - a Real Estate Agency website]()
+
+### Symfony, API Platform & React
+1. [Comment module on a blog]()
