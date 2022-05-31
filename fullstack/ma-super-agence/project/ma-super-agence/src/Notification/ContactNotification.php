@@ -33,14 +33,6 @@ class ContactNotification {
                 'contact'   => $contact
             ])
         ;
-        // When sending only some text
-        // $message = (new Email()) // Email if no twig
-        //     ->from('noreply@agence.fr')
-        //     ->to('contact@agence.fr')
-        //     ->replyTo($contact->getEmail())
-        //     ->subject('Agence : ' . $contact->getProperty()->getTitle())
-        //     ->text('Sending mails could be fun !')
-        // ;
         $this->sendmail->send($message);
     }
 }
