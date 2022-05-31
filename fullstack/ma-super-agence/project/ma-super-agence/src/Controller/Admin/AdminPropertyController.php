@@ -97,25 +97,6 @@ class AdminPropertyController extends AbstractController {
         ]);
     }
     
-        
-    // /**
-    //  * @Route("/admin/property/{id}", name="admin.property.delete", methods="DELETE")
-    //  * @param  Property $property
-    //  * @param  Request $request
-    //  * @return RedirectResponse
-    //  */
-    // public function delete(Property $property, Request $request) 
-    // {
-    //     if ($this->isCsrfTokenValid('delete' . $property->getId(), $request->get('_token'))) {
-    //     //     // $this->em->remove($property);
-    //     //     // $this->em->flush();
-    //         $this->addFlash('success', 'Bien supprimé avec succès.');
-    //         return new Response('Supression');  
-    //     }
-
-    //     return $this->redirectToRoute('admin.property.index');
-    // }
-    
     /**
      * delete the property after having clicked on the confirm alert OK button
      * 
