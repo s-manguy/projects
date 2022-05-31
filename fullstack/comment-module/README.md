@@ -54,7 +54,7 @@ First the comments were displayed with the post. **The performance is improved u
   - Renamed Comment.jsx into Index.jsx.
   - Cut the Index.jsx into different components files.
 
-#### **The React module Testing ** :
+#### **The React module Testing**:
 
 - Tested all the features manually.
 - Coded Unit tests,
@@ -69,13 +69,13 @@ First the comments were displayed with the post. **The performance is improved u
 
 ## Interesting links to help to achieve this project :
 
-- [Grafikart, Module de commentaire - partie 1](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310)
-- [Grafikart, Module de commentaire - partie 2](https://grafikart.fr/tutoriels/module-commentaires-react-1311)
-- [Grafikart, Découverte d'APIplatform](https://grafikart.fr/formations/api-plaform)
-- [Grafikart, Apprendre SQL](https://grafikart.fr/formations/apprendre-sql)
-- [OpenClassrooms, Débutez avec React](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react)
-- [OpenClassrooms, Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete)
-- [OpenClassrooms, Tester vos applications front-end avec javascript](https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript)
+- Grafikart, [Module de commentaire - partie 1](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310)
+- Grafikart, [Module de commentaire - partie 2](https://grafikart.fr/tutoriels/module-commentaires-react-1311)
+- Grafikart, [Découverte d'APIplatform](https://grafikart.fr/formations/api-plaform)
+- Grafikart, [Apprendre SQL](https://grafikart.fr/formations/apprendre-sql)
+- OpenClassrooms, [Débutez avec React](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react)
+- OpenClassrooms, [Créez une application React complète](https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete)
+- OpenClassrooms, [Tester vos applications front-end avec javascript](https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript)
 
 ---
 
