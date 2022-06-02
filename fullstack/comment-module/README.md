@@ -5,7 +5,8 @@
 
 This fullstack project (Symfony, API Platform & React) is based on a Grafikart [tutorial](https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310) project idea.
   
-First the comments were displayed with the post. **The performance is improved using React to display the comments only when the user has scrolled to the bottom of the page**. The use of React implies the use of an APIRest to get the comments. As the initial project was coded in PHP via the Symfony framework, the **API Rest is built with API Platform**.
+First the comments were displayed with the post. **Replacing the server-side comments system by a dynamic one uploading the comments when the user has scrolled to the bottom of the page improves the performance**. Moreover avoiding a too many number of keywords, the SEO will be improved. 
+The use of React implies the use of an APIRest to retrieve the comments. As the initial project was coded in PHP via the Symfony framework, the **API Rest is built with API Platform**.
 
 The comments are displayed in pairs to be easily tested. Obviously, in real context, there would be more comments displayed at one go!
 
@@ -15,11 +16,15 @@ The comments are displayed in pairs to be easily tested. Obviously, in real cont
 
 - Use **Symfony Demo full stack blog** project as basis.
 - Add an APIRest for the comments using **Apiplatform**.
+- Create endpoints:
+  - Retrieve paginated comments per post.
+  - Create a comment when logged in.
+  - Modify a comment when the user is logged in and the author of the comment.
+  - Delete a comment when the user is logged in and the author of the comment.
 - Add a dynamic Comment module using **React via a Custom HTML element**.
-- Use the **hydra information from the API response**.
+- Use the **hydra information from the JSON-LD API response** to supply the path to the linked resources (previous and next pages, resource and the total amount of items).
 - Use the **IntersectionsObserver** to download the comments when scrolling to the bottom of the page only.
 - Load more comments via clicking on a button.
-- UPDATE and DELETE actions allowed to the author only.
 - Use **React.memo** and **UseCallback()**.
 
 ### Beyond the objectives - What I have modified/improved:
