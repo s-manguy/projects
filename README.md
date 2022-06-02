@@ -81,4 +81,4 @@ And the below Front-End and Back-End projects !
 ## Full-stack
 1. **PHP, MySQL**: [A blog]
 2. **Symfony, MySQL**: [Ma Super Agence - a Real Estate Agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence)
-3. **Symfony, SQL, API Platform & React**: [Comment module on a blog]()
+3. **Symfony, SQL, API Platform & React**: [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module)
