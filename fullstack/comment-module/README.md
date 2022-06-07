@@ -27,7 +27,7 @@ The comments are displayed in pairs to be easily tested. Obviously, in real cont
 - Load more comments via clicking on a button.
 - Use **React.memo** and **UseCallback()**.
 
-### Beyond the objectives - What I have modified/improved:
+### Beyond the objectives - What I have modified/improved or added:
 
 #### **API documentation**:
 
@@ -65,7 +65,7 @@ The comments are displayed in pairs to be easily tested. Obviously, in real cont
   - Renamed Comment.jsx into Index.jsx.
   - Cut the Index.jsx into different components files.
 
-#### **The React module Testing**:
+#### **Added the React module Testing**:
 
 - Tested all the features manually.
 - Coded Unit tests,
@@ -80,9 +80,23 @@ The comments are displayed in pairs to be easily tested. Obviously, in real cont
 
 ## Result:
 * link to the website
-* screenshot below:  
+* postpage screenshots below:  
 
-  ![comment-module desktop version by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_400.png)
+  when the user is not logged in.  
+
+  ![comment-module desktop version by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_400.png)  
+  
+  when the user is logged in.  
+
+
+
+![comment-module desktop version when logged_by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_logged_400.png)   
+
+      when the user is updating one of his comments.  
+
+
+
+![comment-module desktop version by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_update_400.png)  
 
 ## Interesting links to help to achieve this project:
 
