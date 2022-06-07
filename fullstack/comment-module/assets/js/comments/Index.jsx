@@ -43,10 +43,6 @@ export function Comments({ post, user }) {
       ) : (
         <ConnectBlock />
       )}
-      {/* <button onClick={load}>Charger les commentaires</button> */}
-      {/* Initial test */}
-      {/* {JSON.stringify(comments)} */}
-      {/* Used before work on comment display replace by the below mapping */}
       {comments.map((comment) => (
         <Comment
           key={comment.id}
@@ -130,30 +126,4 @@ class CommentsElement extends HTMLElement {
 }
 
 customElements.define('post-comments', CommentsElement)
-
-/***************************************************************/
-
-////////////////////////
-///// INITIAL TEST /////
-////////////////////////
-
-/* Solution 1 : React attached to the html file by a div & an id */
-// import React from "react";
-
-// class CommentsElement extends React.Component {
-//   render() {
-//     return <div>Nimenhao !</div>;
-//   }
-// }
-
-// export default CommentsElement;
-
-/* Solution 2 : React attached to the html file by custom component */
-// class CommentsElement extends HTMLElement {
-//   connectedCallback() {
-//     this.innerHTML = "Bonjour tout le monde.";
-//   }
-
-// }
-
-// customElements.define("post-comments", CommentsElement);
+}
