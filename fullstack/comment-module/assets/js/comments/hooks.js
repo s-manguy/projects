@@ -34,31 +34,6 @@ export function usePaginatedFetch(url) {
   const load = useCallback(async () => {
     setLoading(true)
 
-    // ALl the below commented code has been replaced
-    // by the call to the generic jsLdFetch() */
-    /* 
-    const response = await fetch(next || url, {
-      headers: {
-        Accept: "application/ld+json",
-      },
-    });
-    const responseData = await response.json();
-    if (response.ok) {
-      setItems((items) => [...items, ...responseData["hydra:member"]]);
-      setCount(responseData["hydra:totalItems"]);
-      if (
-        responseData["hydra:view"] &&
-        responseData["hydra:view"]["hydra:next"]
-      ) {
-        setNext(responseData["hydra:view"]["hydra:next"]);
-      } else {
-        setNext(null);
-      }
-    } else {
-      console.error(responseData);
-    }
-    */
-
     try {
       const response = await jsonLdFetch(next || url)
       setItems((items) => [...items, ...response['hydra:member']])
