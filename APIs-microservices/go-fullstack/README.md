@@ -1,8 +1,8 @@
 [see all the APIs & microservices project](https://github.com/s-manguy/projects/tree/main/APIs-microservices)  
 
-# Go fullstack
+# Go fullstack 
 
-This project is taken from the excellent course [*Passez au fullstack avec node.js, Express et MongoDB*](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb) written by Will Alexander and published on the OpenClassrooms platform.   
+This project, ***realized on June 2020***,  is taken from the excellent course [*Passez au fullstack avec node.js, Express et MongoDB*](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb) written by **Will Alexander** and published on the OpenClassrooms platform.   
 The main objective of this course is create an API to manage the CRUD of the products. That the reason why the [Angular frontend e-shop app](https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr) had already been written and supplied.
 
 ## Objectives
@@ -15,8 +15,13 @@ Remark: the given frontend app does not respect the RWD rules.
 
 ## Result & Certification
 * view the [certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)
-* Screenshots:  
-  []()  []()  []()  []()  []()
+* Tablet screenshots: 
+
+   
+  ![dashboard](https://github.com/s-manguy/projects/blob/main/APIs-microservices/go-fullstack/go-fukllstack-list_tablet_300.jpg)    ![product](https://github.com/s-manguy/projects/blob/main/APIs-microservices/go-fullstack/go-fukllstack-product_tablet_300.jpg)     ![create](https://github.com/s-manguy/projects/blob/main/APIs-microservices/go-fullstack/go-fukllstack-new_tablet_300.jpg)   
+  
+  
+   Remark: the given frontend app does not respect the RWD rules !  
 
 ## Install the project
 Clone/download this project.  
