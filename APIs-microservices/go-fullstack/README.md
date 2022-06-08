@@ -1,4 +1,4 @@
-[see all the APIs & microservices project]()  
+[see all the APIs & microservices project](https://github.com/s-manguy/projects/tree/main/APIs-microservices)  
 
 # Go fullstack
 
@@ -9,7 +9,14 @@ The main objective of this course is create an API to manage the CRUD of the pro
 * Create a web server with Express.
 * Crate an APIRestful with Node.js, Express and MongoDB.
 * Create an authentication system using tokens on an Express app.
-* Manage user files using multer on an Express app.
+* Manage user files using multer on an Express app. 
+
+Remark: the given frontend app does not respect the RWD rules.
+
+## Result & Certification
+* view the [certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)
+* Screenshots:  
+  []()  []()  []()  []()  []()
 
 ## Install the project
 Clone/download this project.  
