@@ -93,6 +93,8 @@ And the below Front-End and Back-End projects !
 7. File Metadata Microservice  
 [Certification]()
 
+### Symfony and API Platform
+* [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
 
 ## Full-stack
 1. **PHP, MySQL**: [A blog](), an OpenClassrooms project.
