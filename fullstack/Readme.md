@@ -12,7 +12,7 @@ This directory contains Fullstack Projects.
 
 
 ## Diploma & Certifications
-2021-2021 : OpenClassrooms **PHP** Certifications, level II - 6 (Bac+4)
+2021-2021 : OpenClassrooms **PHP & Symfony** Certifications, level II - 6 (Bac+4)
 2021-2021 : freeCodeCamp **Data Visualization** Certification  
 2021-2021 : freeCodeCamp **Front-end Libraries** Certification  
 2021-2021 : freeCodeCamp **JavaScript algorythms and Data Structures** Certification    
