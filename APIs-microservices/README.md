@@ -4,12 +4,14 @@
 # APIs and Microservices
 This directory contains APIs and Microservices Projects.
 ## APIs and Microservices projects
-1. Timestamp Microservice 
-1. Request Header Parser Microservice 
-1. URL Shortener Microservice 
-1. Exercise Tracker 
-1. File Metadata Microservice  
-[View Certification & solutions]()
+1. [Go fullstack](https://github.com/s-manguy/projects/tree/main/APIs-microservices/go-fullstack), an OpenCLassrooms project.  
+[View OpenClassrooms Fullstack Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)  
+3. Timestamp Microservice 
+4. Request Header Parser Microservice 
+5. URL Shortener Microservice 
+6. Exercise Tracker 
+7. File Metadata Microservice  
+[View freeCodeCamp Certification & solutions]()
 
 
 ## Diploma & Certifications
