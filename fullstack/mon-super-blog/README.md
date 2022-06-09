@@ -73,4 +73,8 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
 ## Result and certification:
 * view the [Concevez votre site web avec PHP et MySqL Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-mysql-1162704789.pdf), 
 * view the [Adoptez une architecture MVC en PHP Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-mvc-7231988400.pdf)
-* screenshots:
+* screenshots:  
+
+  ![index page or posts list](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_list_300.jpg)  
+  ![post](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_post_300.jpg)  
+  ![post form](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_postform_300.jpg)  
