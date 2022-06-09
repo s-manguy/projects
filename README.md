@@ -97,7 +97,8 @@ And the below Front-End and Back-End projects !
 * [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
 
 ## Full-stack
-1. **PHP, MySQL**: [Mon super blog](), an OpenClassrooms project.
+[View the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)
+1. **PHP, MySQL**: [Mon super blog](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog), an OpenClassrooms project.
 
 
 3. **Symfony, MySQL**: [Ma Super Agence - a Real Estate Agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence), a Grafikart project.
