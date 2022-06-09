@@ -45,29 +45,40 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
 * Create the MySql database architecture. 
   
 ### Far beyond the objectives - what I improved/added :
-* UI with the use of bootstrap,
-* UX with:
-  * the RWD rules respect,
-  * the navigation (navbar, links, buttons),
-  * the alerts,
-  * a dynamic navbar depending on the log in/out,
-  * a pagination,
-* a sign in form and its congratulation alert,
-* a login form and its success alert,
-* a contact form and its success alert,
-* a add post form when logged in (or a link to log in page) and its success alert,
-* buttons to Edit or Delete post when connected as the author,
-* a form to edit the post and its success alert,
-* a form to add comment when logged (or a link to log in page) and its success alert,
-* buttons to Edit or Delete a comment when connected as the author, 
-* a form to edit the comment and its success alert,
+#### UI 
+* used bootstrap,
+#### UX
+* respected the RWD rules,
+* created the navigation (navbar, links, buttons),
+* added alerts,
+* created a dynamic navbar depending on the log in/out,
+* created a pagination,
+#### Features
+* sign in:
+  * a sign in form,
+  * its congratulation alert,
+* log in/out:
+  * a login form,
+  * its success alert,
+* contact:
+  * a contact form,
+  * its success alert,
+* CRUD when logged in:
+  * a add post form and its success alert,
+  * buttons to Edit or Delete post when connected as the author,
+  * a form to edit the post and its success alert,
+  * a delete danger alert,
+  * a form to add comment and its success alert,
+  * buttons to Edit or Delete a comment when connected as the author, 
+  * a form to edit the comment and its success alert,
+#### Architecture
 * an MVC architecture,
 * the OOP applied to the Managers,
 * the use of templates,
 * the errors management 
 
 ## Go further - possible improvments:
-* OPP applied to the controllers,
+* OOP applied to the controllers,
 * a special template for the errors
 
 ## Result and certification:
@@ -75,6 +86,4 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
 * view the [Adoptez une architecture MVC en PHP Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-mvc-7231988400.pdf)
 * screenshots:  
 
-  ![index page or posts list](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_list_300.jpg)  
-  ![post](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_post_300.jpg)  
-  ![post form](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_postform_300.jpg)  
+  ![index page or posts list](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_list_300.jpg)      ![post](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_post_300.jpg)     ![post form](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-php_sandrinemanguy_connected_postform_300.jpg)  
