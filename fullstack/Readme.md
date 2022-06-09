@@ -6,9 +6,9 @@
 This directory contains Fullstack Projects.
 
 ## The fullstack projects
-1. PHP: a blog 
-1. Symfony, MySQL: [A real estate agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence) 
-1. Symfony, SQL, API Platform, React: [a blog comment module](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module)
+1. PHP: [Mon super blog](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog), an OpenClassrooms project. 
+1. Symfony, MySQL: [A real estate agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence), a Grafikart project. 
+1. Symfony, SQL, API Platform, React: [a blog comment module](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project. 
 
 
 ## Diploma & Certifications
