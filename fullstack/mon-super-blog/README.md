@@ -42,28 +42,28 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
   * The author pseudo, the creation date and the creation time.
   * The comment text/content.
 #### Database
-* Create the MySql database architecture. 
+* Create the MySql database architecture. [view the database architecture in the data directory](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog/data)
   
-### Far beyond the objectives - what I improved/added :
-#### UI 
+## Far beyond the objectives - what I improved/added :
+### UI 
 * used bootstrap,
-#### UX
+### UX
 * respected the RWD rules,
 * created the navigation (navbar, links, buttons),
 * added alerts,
 * created a dynamic navbar depending on the log in/out,
 * created a pagination,
-#### Features
-* sign in:
+### Features
+* added sign in:
   * a sign in form,
   * its congratulation alert,
-* log in/out:
+* added log in/out:
   * a login form,
   * its success alert,
-* contact:
+* added contact:
   * a contact form,
   * its success alert,
-* CRUD when logged in:
+* added CRUD when logged in:
   * a add post form and its success alert,
   * buttons to Edit or Delete post when connected as the author,
   * a form to edit the post and its success alert,
@@ -71,11 +71,13 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
   * a form to add comment and its success alert,
   * buttons to Edit or Delete a comment when connected as the author, 
   * a form to edit the comment and its success alert,
-#### Architecture
-* an MVC architecture,
-* the OOP applied to the Managers,
-* the use of templates,
-* the errors management 
+### Architecture
+* transformed into an MVC architecture,
+* applied the OOP to the Managers,
+* used templates,
+* managed the errors  
+### Testing
+* tested manually.
 
 ## Go further - possible improvments:
 * OOP applied to the controllers,
