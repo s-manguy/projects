@@ -29,10 +29,16 @@ The comments are displayed in pairs to be easily tested. Obviously, in real cont
 
 ### Beyond the objectives - What I have modified/improved or added:
 
+#### **User stories**:
+Have a look at some [react comment module user stories](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf).
+
+
 #### **API documentation**:
 
 - Hidden the GET /comments/{id} endpoint from Postman.
-- Hidden the GET item operations (documentation, Entity, OpenApiFactory, services.yaml).
+- Hidden the GET item operations (documentation, Entity, OpenApiFactory, services.yaml). 
+
+*Remark: the documentation is displayed on localhost:3000/api.*
 
 #### **UI**:
 
