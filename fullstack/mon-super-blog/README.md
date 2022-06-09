@@ -48,23 +48,29 @@ This project is taken from the [Concevez votre site web avec PHP et MySqL](https
 * UI with the use of bootstrap,
 * UX with:
   * the RWD rules respect,
-  * the navigation (navbar, links),
+  * the navigation (navbar, links, buttons),
   * the alerts,
   * a dynamic navbar depending on the log in/out,
-* a pagination,
-* a sign in form and its congratulation alert.
-* a login form and its success alert.
-* a contact form
+  * a pagination,
+* a sign in form and its congratulation alert,
+* a login form and its success alert,
+* a contact form and its success alert,
+* a add post form when logged in (or a link to log in page) and its success alert,
+* buttons to Edit or Delete post when connected as the author,
+* a form to edit the post and its success alert,
+* a form to add comment when logged (or a link to log in page) and its success alert,
+* buttons to Edit or Delete a comment when connected as the author, 
+* a form to edit the comment and its success alert,
+* an MVC architecture,
+* the OOP applied to the Managers,
+* the use of templates,
+* the errors management 
 
+## Go further - possible improvments:
+* OPP applied to the controllers,
+* a special template for the errors
 
-
-
-
-
-
-
-
-
-
-## Autres liens utiles
-* [Programmez en orienté objet en PHP](https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php) de Grégoire Hébert
+## Result and certification:
+* view the [Concevez votre site web avec PHP et MySqL Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-mysql-1162704789.pdf), 
+* view the [Adoptez une architecture MVC en PHP Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-php-mvc-7231988400.pdf)
+* screenshots:
