@@ -5,7 +5,9 @@ contains all my studies projects / contient mes projets d'études.
 
 
 ## UX-UI
-### [Webdesign](https://github.com/s-manguy/projects/tree/main/webdesign)
+### Webdesign
+[view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
+
 1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page), a fCC project.
 
 
@@ -19,7 +21,9 @@ And the below Front-End and Back-End projects !
 
 ## Front-End
 
-### [Responsive Web Design](https://github.com/s-manguy/projects/tree/main/RWD) in HTML5 & CSS3
+### Responsive Web Design in HTML5 & CSS3
+[view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD)
+
 1. [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a fCC project
 
 
@@ -29,7 +33,9 @@ And the below Front-End and Back-End projects !
 6. [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
-### [Javascript algorythms and Data structure](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures)
+### Javascript algorythms and Data structure
+[view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures)
+
 1. [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
 
 
@@ -40,7 +46,9 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
-### [Front-End Libraries](https://github.com/s-manguy/projects/tree/main/front-end-libraries): Bootstrap, jQuery, React, Redux
+### Front-End Libraries: Bootstrap, jQuery, React, Redux
+[view the Front-End Libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
+
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 
@@ -70,7 +78,9 @@ And the below Front-End and Back-End projects !
 1. [Memory game](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
 2. [Tennis Score, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
 
-### [Data visualization](https://github.com/s-manguy/projects/tree/main/data-visualization) with d3.js
+### Data visualization with d3.js
+[view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
+
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
 
 
@@ -81,7 +91,9 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)  -   view the projects on [codepen](https://codepen.io/collection/zxBQGa)  
 
 ## Back-End, APIs & microservices
-### [Node.js, Express, MongoDb API](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
+[view the APIs projects](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
+
+### Node.js, Express, MongoDb API
 1. [Go fullstack](https://github.com/s-manguy/projects/tree/main/APIs-microservices/go-fullstack), an OpenCLassrooms project.  
 [Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)  
 
