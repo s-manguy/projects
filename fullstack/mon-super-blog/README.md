@@ -1,8 +1,8 @@
-
+*[see all the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)*
 
 # Mon super blog  
 
-This project is taken from the [Concevez votre site web avec PHP et MySqL](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql), [Adoptez une architecture MVC en PHP](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) courses written by Matthieu Nebra and published on the OpenCLassrooms platform.
+This project, realized in February/march 2021, is taken from the [Concevez votre site web avec PHP et MySqL](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql), [Adoptez une architecture MVC en PHP](https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php) courses written by Matthieu Nebra and published on the OpenCLassrooms platform.
 
 ## Objectives:
 ### Courses given objectives:
