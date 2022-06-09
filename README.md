@@ -105,6 +105,7 @@ And the below Front-End and Back-End projects !
 
 
 ## Appendices
-* [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf).
-* [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png)
+* [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoirne Parmentier Tribute project.
+* [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
+* [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf) from the blog comment-module project.
 * 
