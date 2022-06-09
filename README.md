@@ -104,7 +104,7 @@ And the below Front-End and Back-End projects !
 4. **Symfony, SQL, API Platform & React**: [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
 
 
-### Appendices
+## Appendices
 * [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf).
 * [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png)
 * 
