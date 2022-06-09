@@ -98,7 +98,7 @@ Have a look at some [react comment module user stories](https://github.com/s-man
 
 ![comment-module desktop version when logged_by Sandrine Manguy](https://github.com/s-manguy/projects/blob/main/fullstack/comment-module/comment_module_sandrinemanguy_desktop_logged_400.png)   
 
-      when the user is updating one of his comments.  
+  when the user is updating one of his comments.  
 
 
 
