@@ -118,7 +118,8 @@ And the below Front-End and Back-End projects !
 
 
 ## Appendices
-* [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoirne Parmentier Tribute project.
+* [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
+* [UX navigation map](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-PHP_navigation_UX_sandrinemanguy.pdf) from the Mon Super Blog project.
 * [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
 * [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf) from the blog comment-module project.
 * 
