@@ -49,7 +49,7 @@ This project, realized in February/march 2021, is taken from the [Concevez votre
 * used bootstrap,
 ### UX
 * respected the RWD rules,
-* thought the navigation - [view the navigation](https://github.com/s-manguy/projects/blob/main/fullstack/mon-super-blog/appendices/blog-PHP_navigation_UX_sandrinemanguy.pdf),
+* thought the navigation - [view the navigation](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf),
 * created the navigation (navbar, links, buttons),
 * added alerts,
 * created a dynamic navbar depending on the log in/out,
