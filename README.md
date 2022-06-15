@@ -18,6 +18,7 @@ contains all my studies projects / contient mes projets d'études.
 
 #### Wordpress integration
 7. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, an OpenClassrooms project.
+8. **[FitActive](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, an OpenClassrooms project.
 
 And the below Front-End and Back-End projects !
 
