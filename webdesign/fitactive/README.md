@@ -16,9 +16,10 @@ L’image du site doit être professionnelle, mais chaleureuse. La palette de co
 Attention, le design du site devra être original et ne pas être une simple copie de modèles existants !
 Le site devra par ailleurs être optimisé pour le référencement naturel, pour un chargement rapide et les règles principales d'accessibilité devront être respectées.
 
-**Cahier des charges**
+**Cahier des charges**  
+
 Le client vous demande de respecter les consignes suivantes pour la structure du site web à créer.
-* Un header (en-tête) présente :
+Un header (en-tête) présente :
 * le logo de la société ;
 * le numéro de téléphone ;
 * un bouton “tester gratuitement” en évidence ;
@@ -68,5 +69,5 @@ Vérifiez bien que vous avez les éléments suivants :
 ## Result and Certification
 * [View the Certificate](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)
 * Screenshots:  
-  ![desktop](https://github.com/s-manguy/projects/blob/main/webdesign/banana-design/banana-design_desktop_400.jpg)
+  ![desktop](https://github.com/s-manguy/projects/blob/main/webdesign/fitactive/fitactive-wordpress-sandrinemanguy_desktop_400.jpg)
 
