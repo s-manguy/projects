@@ -19,5 +19,7 @@ This project is based on the [*Créez un site moderne et professionnel avec Word
   * Deploy the website.
 
 ## Result and Certification
-* Screenshots:
-* [Certification](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)
+* [View the Certificate](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)
+* Screenshots:  
+  ![mobile](https://github.com/s-manguy/projects/blob/main/webdesign/banana-design/banana-design_mobile_300.jpg)  ![desktop](https://github.com/s-manguy/projects/blob/main/webdesign/banana-design/banana-design_desktop_400.jpg)
+
