@@ -8,14 +8,16 @@ contains all my studies projects / contient mes projets d'études.
 ### Webdesign
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
-1. [Tribute Page about Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page), a fCC project.
+#### Mock-up:
+1. **[Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. 
+2. **[Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. 
+3. **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD.
+4. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD.
+5. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD.
+6. **[Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD.
 
-
-3. [Landing Page (...) of the Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page), a fCC project.
-4. [Travel Agency website for Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website), an Openclassrooms project.
-5. [Puppies to adopt website for Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website), an Openclassrooms project.
-6. [Contact page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page), an OpenClassrooms project realised with AdobeXD.
-7. [Redesigned website in material design: P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design), an OpenClassrooms project realised with AdobeXD.
+#### Wordpress integration
+7. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, an OpenClassrooms project.
 
 And the below Front-End and Back-End projects !
 
