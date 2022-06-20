@@ -36,7 +36,8 @@ This project is based on the OpenClassrooms course [Créez une application web a
 
 ## Result and Certification
 * [View the Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-vue-js-1977167923.pdf)  
-* screenshots:
+* screenshots:  
+  ![Home page](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc_cafe-avec-vue/cafe-avec-vue-sandrine-manguy-home_300.jpg)
 
 ## Pieces of information on cli-version
 
