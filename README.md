@@ -54,10 +54,9 @@ And the below Front-End and Back-End projects !
 
 #### Websites  
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
-
-
-3. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
-4. [La maison jungle, an e-shop website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
+2. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
+3. [Café avec vue, an e-shop website with VueJS]
+4. [La maison jungle, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 5. [Shiny Agency, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project
 
 #### Applications  
@@ -78,15 +77,13 @@ And the below Front-End and Back-End projects !
 6. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 #### Games
-1. [Memory game](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
+1. [Memory game, with React](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
 2. [Tennis Score, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
 
 ### Data visualization with d3.js
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
 
 1. [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
-
-
 3. [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
 4. [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
 5. [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project
