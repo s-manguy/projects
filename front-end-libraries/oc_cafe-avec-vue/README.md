@@ -1,3 +1,6 @@
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
+
+
 # Cafe avec vue, a Vue.js basic website
 This project is based on the OpenClassrooms course [Créez une application web avec Vue.js](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) written by Alexia Toulmet and Ben Hong.
 
@@ -8,6 +11,11 @@ This project is based on the OpenClassrooms course [Créez une application web a
 * **Improve the app using Vue Cli**.
 * **Create re-usable components**.
 * Create the navigation using Vue Router.
+* Create views:
+  * App and the navigation,
+  * Home page,
+  * About page,
+  * Contact page. 
 * Use the lifecycle hooks.
 * Manage styles.
 * Manage data and events.
@@ -19,9 +27,10 @@ This project is based on the OpenClassrooms course [Créez une application web a
 
 
 ## Beyond the objectives - what I have improved
-* added CSS classes to display the product quantity label and input in block;
-* added CSS classes to add margin above the "Ajouter au panier" button;
-* added CSS classes to modify text color depending on the "in stock" or "not in stock" information;
+* added CSS classes to :
+  * display the product quantity label and input in block,
+  * to add margin above the "Ajouter au panier" button,
+  * to modify text color depending on the "in stock" or "not in stock" information;
 * added v-if directive to display the quantity and add button only when the product is in stock;
 * added the min attribute to the input to prevent user from adding negative numbers to the cart.
 
