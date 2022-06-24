@@ -61,7 +61,7 @@ And the below Front-End and Back-End projects !
 
 
 3. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
-4. [Café avec vue, an e-shop website with VueJS]
+4. [Café avec vue, an e-shop website with VueJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart), an OpenClassrooms project
 5. [La maison jungle, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 6. [Shiny Agency, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project
 
