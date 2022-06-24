@@ -1,5 +1,7 @@
+*[see all the projects](https://github.com/s-manguy/projects)*
+
 # Cafe avec vue, a Vue.js basic website with shopping cart
-This project is based on the OpenClassrooms course [Créez une application web avec Vue.js](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) written by Alexia Toulmet and Ben Hong.
+This **e-shop website** is the **second version** of a project based on the OpenClassrooms course [Créez une application web avec Vue.js](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) written by Alexia Toulmet and Ben Hong.
 
 ## Beyond the objectives - what I have improved
 * added CSS classes to **display the product quantity label and input in block**;
