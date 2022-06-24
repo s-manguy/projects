@@ -1,4 +1,4 @@
-*[see all the projects](https://github.com/s-manguy/projects)*
+*[see all the front-end libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)*
 
 # Cafe avec vue, a Vue.js basic website with shopping cart
 This **e-shop website** is the **second version** of a project based on the OpenClassrooms course [Créez une application web avec Vue.js](https://openclassrooms.com/fr/courses/6390311-creez-une-application-web-avec-vue-js) written by Alexia Toulmet and Ben Hong.
