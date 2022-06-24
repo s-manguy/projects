@@ -8,15 +8,17 @@ This directory contains **Bootstrap, jQuery, VueJS, ReactJS, Redux** Front-end l
 1. **[Take app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website) - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/OJmjXqm).
 2. **[Info School](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool) - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
 3. **[Café avec vue, an e-shop project with Vue](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)**, an OpenClassrooms project.
-4. **[Memory game](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-03-memory-game/README.md)**, an OpenClassrooms project.
-5. **[La maison jungle](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle) - an online shop website**, an OpenClassrooms project.
-6. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
+  * first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
+  * second version: [with shopping cart displayed with a  modal]()
+5. **[Memory game](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-03-memory-game/README.md)**, an OpenClassrooms project.
+6. **[La maison jungle](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle) - an online shop website**, an OpenClassrooms project.
+7. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
     * first version : [react & react router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)  
     * second version: [react, react-router & react-redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux)  
     * third version : [react, react-router, react-redux & react-toolkit](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-toolkit)  
     * fourth version: [react, react-router, react-redux, react-toolkit & useQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency-redux-and-usequery)  
-7. **[Tennis Score App](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux)**, an OpenClassrooms project.
-8. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
+8. **[Tennis Score App](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux)**, an OpenClassrooms project.
+9. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 ### freeCodeCamp projetcs
 1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
