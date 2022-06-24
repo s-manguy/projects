@@ -11,6 +11,7 @@ This **e-shop website** is the **second version** of a project based on the Open
 * added CSS classes to **improve the buttons aspect**;
 * added the **min attribute to the input to prevent user from adding negative numbers to the cart**;
 * added a **shopping cart with transition and modal**;
+* created an icon for the basket (shopping cart);
 * created a **component** for the **footer** and the **modal**.
 
 ### *Reminder: given objectives*
@@ -31,7 +32,10 @@ This **e-shop website** is the **second version** of a project based on the Open
 
 ## Result and Certification
 * [View the Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-vue-js-1977167923.pdf)  
-* screenshots:
+* screenshots: the first product is clicked !  
+
+  ![Home - add a product](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart/cafe-avec-vue-sandrine-manguy_home-clic_300.jpg)  
+  
 
 ## Pieces of information on cli-version
 
