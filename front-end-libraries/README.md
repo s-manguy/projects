@@ -7,9 +7,9 @@ This directory contains **Bootstrap, jQuery, VueJS, ReactJS, Redux** Front-end l
 ### OpenClassrooms projects
 1. **[Take app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website) - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/OJmjXqm).
 2. **[Info School](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool) - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
-3. **[Café avec vue, an e-shop project with Vue](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)**, an OpenClassrooms project.
+3. **[Café avec vue, an e-shop project with Vue](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)**, an OpenClassrooms project.
     * first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
-    * second version: [with shopping cart displayed with a  modal]()
+    * second version: [with shopping cart displayed with a  modal](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)
 5. **[Memory game](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-03-memory-game/README.md)**, an OpenClassrooms project.
 6. **[La maison jungle](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle) - an online shop website**, an OpenClassrooms project.
 7. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
