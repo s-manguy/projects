@@ -34,7 +34,7 @@ This **e-shop website** is the **second version** of a project based on the Open
 * [View the Certification](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-vue-js-1977167923.pdf)  
 * screenshots: the first product is clicked !  
 
-  ![Home - add a product](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart/cafe-avec-vue-sandrine-manguy_home-clic_300.jpg)  
+  ![Home - add a product](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart/cafe-avec-vue-sandrine-manguy_home-clic_300.jpg)    ![shopping cart details](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart/cafe-avec-vue-sandrine-manguy_shopping-cart-click_300.jpg) 
   
 
 ## Pieces of information on cli-version
