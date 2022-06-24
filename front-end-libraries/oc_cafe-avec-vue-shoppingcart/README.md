@@ -11,7 +11,7 @@ This project is based on the OpenClassrooms course [Créez une application web a
 * added a **shopping cart with transition and modal**;
 * created a **component** for the **footer** and the **modal**.
 
-### *Reminder: given objectives
+### *Reminder: given objectives*
 * ***Create a Vue.js app***.
 * *Manage the data*.
 * *Use the Vue.js directives (v-if, v-else, v-on, s-show...)*.
