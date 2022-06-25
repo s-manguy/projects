@@ -13,7 +13,7 @@ contains all my studies projects / contient mes projets d'études.
 
 
 3. **[Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. [Links to figma files.](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
-4. **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD.
+4. **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/4c3f2b3d-a2b5-46ee-a191-0476bd32094c-196c/?fullscreen)
 5. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD.
 6. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD.
 7. **[Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD.
