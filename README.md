@@ -9,7 +9,7 @@ contains all my studies projects / contient mes projets d'études.
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
 #### Mock-up:
-1. **[Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. 
+1. **[Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
 
 
 3. **[Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. 
