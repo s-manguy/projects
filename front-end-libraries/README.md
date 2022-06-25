@@ -5,11 +5,11 @@
 This directory contains **Bootstrap, jQuery, VueJS, ReactJS, Redux** Front-end libraries Project.
 ## Front-end libraries projects
 ### OpenClassrooms projects
-1. **[Take app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website) - Découpe et intégration de maquette**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/OJmjXqm).
-2. **[Info School](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool) - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. Look at the following [codepen](https://codepen.io/s-manguy/full/gOWGzjx).
-3. **[Café avec vue, an e-shop project with Vue](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)**, an OpenClassrooms project.
+1. **[Take app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website) - Découpe et intégration de maquette**, an OpenClassrooms project. [View the codepen](https://codepen.io/s-manguy/full/OJmjXqm).
+2. **[Info School](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool) - Un site internet muti-pages avec Bootstrap 4**, an OpenClassrooms project. [View the codepen](https://codepen.io/s-manguy/full/gOWGzjx).
+3. **[Café avec vue, an e-shop project with Vue](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)**, an OpenClassrooms project. [View the codepen](https://codepen.io/s-manguy/pen/xxYvYzy)
     * first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
-    * second version: [with shopping cart displayed with a  modal](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)
+    * second version: [with shopping cart displayed with a  modal](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart). 
 5. **[Memory game](https://github.com/s-manguy/projects/blob/main/front-end-libraries/oc-03-memory-game/README.md)**, an OpenClassrooms project.
 6. **[La maison jungle](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle) - an online shop website**, an OpenClassrooms project.
 7. **[Shiny agency - an SPA website with React Router](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency)**, an OpenClassrooms project.
@@ -21,17 +21,17 @@ This directory contains **Bootstrap, jQuery, VueJS, ReactJS, Redux** Front-end l
 9. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 ### freeCodeCamp projetcs
-1. **A random quote machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/rNjqXWB).
+1. **A random quote machine**, a freeCodeCamp project. [View the codepen](https://codepen.io/s-manguy/full/rNjqXWB).
     * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
     * second version: [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery)
     * third version [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap))
-3. **[A markdown previewer](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/WNRmrdZ).
-4. **A drump machine**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/NWpKNGP).
+3. **[A markdown previewer](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer)**, a freeCodeCamp project. [View the codepen](https://codepen.io/s-manguy/full/WNRmrdZ).
+4. **A drump machine**, a freeCodeCamp project. [View the codepen](https://codepen.io/s-manguy/full/NWpKNGP).
     * first version: [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react)
     * second version! [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript)
     * third version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery)
-6. **[A JavaScript calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/qBrWgMJ).
-7. **[A 25+5 clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock)**, a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/PopzrzK).
+6. **[A JavaScript calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator)**, a freeCodeCamp project. [View the codepen](https://codepen.io/s-manguy/full/qBrWgMJ).
+7. **[A 25+5 clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock)**, a freeCodeCamp project. [View the codepen](https://codepen.io/s-manguy/full/PopzrzK).
 
 
 ## Diploma & Certifications
