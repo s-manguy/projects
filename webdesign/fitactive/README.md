@@ -2,7 +2,7 @@
 
 # Integrate the FitActive Wordpress Website
 This project is based on the [*Créez un site moderne et professionnel avec WordPress 5*](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) OpenClassrooms course written by Laurent Vergnaud.
-[Viex the project](https://sandrinemanguy.com/portfolio/FitActive/)
+[View the project](https://sandrinemanguy.com/portfolio/FitActive/)
 
 ## Instructions
 Vous devez créer un site web pour un club de sport qui vient d'être lancé. Ce club cible spécifiquement les jeunes actifs souhaitant garder la forme dans une ambiance décontractée et conviviale.
@@ -69,7 +69,7 @@ Vérifiez bien que vous avez les éléments suivants :
 
 ## Result and Certification
 * [View the Certificate](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)
-* [Viex the project](https://sandrinemanguy.com/portfolio/FitActive/)
+* [View the project](https://sandrinemanguy.com/portfolio/FitActive/)
 * Screenshots:  
   ![desktop](https://github.com/s-manguy/projects/blob/main/webdesign/fitactive/fitactive-wordpress-sandrinemanguy_desktop_400.jpg)
 
