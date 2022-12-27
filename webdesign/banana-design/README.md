@@ -2,6 +2,7 @@
 
 # Integrate the Banana Design Agency Wordpress Website
 This project is based on the [*Créez un site moderne et professionnel avec WordPress 5*](https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5) OpenClassrooms course written by Laurent Vergnaud.
+[View the result](https://sandrinemanguy.com/portfolio/Bananadesign/)
 
 ## Given Objectives
 * Be able to explain what is Wordpress and choose a hosting company.
@@ -20,6 +21,7 @@ This project is based on the [*Créez un site moderne et professionnel avec Word
 
 ## Result and Certification
 * [View the Certificate](https://github.com/s-manguy/diploma/blob/main/PHP/certificate-wordpress-moderne-professionnel-9932423001.pdf)
+* [View the project](https://sandrinemanguy.com/portfolio/Bananadesign/)
 * Screenshots:  
   ![mobile](https://github.com/s-manguy/projects/blob/main/webdesign/banana-design/banana-design_mobile_300.jpg)  ![desktop](https://github.com/s-manguy/projects/blob/main/webdesign/banana-design/banana-design_desktop_400.jpg)
 
