@@ -8,7 +8,7 @@ contains all my studies projects / contient mes projets d'études.
 ### Webdesign
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
-#### Mock-up:
+#### Mock-up - 6 projects
 1. **Personal project: [Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
 
 
@@ -18,7 +18,7 @@ contains all my studies projects / contient mes projets d'études.
 6. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
 
-#### Wordpress integration
+#### Wordpress integration - 2 projects
 7. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, an OpenClassrooms project.
 
 
@@ -30,7 +30,7 @@ And the below Front-End and Back-End projects !
 
 ### Responsive Web Design in HTML5 & CSS3
 
-#### Drawings and Animations
+#### Drawings and Animations - 6 projects
 1. View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
 2. View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv)
 3. View the Pianoon [codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
@@ -38,7 +38,7 @@ And the below Front-End and Back-End projects !
 5. View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge)
 6. View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK)
 
-#### Webdesign
+#### Webdesign - 12 projects
 1. View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy)
 2. View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww)
 3. View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx)
@@ -57,10 +57,10 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
 ### Javascript algorythms and Data structure
-#### JavaScript Animation
+#### JavaScript Animation - 1 project
 1. View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
-#### JavaScript Algorithms and Data structure
+#### JavaScript Algorithms and Data structure - 5 projects
 [view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. Personal project: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
@@ -74,10 +74,8 @@ And the below Front-End and Back-End projects !
 ### Front-End Libraries: Bootstrap, jQuery, React, Redux
 [view the Front-End Libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
 
-#### Websites  
+#### Websites  - 6 projects
 1. [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
-
-
 3. [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
 4. Café avec vue, an e-shop website with VueJS, an OpenClassrooms project  
     * first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
@@ -85,12 +83,11 @@ And the below Front-End and Back-End projects !
 6. [La maison jungle, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 7. [Shiny Agency, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project
 
-#### Applications  
+#### Applications  - 9 projects
 1. Personal projects: Random Quote machine, a fCC project:
     * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
     * second version: [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery)
     * third version [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap)
-
 
 2. Personal project: [Markdown Editor](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer), a fCC project
 3. Personal projects: Drum Machine, a fCC project:
@@ -102,16 +99,14 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)  -   view the projects on [codepen](https://codepen.io/collection/JGKqjx)
 6. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
-#### Games
+#### Games - 2 projects
 1. [Memory game, with React](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
 2. [Tennis Score, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
 
-### Data visualization with d3.js
+### Data visualization with d3.js - 8 projects
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
 
 1. Personal project: [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
-
-
 3. Personal project: [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
 4. Personal project: [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
 5. Personal project: [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project
@@ -121,34 +116,35 @@ And the below Front-End and Back-End projects !
 ## Back-End, APIs & microservices
 [view the APIs projects](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
 
-### Node.js, Express, MongoDb API
-1. [Go fullstack](https://github.com/s-manguy/projects/tree/main/APIs-microservices/go-fullstack), an OpenCLassrooms project.  
-[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)  
+### Node.js, Express, MongoDb or postgreSQL API - 4 projects
+1. [Go fullstack](https://github.com/s-manguy/projects/tree/main/APIs-microservices/go-fullstack), an OpenCLassrooms project using a MongoDB database.  
+[Certificate](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER/certificate-node-express-mongodb-6767157116.pdf)
+2. Personal project : [Notes-app API](https://github.com/s-manguy/notes-app-server) using a PostgreSQL database
 
-
-3. Personal project: [Timestamp Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
+**view the the Back-ENd, APIs and Microservices projects] realized to get the fCC Certification** 
+1. Personal project: [Timestamp Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
 4. Personal project: [Request Header Parser Microservice](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-02-requestheaderparser), a fCC project.  
 5. URL Shortener Microservice 
 6. Exercise Tracker 
 7. File Metadata Microservice  
 [Certification]()
 
-### Symfony and API Platform
+### Symfony and API Platform - 1 project
 * [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
 
 ## Full-stack
+### Vanilla PHP / Symfony, MySQL/SQL - 3 projects
 [View the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)
-1. **PHP, MySQL**: [Mon super blog](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog), an OpenClassrooms project.
-
-
+1. **Vanilla PHP, MySQL**: [Mon super blog](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog), an OpenClassrooms project.
 3. **Symfony, MySQL**: [Ma Super Agence - a Real Estate Agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence), a Grafikart project.
 4. **Symfony, SQL, API Platform & React**: [Comment module on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
+
+### React / React + Redux, express.js, PostgreSQL - 1 project
+1. **React, express.js, elephantSQL**: a [notes-app](https://github.com/s-manguy/notes-app) + [Notes-app-server](https://github.com/s-manguy/notes-app-server) **personal project**
 
 
 ## Appendices
 * Personal project: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
-
-
 * Personal project: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the Mon Super Blog project.
 * Personal project: [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
 * Personal project: [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf) from the blog comment-module project.
