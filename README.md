@@ -56,7 +56,7 @@ And the below Front-End and Back-End projects !
 6. Personal project: [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
-### Javascript algorythms and Data structure
+### Vanilla Javascript
 #### JavaScript Animation - 1 project
 1. View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
