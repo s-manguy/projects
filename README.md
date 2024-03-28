@@ -29,14 +29,6 @@ And the below Front-End and Back-End projects !
 ## Front-End
 
 ### Responsive Web Design in HTML5 & CSS3
-### Webdesign
-1. View the Camper Cafe menu on {codepen](https://codepen.io/s-manguy/full/wvNgJoy)
-2. View the CSS Color Markers on {codepen](https://codepen.io/s-manguy/full/WNPRqww)
-3. View the Registration form on {codepen](https://codepen.io/s-manguy/full/wvNJyvx)
-4. View the CSS flexbox gallery on {codepen](https://codepen.io/s-manguy/full/yLZbxMv)
-5. View the Nutrition label in HTML and CSS {codepen](https://codepen.io/s-manguy/full/eYxRwzp)
-6. View the Accessibility quiz on {codepen](https://codepen.io/s-manguy/full/gOqGbJp)
-7. View the Magazine on {codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
 
 ### Drawings and Animations
 1. View the Rothko painting on {codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
@@ -46,11 +38,18 @@ And the below Front-End and Back-End projects !
 5. View the Ferris whelle on {codepen](https://codepen.io/s-manguy/full/YzBJjge)
 6. View the Penguin on {codepen](https://codepen.io/s-manguy/full/KKJLmEK)
 
+### Webdesign
+1. View the Camper Cafe menu on {codepen](https://codepen.io/s-manguy/full/wvNgJoy)
+2. View the CSS Color Markers on {codepen](https://codepen.io/s-manguy/full/WNPRqww)
+3. View the Registration form on {codepen](https://codepen.io/s-manguy/full/wvNJyvx)
+4. View the CSS flexbox gallery on {codepen](https://codepen.io/s-manguy/full/yLZbxMv)
+5. View the Nutrition label in HTML and CSS {codepen](https://codepen.io/s-manguy/full/eYxRwzp)
+6. View the Accessibility quiz on {codepen](https://codepen.io/s-manguy/full/gOqGbJp)
+7. View the Magazine on {codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
+
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
 1. Personal project: [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a fCC project
-
-
 3. Personal project: [Survey Form](https://github.com/s-manguy/projects/tree/main/RWD/fcc-02-survey-form), a fCC project
 4. Personal project: [Landing Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page), a fCC project
 5. Personal project: [Technical documentation](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a fCC project
