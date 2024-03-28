@@ -30,7 +30,7 @@ And the below Front-End and Back-End projects !
 
 ### Responsive Web Design in HTML5 & CSS3
 
-### Drawings and Animations
+#### Drawings and Animations
 1. View the Rothko painting on {codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
 2. View the Cat painting on {codepen](https://codepen.io/s-manguy/full/abXjXRv)
 3. View the Pianoon {codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
@@ -38,7 +38,7 @@ And the below Front-End and Back-End projects !
 5. View the Ferris whelle on {codepen](https://codepen.io/s-manguy/full/YzBJjge)
 6. View the Penguin on {codepen](https://codepen.io/s-manguy/full/KKJLmEK)
 
-### Webdesign
+#### Webdesign
 1. View the Camper Cafe menu on {codepen](https://codepen.io/s-manguy/full/wvNgJoy)
 2. View the CSS Color Markers on {codepen](https://codepen.io/s-manguy/full/WNPRqww)
 3. View the Registration form on {codepen](https://codepen.io/s-manguy/full/wvNJyvx)
