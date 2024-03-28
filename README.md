@@ -29,7 +29,24 @@ And the below Front-End and Back-End projects !
 ## Front-End
 
 ### Responsive Web Design in HTML5 & CSS3
-[view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD)
+### Webdesign
+1. View the Camper Cafe menu on {codepen](https://codepen.io/s-manguy/full/wvNgJoy)
+2. View the CSS Color Markers on {codepen](https://codepen.io/s-manguy/full/WNPRqww)
+3. View the Registration form on {codepen](https://codepen.io/s-manguy/full/wvNJyvx)
+4. View the CSS flexbox gallery on {codepen](https://codepen.io/s-manguy/full/yLZbxMv)
+5. View the Nutrition label in HTML and CSS {codepen](https://codepen.io/s-manguy/full/eYxRwzp)
+6. View the Accessibility quiz on {codepen](https://codepen.io/s-manguy/full/gOqGbJp)
+7. View the Magazine on {codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
+
+### Drawings and Animations
+1. View the Rothko painting on {codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
+2. View the Cat painting on {codepen](https://codepen.io/s-manguy/full/abXjXRv)
+3. View the Pianoon {codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
+4. View the City Skyline on {codepen](https://codepen.io/s-manguy/full/abXRdJE)
+5. View the Ferris whelle on {codepen](https://codepen.io/s-manguy/full/YzBJjge)
+6. View the Penguin on {codepen](https://codepen.io/s-manguy/full/KKJLmEK)
+
+[view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
 1. Personal project: [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a fCC project
 
@@ -41,7 +58,11 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
 ### Javascript algorythms and Data structure
-[view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures)
+#### JavaScript Animation
+1. View the Clicked squares Vanilla JS animation on {codepen](https://codepen.io/s-manguy/full/KKJLvMy)
+
+#### JavaScript Algorithms and Data structure
+[view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. Personal project: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
 
