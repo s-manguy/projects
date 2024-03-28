@@ -31,21 +31,21 @@ And the below Front-End and Back-End projects !
 ### Responsive Web Design in HTML5 & CSS3
 
 #### Drawings and Animations
-1. View the Rothko painting on {codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
-2. View the Cat painting on {codepen](https://codepen.io/s-manguy/full/abXjXRv)
-3. View the Pianoon {codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
-4. View the City Skyline on {codepen](https://codepen.io/s-manguy/full/abXRdJE)
-5. View the Ferris whelle on {codepen](https://codepen.io/s-manguy/full/YzBJjge)
-6. View the Penguin on {codepen](https://codepen.io/s-manguy/full/KKJLmEK)
+1. View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
+2. View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv)
+3. View the Pianoon [codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
+4. View the City Skyline on [codepen](https://codepen.io/s-manguy/full/abXRdJE)
+5. View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge)
+6. View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK)
 
 #### Webdesign
-1. View the Camper Cafe menu on {codepen](https://codepen.io/s-manguy/full/wvNgJoy)
-2. View the CSS Color Markers on {codepen](https://codepen.io/s-manguy/full/WNPRqww)
-3. View the Registration form on {codepen](https://codepen.io/s-manguy/full/wvNJyvx)
-4. View the CSS flexbox gallery on {codepen](https://codepen.io/s-manguy/full/yLZbxMv)
-5. View the Nutrition label in HTML and CSS {codepen](https://codepen.io/s-manguy/full/eYxRwzp)
-6. View the Accessibility quiz on {codepen](https://codepen.io/s-manguy/full/gOqGbJp)
-7. View the Magazine on {codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
+1. View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy)
+2. View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww)
+3. View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx)
+4. View the CSS flexbox gallery on [codepen](https://codepen.io/s-manguy/full/yLZbxMv)
+5. View the Nutrition label in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp)
+6. View the Accessibility quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp)
+7. View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
@@ -58,14 +58,12 @@ And the below Front-End and Back-End projects !
 
 ### Javascript algorythms and Data structure
 #### JavaScript Animation
-1. View the Clicked squares Vanilla JS animation on {codepen](https://codepen.io/s-manguy/full/KKJLvMy)
+1. View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
 #### JavaScript Algorithms and Data structure
 [view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. Personal project: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
-
-
 3. Personal project: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
 4. Personal project: [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
 5. Personal project: [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
