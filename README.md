@@ -71,7 +71,7 @@ And the below Front-End and Back-End projects !
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
-### Front-End Libraries: Bootstrap, jQuery, React, Redux
+### Front-End Libraries: Bootstrap, jQuery, React, Redux, Sass, Vue
 [view the Front-End Libraries projects](https://github.com/s-manguy/projects/tree/main/front-end-libraries)
 
 #### Websites  - 6 projects
