@@ -26,8 +26,8 @@ contains all my studies and personal projects / contient mes projets d'études e
 5. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
 6. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
-9. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
-10. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/);
+9. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html)**;
+10. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)**;
 
 #### Wordpress integration - 3 projects
 1. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
