@@ -5,10 +5,13 @@ contains all my studies and personal projects / contient mes projets d'études e
 
 
 ## UX-UI
+### UX
+1. **Personal project**: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the Mon Super Blog project.
+
+   
 ### Webdesign
 1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
-2. **Personal project**: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the Mon Super Blog project.
-3. **Personal project**: [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
+2. **Personal project**: [Tagging informations (Accessibility)](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
 
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
