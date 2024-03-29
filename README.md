@@ -18,7 +18,7 @@ contains all my studies projects / contient mes projets d'études.
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
 8.  **Personal project**: **[Coding-Tricks]();
 
-#### Wordpress integration - 2 projects
+#### Wordpress integration - 3 projects
 1. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
 2. **Personal project**: **[FitActive](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, a WordPress + Elementor project.
 3. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)**, a WordPress Core project.
