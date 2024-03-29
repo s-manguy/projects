@@ -1,7 +1,7 @@
 *in progress*
 
 # projects/projets
-contains all my studies projects / contient mes projets d'études.
+contains all my studies and personal projects / contient mes projets d'études et personnels.
 
 
 ## UX-UI
