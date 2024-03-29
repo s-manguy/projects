@@ -19,7 +19,7 @@ contains all my studies and personal projects / contient mes projets d'études e
 
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
-#### Mock-up - 7 projects
+#### Mock-up - 8 projects
 1. **Personal project: [Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
 3. **Personal project: [Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. [Links to figma files.](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
 4. Exercise: **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/4c3f2b3d-a2b5-46ee-a191-0476bd32094c-196c/?fullscreen)
