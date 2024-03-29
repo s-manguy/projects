@@ -164,7 +164,7 @@ And the below Front-End and Back-End projects !
 ### React / React + Redux, express.js, PostgreSQL - 1 project
 1. **personal project**:  a [notes-app](https://github.com/s-manguy/notes-app) + [Notes-app-server](https://github.com/s-manguy/notes-app-server), a React + express.js + elephantSQL + Prisma project.
 
-### WordPress custom theme website:
+### WordPress custom theme website - 1 project
 1. **Personal project**: **Coding-Tricks**, a blog created from design to coding and articles writing. View the [result](https://coding-tricks.sandrinemanguy.com/).
 
 ## Appendices
