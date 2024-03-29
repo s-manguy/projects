@@ -38,9 +38,10 @@ And the below Front-End and Back-End projects !
 
 ## Front-End
 
-### Responsive Web Design in HTML5 & CSS3
+### Responsive Web Design in HTML5 & CSS3/SCSS
 
-#### Drawings and Animations - 11 projects
+#### Drawings and Animations - 17 projects
+View all the below projects as a [collection on codepen](https://codepen.io/collection/VYRqWM)
 1. Exercise: View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ), a fCC project
 2. Exercise: View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv), a fCC project
 3. Exercise: View the Piano on [codepen]( https://codepen.io/s-manguy/full/abXaVEJ), a fCC project
@@ -51,7 +52,12 @@ And the below Front-End and Back-End projects !
 8. Exercise: View Three sparkling stars on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
 9. Exercise: View an Animated ball on[codepen](https://codepen.io/s-manguy/full/LYvzjZx), a fCC project
 10. Exercice: View Three juggled balls on [codepen](https://codepen.io/s-manguy/full/PogJKWa), a fCC project
-11. Exercise: View the Light saber animation on [codepen](https://codepen.io/s-manguy/full/KKYXvJw), an OpenClassrooms project
+11. Exercise: view the Animate me button on [codepen](https://codepen.io/s-manguy/full/zYXEdXZ), an Openclassrooms project
+13. Exercise: View the Light saber animation on [codepen](https://codepen.io/s-manguy/full/KKYXvJw), an OpenClassrooms project
+14. Exercize: View the 3D Flip button on [codepen](https://codepen.io/s-manguy/full/mdgBBba)), an openClassrooms project
+15. Exercise: View the Hover me button on [codepen](https://codepen.io/s-manguy/full/qBwPPbo), an Openclassrooms project
+16. Exercise: View the Loading bar on [codepen](https://codepen.io/s-manguy/full/gOyGGMJ), an OpenClassrooms project
+17. Exercise: View the loading bars on [codepen](https://codepen.io/s-manguy/full/LYvzzRr), an OpenClassrooms project
 
 #### Webdesign - 15 projects
 1. Exercise: View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), a fCC project
