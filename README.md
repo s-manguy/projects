@@ -16,7 +16,8 @@ contains all my studies projects / contient mes projets d'études.
 5. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
 6. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
-8.  **Personal project**: **[Coding-Tricks]();
+8. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
+9. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/);
 
 #### Wordpress integration - 3 projects
 1. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
@@ -37,7 +38,7 @@ And the below Front-End and Back-End projects !
 5. View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge)
 6. View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK)
 
-#### Webdesign - 12 projects
+#### Webdesign - 13 projects
 1. View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy)
 2. View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww)
 3. View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx)
@@ -45,6 +46,7 @@ And the below Front-End and Back-End projects !
 5. View the Nutrition label in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp)
 6. View the Accessibility quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp)
 7. View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
+8. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
