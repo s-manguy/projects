@@ -47,8 +47,9 @@ And the below Front-End and Back-End projects !
 4. Exercise: View the City Skyline on [codepen](https://codepen.io/s-manguy/full/abXRdJE), a fCC project
 5. Exercise: View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge), a fCC project
 6. Exercise: View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK), a fCC project
+7. Exercice! View the Heartbeat on [codepen](https://codepen.io/s-manguy/pen/Yzgmapg), a fCC project
 
-#### Webdesign - 13 projects
+#### Webdesign - 15 projects
 1. Exercise: View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), a fCC project
 2. Exercise: View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww), a fCC project
 3. Exercise: View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx), a fCC project
@@ -56,7 +57,9 @@ And the below Front-End and Back-End projects !
 5. Exercise: View the Nutrition label in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp), a fCC project
 6. Exercise: View the Accessibility quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp), a fCC project
 7. Exercise: View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx), a fCC project
-8. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
+8. Exercise: Le blog de Zozor, an OpenClassrooms project
+9. Exercice: Curriculum Vitae, an Openclassrooms project
+10. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
