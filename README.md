@@ -40,7 +40,7 @@ And the below Front-End and Back-End projects !
 
 ### Responsive Web Design in HTML5 & CSS3
 
-#### Drawings and Animations - 10 projects
+#### Drawings and Animations - 11 projects
 1. Exercise: View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ), a fCC project
 2. Exercise: View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv), a fCC project
 3. Exercise: View the Piano on [codepen]( https://codepen.io/s-manguy/full/abXaVEJ), a fCC project
@@ -51,6 +51,7 @@ And the below Front-End and Back-End projects !
 8. Exercise: View Three sparkling stars on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
 9. Exercise: View an Animated ball on[codepen](https://codepen.io/s-manguy/full/LYvzjZx), a fCC project
 10. Exercice: View Three juggled balls on [codepen](https://codepen.io/s-manguy/full/PogJKWa), a fCC project
+11. Exercise: View the Light saber animation on [codepen](https://codepen.io/s-manguy/full/KKYXvJw), an OpenClassrooms project
 
 #### Webdesign - 15 projects
 1. Exercise: View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), a fCC project
