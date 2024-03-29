@@ -97,7 +97,7 @@ And the below Front-End and Back-End projects !
 #### Websites  - 9 projects
 1. Exercise: [take, a one page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
 2. Exercise: [info school, a multi-page website](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
-3. Café avec vue, an e-shop website with VueJS, an OpenClassrooms project  
+3. Café avec vue, an e-shop website with VueJS, an OpenClassrooms project - 2 versions
     * Exercise - first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
     * **Personal project** - second version: [with shopping cart displayed with a  modal](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)
 5. Exercise + **Personal project**: [La maison jungle, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
