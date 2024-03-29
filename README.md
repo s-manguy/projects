@@ -48,7 +48,7 @@ And the below Front-End and Back-End projects !
 5. Exercise: View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge), a fCC project
 6. Exercise: View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK), a fCC project
 7. Exercice! View the Heartbeat on [codepen](https://codepen.io/s-manguy/full/Yzgmapg)), a fCC project
-8. Exercise: View Two sparkling stars on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
+8. Exercise: View Three sparkling stars on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
 9. Exercise: View an Animated ball on[codepen](https://codepen.io/s-manguy/full/LYvzjZx), a fCC project
 
 #### Webdesign - 15 projects
