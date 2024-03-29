@@ -6,6 +6,10 @@ contains all my studies and personal projects / contient mes projets d'études e
 
 ## UX-UI
 ### Webdesign
+1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
+2. **Personal project**: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the Mon Super Blog project.
+3. **Personal project**: [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
+
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
 #### Mock-up - 7 projects
@@ -16,8 +20,8 @@ contains all my studies and personal projects / contient mes projets d'études e
 5. **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
 6. **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
-8. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
-9. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/);
+9. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
+10. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/);
 
 #### Wordpress integration - 3 projects
 1. **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
@@ -31,21 +35,21 @@ And the below Front-End and Back-End projects !
 ### Responsive Web Design in HTML5 & CSS3
 
 #### Drawings and Animations - 6 projects
-1. View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ)
-2. View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv)
-3. View the Pianoon [codepen]( https://codepen.io/s-manguy/full/abXaVEJ)
-4. View the City Skyline on [codepen](https://codepen.io/s-manguy/full/abXRdJE)
-5. View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge)
-6. View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK)
+1. View the Rothko painting on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ), a fCC project
+2. View the Cat painting on [codepen](https://codepen.io/s-manguy/full/abXjXRv), a fCC project
+3. View the Piano on [codepen]( https://codepen.io/s-manguy/full/abXaVEJ), a fCC project
+4. View the City Skyline on [codepen](https://codepen.io/s-manguy/full/abXRdJE), a fCC project
+5. View the Ferris whelle on [codepen](https://codepen.io/s-manguy/full/YzBJjge), a fCC project
+6. View the Penguin on [codepen](https://codepen.io/s-manguy/full/KKJLmEK), a fCC project
 
 #### Webdesign - 13 projects
-1. View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy)
-2. View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww)
-3. View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx)
-4. View the CSS flexbox gallery on [codepen](https://codepen.io/s-manguy/full/yLZbxMv)
-5. View the Nutrition label in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp)
-6. View the Accessibility quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp)
-7. View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx)
+1. View the Camper Cafe menu on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), a fCC project
+2. View the CSS Color Markers on [codepen](https://codepen.io/s-manguy/full/WNPRqww), a fCC project
+3. View the Registration form on [codepen](https://codepen.io/s-manguy/full/wvNJyvx), a fCC project
+4. View the CSS flexbox gallery on [codepen](https://codepen.io/s-manguy/full/yLZbxMv), a fCC project
+5. View the Nutrition label in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp), a fCC project
+6. View the Accessibility quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp), a fCC project
+7. View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx), a fCC project
 8. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html);
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
@@ -59,10 +63,10 @@ And the below Front-End and Back-End projects !
 
 ### Vanilla Javascript
 #### JavaScript Animation - 1 project
-1. View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
+1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
 #### JavaScript Algorithms and Data structure - 6 projects
-1. View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv)
+1. View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
 
 
 [view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
@@ -88,19 +92,21 @@ And the below Front-End and Back-End projects !
 7. [Shiny Agency, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project
 
 #### Applications  - 9 projects
-1. **Personal projects**: Random Quote machine, a fCC project:
+1. **Personal projects**: Random Quote machine, a fCC project - 3 versions:
     * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
     * second version: [HTML-Bootstrap-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-02-bootstrap-jquery)
     * third version [React.js-Bootstrap](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-03-react-bootstrap)
 
 2. **Personal project**: [Markdown Editor](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-02-markdown-previewer), a fCC project
-3. **Personal projects**: Drum Machine, a fCC project:
+3. **Personal projects**: Drum Machine, a fCC project - 3 versions:
     * first version: [React.js-SCSS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-01-react)
     * second version! [HTML-SCSS-plain JavaScript](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-02-plainjavascript)
     * third version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-03-drum-machine-version-03-jquery)
 4. **Personal project**: [JavaScript Calculator](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-04-javascript-calculator), a fCC project
 5. **Personal project**: [Pomodoro clock](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-05-pomodoro-clock), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/front-end-libraries)  -   view the projects on [codepen](https://codepen.io/collection/JGKqjx)
+
+
 6. **[Filmo - a movies list app](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-08-filmo-utiliser-les-design-patterns)**, an OpenClassroom project
 
 #### Games - 2 projects
@@ -110,12 +116,12 @@ And the below Front-End and Back-End projects !
 ### Data visualization with d3.js - 8 projects
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
 
-1. **Personal project**: [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project
-3. **Personal project**: [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project
+1. **Personal project**: [Bar chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project - 2 versions
+3. **Personal project**: [Scatter plot chart](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project  - 2 versions
 4. **Personal project**: [Heat map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
-5. **Personal project**: [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project
-6. **Personal project**: [Tree map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)  -   view the projects on [codepen](https://codepen.io/collection/zxBQGa)  
+5. **Personal project**: [Chloropleth map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project - 2 versions
+6. **Personal project**: [Tree map](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-05-treemapdiagram-3datasets), a fCC project - 2 versions
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/data-visualization)  -  view the projects on [codepen](https://codepen.io/collection/zxBQGa)  
 
 ## Back-End, APIs & microservices
 [view the APIs projects](https://github.com/s-manguy/projects/tree/main/APIs-microservices)
