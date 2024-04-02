@@ -12,6 +12,7 @@ contains all my studies and personal projects / contient mes projets d'études e
 ### Webdesign
 #### style guide
 1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
+2. **Personal project**: [style guide](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) from the Sunnyside agency landing page.
 
 
 #### Accessibility
@@ -19,15 +20,15 @@ contains all my studies and personal projects / contient mes projets d'études e
 
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
-#### Mock-up - 8 projects
+#### Wireframes + Mock-up + Components + Prototypes - 8 projects
 1. **Personal project: [Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
 3. **Personal project: [Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. [Links to figma files.](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
 4. Exercise: **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/4c3f2b3d-a2b5-46ee-a191-0476bd32094c-196c/?fullscreen)
 5. Exercise: **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
 6. Exercise: **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project: [Redesigned website in material design : P'tit chef](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
-9. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html)**;
-10. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)**;
+9. **Personal project**: **[Portfolio](https://sandrinemanguy.com/en/web-developer.html)** final project online;
+10. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)** final project online;
 
 #### Wordpress integration - 3 projects
 1. Exercise: **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
