@@ -12,7 +12,9 @@ contains all my studies and personal projects / contient mes projets d'études e
 ### Webdesign
 #### style guide
 1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
-2. **Personal project**: [style guide](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) from the Sunnyside agency landing page.
+2. **Personal project**: [Style guide](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) from the Sunnyside agency landing page project.
+3. **Personal project**: Style guide from the portfolio project;
+4. **Personal project**: Style guide from the Coding-tricks WordPress custom theme blog.
 
 
 #### Accessibility
@@ -35,7 +37,7 @@ contains all my studies and personal projects / contient mes projets d'études e
 2. **Personal project**: **[FitActive](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, a WordPress + Elementor project.
 3. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)**, a WordPress Core project.
 
-And the below Front-End and Back-End projects !
+And the below Front-End and Back-End personal projects !
 
 ## Front-End
 
