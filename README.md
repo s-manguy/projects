@@ -3,7 +3,8 @@
 # projects/projets
 contains all my studies and personal projects / contient mes projets d'études et personnels.
 
-Go to [UX/UI](#ux-ui), Font-End, Back-End, Full-Stack
+Go to [UX/UI](#ux-ui) projects list, [Font-End](#front-end) projects list, [Back-End](#back-end-apis--microservices) projects list, [Full-Stack](#full-stack
+) projects list
 
 
 ## UX-UI
@@ -89,18 +90,19 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 #### JavaScript Animation - 1 project
 1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
-#### JavaScript Algorithms and Data structure - 7 projects
+#### JavaScript Algorithms and Data structure - 8 projects
 1. Exercise: View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
 2. Exercise: View the Calorie Counter fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
+3. Exercice: View the Music Player fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
 
 
 [view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. **Personal project**: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
-3. **Personal project**: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
-4. **Personal project**: [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
-5. **Personal project**: [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
-6. ** Personal project**: [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
+2. **Personal project**: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
+3. **Personal project**: [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
+4. **Personal project**: [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
+5. ** Personal project**: [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
