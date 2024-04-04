@@ -97,7 +97,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 4. Exercise: View the Date Formatter fCC project on{codepen](https://codepen.io/s-manguy/full/gOyoJXB)
 
 
-[view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
+[view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. **Personal project**: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
 2. **Personal project**: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
