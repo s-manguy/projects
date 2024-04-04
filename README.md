@@ -3,7 +3,7 @@
 # projects/projets
 contains all my studies and personal projects / contient mes projets d'études et personnels.
 
-Go to [UX/UI](#ux-ui) projects list, [Font-End](#front-end) projects list, [Back-End](#back-end-apis--microservices) projects list, [Full-Stack](#full-stack
+Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects list, [**Back-End**](#back-end-apis--microservices) projects list, [**Full-Stack**](#full-stack
 ) projects list
 
 
