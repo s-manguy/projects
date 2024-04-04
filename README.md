@@ -94,6 +94,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 1. Exercise: View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
 2. Exercise: View the Calorie Counter fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
 3. Exercice: View the Music Player fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
+4. Exercise: View the Date Formatter fCC project on{codepen](https://codepen.io/s-manguy/full/gOyoJXB)
 
 
 [view the Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
@@ -102,7 +103,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 2. **Personal project**: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
 3. **Personal project**: [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
 4. **Personal project**: [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
-5. ** Personal project**: [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
+5. **Personal project**: [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
