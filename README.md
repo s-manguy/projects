@@ -90,7 +90,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 #### JavaScript Animation - 1 project
 1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
-#### JavaScript Algorithms and Data structure - 8 projects
+#### JavaScript Algorithms and Data structure - 9 projects
 1. Exercise: View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
 2. Exercise: View the Calorie Counter fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
 3. Exercice: View the Music Player fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
