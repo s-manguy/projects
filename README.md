@@ -10,15 +10,15 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 ## UX-UI
 ### UX
 1. **Personal project**: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the *Mon Super Blog* project.
-2. **Personal project**: [Information Architecture: UX User flows](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1) from the *Mon Super Blog* project.
+2. **Personal project**: **Information Architecture: UX User flows** on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1) from the *Mon Super Blog* project.
 
    
 ### Webdesign
 #### style guide
-1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
-2. **Personal project**: [Style guide](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) from the Sunnyside agency landing page project.
-3. **Personal project**: Style guide from the portfolio project;
-4. **Personal project**: Style guide from the Coding-tricks WordPress custom theme blog.
+1. **Personal project**: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the *Antoine Parmentier Tribute* Page project.
+2. **Personal project**: [Style guide](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) from the *Sunnyside agency landing page* project.
+3. **Personal project**: Style guide from the *portfolio* project;
+4. **Personal project**: Style guide from the *Coding-tricks* WordPress custom theme blog.
 
 
 #### Accessibility
@@ -91,12 +91,13 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 #### JavaScript Animation - 1 project
 1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 
-#### JavaScript Algorithms and Data structure - 10 projects
-1. Exercise: View the RPG - Dragon Repeller fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
-2. Exercise: View the Calorie Counter fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
-3. Exercice: View the Music Player fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
-4. Exercise: View the Date Formatter fCC project on [codepen](https://codepen.io/s-manguy/full/gOyoJXB)
-5. Exercise: View the Football Team Cards fCC project on [codepen](https://codepen.io/s-manguy/full/BaErPpe)
+#### JavaScript Algorithms and Data structure - 11 projects
+1. Exercise: View the *RPG - Dragon Repeller* fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
+2. Exercise: View the *Calorie Counter* fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
+3. Exercice: View the *Music Player* fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
+4. Exercise: View the *Date Formatter* fCC project on [codepen](https://codepen.io/s-manguy/full/gOyoJXB)
+5. Exercise: View the *Football Team Cards* fCC project on [codepen](https://codepen.io/s-manguy/full/BaErPpe)
+6. Exercise: View the *Todo App* fCC project on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ)
 
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
