@@ -10,7 +10,7 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 ## UX-UI
 ### UX
 1. **Personal project**: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the *Mon Super Blog* project.
-2. **Personal project**: **Information Architecture: UX User flows** on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1) from the *Mon Super Blog* project.
+2. **Personal project**: *Information Architecture: UX User flows* on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1) from the *Mon Super Blog* project.
 
    
 ### Webdesign
