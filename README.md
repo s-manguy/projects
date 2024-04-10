@@ -111,7 +111,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 1. **Personal project**: View the [***Palindrome Checker***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker) fCC Certification project
 2. **Personal project**: View the [***Roman Numeral Converter***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter) fCC Certification project
 3. **Personal project**: View the [***Caesars Cipher***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher) fCC Certification project
-4. **Personal project**: View the ***[Telephone Number Validator***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator) fCC Certification project
+4. **Personal project**: View the [***Telephone Number Validator***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator) fCC Certification project
 5. **Personal project**: View the [***Cash Register***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register) fCC Certification project 
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
