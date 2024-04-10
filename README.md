@@ -88,7 +88,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
 
 ### Vanilla Javascript
-#### JavaScript Animation - 1 project
+#### JavaScript Animation - 2 projects
 1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
 
