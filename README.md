@@ -90,6 +90,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 ### Vanilla Javascript
 #### JavaScript Animation - 1 project
 1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
+2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
 
 #### JavaScript Algorithms and Data structure - 14 projects
 1. Exercise: View the *RPG - Dragon Repeller* fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
