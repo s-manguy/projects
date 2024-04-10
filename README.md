@@ -15,10 +15,10 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
    
 ### Webdesign
 #### style guide
-1. **Personal project**: View the ***Style guide*** from the *Antoine Parmentier Tribute* Page project on [github](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png).
-2. **Personal project**: View the ***Style guide*** from the *Sunnyside agency landing page* project on [figma](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) .
-3. **Personal project**: ***Style guide*** from the *portfolio* project.
-4. **Personal project**: ***Style guide*** from the *Coding-tricks* WordPress custom theme blog.
+1. **Personal project**: View the ***Style guide*** from the *Antoine Parmentier Tribute* Page project on [github](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png)
+2. **Personal project**: View the ***Style guide*** from the *Sunnyside agency landing page* project on [figma](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design)
+3. **Personal project**: ***Style guide*** from the *portfolio* project. View the *Portfolio* [online](https://sandrinemanguy.com/en/web-developer.html)
+4. **Personal project**: ***Style guide*** from the *Coding-tricks* WordPress custom theme blog. View *Coding-Tircks* [online](https://coding-tricks.sandrinemanguy.com/)
 
 
 #### Accessibility
@@ -27,8 +27,8 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 [view the webdesign projects](https://github.com/s-manguy/projects/tree/main/webdesign)
 
 #### Wireframes + Mock-up + Components + Prototypes - 8 projects
-1. **Personal project: [Tribute Page: Antoine Parmentier](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)**, a fCC project realised with figma. [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
-3. **Personal project: [Landing Page: Sunnyside Agency](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page)**, based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), realised with figma. [Links to figma files.](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
+1. **Personal project: View the ***Tribute Page: Antoine Parmentier*** fCC project realised with figma, on [github](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page)** [Links to figma views.](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
+3. **Personal project: View the ***Sunnyside Agency Landing Page*** project realised with figma based on an **Adrian Twarog**'s [tutorial](https://www.freecodecamp.org/news/figma-crash-course/) based on a landing page idea created for a [frontendmentor project](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-mVy7o6ijV), . on [github](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page), on [figma](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
 4. Exercise: **[Travel Agency website: Xtreme](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/4c3f2b3d-a2b5-46ee-a191-0476bd32094c-196c/?fullscreen)
 5. Exercise: **[Puppies to adopt website: Puppy](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website)**, an OpenClassrooms project realised with AdobeXD. [View the prototype.](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
 6. Exercise: **[Contact-page in material design](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page)**, an OpenClassrooms project realised with AdobeXD. [View the screenshot.](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
