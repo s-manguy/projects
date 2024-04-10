@@ -76,7 +76,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 7. Exercise: View the Magazine on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx), a fCC project
 8. Exercise: Le blog de Zozor, an OpenClassrooms project
 9. Exercice: Curriculum Vitae, an Openclassrooms project
-10. **Personal project**: View my **Portfolio** [onLine](https://sandrinemanguy.com/en/web-developer.html);
+10. **Personal project**: View my **Portfolio** [onLine](https://sandrinemanguy.com/en/web-developer.html)
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
