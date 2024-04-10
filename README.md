@@ -34,12 +34,12 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 6. Exercise: View the ***Contact-page in material design*** OpenClassrooms project realised with AdobeXD. on [github](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page). The screenshot is on [github](https://github.com/s-manguy/projects/tree/main/webdesign/material-design-contact-page#screenshot)
 7. **Personal project:** View the ***Redesigned website in material design : P'tit chef*** OpenClassrooms project realised with AdobeXD on [github](https://github.com/s-manguy/projects/tree/main/webdesign/p-tit-chef-website-redesigned-in-material-design). The prototype is on [adobe.com](https://xd.adobe.com/view/762c566c-8f53-449d-ba18-b247f2cc0e55-237f/?fullscreen)
 9. **Personal project**: View the ***Portfolio*** final project [online](https://sandrinemanguy.com/en/web-developer.html)
-10. **Personal project**: View the ***Coding-Tricks*** final project [online](https://coding-tricks.sandrinemanguy.com/)** 
+10. **Personal project**: View the ***Coding-Tricks*** final project [online](https://coding-tricks.sandrinemanguy.com/)
 
 #### Wordpress integration - 3 projects
-1. Exercise: **[Banana Design Agency](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design)**, a WordPress + Elementor OpenClassrooms project.
-2. **Personal project**: **[FitActive](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, a WordPress + Elementor project.
-3. **Personal project**: **[Coding-Tricks](https://coding-tricks.sandrinemanguy.com/)**, a WordPress Core project.
+1. Exercise: View thea WordPress + Elementor ***Banana Design Agency*** OpenClassrooms project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design), [online](https://sandrinemanguy.com/portfolio/Bananadesign/)
+2. **Personal project**: View the WordPress + Elementor ***FitActive*** project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, [online](https://sandrinemanguy.com/portfolio/FitActive_3/)
+3. **Personal project**: View the ***Coding-Tricks*** WordPress Core Custom theme project [online](https://coding-tricks.sandrinemanguy.com/)
 
 And the below Front-End and Back-End personal projects !
 
