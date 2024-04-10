@@ -55,7 +55,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 2. Exercise: View the ***Cat painting*** on [codepen](https://codepen.io/s-manguy/full/abXjXRv), a fCC project
 3. Exercise: View the ***Piano*** on [codepen]( https://codepen.io/s-manguy/full/abXaVEJ), a fCC project
 4. Exercise: View the ***City Skyline*** on [codepen](https://codepen.io/s-manguy/full/abXRdJE), a fCC project
-5. Exercise: View the ***Ferris wheel** on [codepen](https://codepen.io/s-manguy/full/YzBJjge), a fCC project
+5. Exercise: View the ***Ferris wheel*** on [codepen](https://codepen.io/s-manguy/full/YzBJjge), a fCC project
 6. Exercise: View the ***Penguin*** on [codepen](https://codepen.io/s-manguy/full/KKJLmEK), a fCC project
 7. Exercice! View the ***Heartbeat*** on [codepen](https://codepen.io/s-manguy/full/Yzgmapg)), a fCC project
 8. Exercise: View ***Three sparkling stars*** on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
