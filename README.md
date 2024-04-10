@@ -9,15 +9,15 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 
 ## UX-UI
 ### UX
-1. **Personal project**: ***UX navigation map*** on [github](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the *Mon Super Blog* project.
-2. **Personal project**: ***Information Architecture: UX User flows*** on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1) from the *Mon Super Blog* project.
+1. **Personal project**: View the ***UX navigation map*** from the *Mon Super Blog* project on [github](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf).
+2. **Personal project**: View the ***Information Architecture: UX User flows*** from the *Mon Super Blog* project on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1).
 
    
 ### Webdesign
 #### style guide
 1. **Personal project**: View the ***Style guide*** from the *Antoine Parmentier Tribute* Page project on [github](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png).
 2. **Personal project**: View the ***Style guide*** from the *Sunnyside agency landing page* project on [figma](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design) .
-3. **Personal project**: ***Style guide*** from the *portfolio* project;
+3. **Personal project**: ***Style guide*** from the *portfolio* project.
 4. **Personal project**: ***Style guide*** from the *Coding-tricks* WordPress custom theme blog.
 
 
