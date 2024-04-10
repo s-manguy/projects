@@ -36,12 +36,14 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 9. **Personal project**: View the ***Portfolio*** final project [online](https://sandrinemanguy.com/en/web-developer.html)
 10. **Personal project**: View the ***Coding-Tricks*** final project [online](https://coding-tricks.sandrinemanguy.com/)
 
-#### Wordpress integration - 3 projects
+And the below Front-End and Back-End personal projects !
+
+#### Webdesign + Wordpress integration - 3 projects
 1. Exercise: View thea WordPress + Elementor ***Banana Design Agency*** OpenClassrooms project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design), [online](https://sandrinemanguy.com/portfolio/Bananadesign/)
-2. **Personal project**: View the WordPress + Elementor ***FitActive*** project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive)**, [online](https://sandrinemanguy.com/portfolio/FitActive_3/)
+2. **Personal project**: View the WordPress + Elementor ***FitActive*** project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive), [online](https://sandrinemanguy.com/portfolio/FitActive_3/)
 3. **Personal project**: View the ***Coding-Tricks*** WordPress Core Custom theme project [online](https://coding-tricks.sandrinemanguy.com/)
 
-And the below Front-End and Back-End personal projects !
+
 
 ## Front-End
 
@@ -80,37 +82,37 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
-1. **Personal project**: [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page), a fCC project
-3. **Personal project**: [Survey Form](https://github.com/s-manguy/projects/tree/main/RWD/fcc-02-survey-form), a fCC project
-4. **Personal project**: [Landing Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page), a fCC project
-5. **Personal project**: [Technical documentation](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a fCC project
-6. **Personal project**: [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a fCC project  
-[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects on [codepen](https://codepen.io/collection/jbzoPL)
+1. **Personal project**: View the [Tribute Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page) fCC Certification project
+3. **Personal project**: View the [Survey Form](https://github.com/s-manguy/projects/tree/main/RWD/fcc-02-survey-form) fCC Certification project
+4. **Personal project**: View the [Landing Page](https://github.com/s-manguy/projects/tree/main/RWD/fcc-03-landing-page) fCC Certification project
+5. **Personal project**: View the [Technical documentation](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a fCC Certification project
+6. **Personal project**: Vieaw the [Portfolio](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio) fCC Certification project  
+[Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/responsive-web-design)  -   view the projects gathered in a collection on [codepen](https://codepen.io/collection/jbzoPL)
 
 ### Vanilla Javascript
 #### JavaScript Animation - 2 projects
-1. **Personal project**: View the Clicked squares Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
+1. **Personal project**: View the ***Clicked squares*** Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
 
 #### JavaScript Algorithms and Data structure - 14 projects
-1. Exercise: View the *RPG - Dragon Repeller* fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
-2. Exercise: View the *Calorie Counter* fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
-3. Exercice: View the *Music Player* fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
-4. Exercise: View the *Date Formatter* fCC project on [codepen](https://codepen.io/s-manguy/full/gOyoJXB)
-5. Exercise: View the *Football Team Cards* fCC project on [codepen](https://codepen.io/s-manguy/full/BaErPpe)
-6. Exercise: View the *Todo App* fCC project on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ)
-7. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
-8. Exercise: View the *Number Sort* fCC project on [codepen](https://codepen.io/s-manguy/full/YzMLjwE)
-9. Exercise: View the *Statistics Calculator* fCC project on [codepen](https://codepen.io/s-manguy/full/zYXjMOv)
+1. Exercise: View the ***RPG - Dragon Repeller*** fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
+2. Exercise: View the ***Calorie Counter*** fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
+3. Exercice: View the ***Music Player*** fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
+4. Exercise: View the ***Date Formatter*** fCC project on [codepen](https://codepen.io/s-manguy/full/gOyoJXB)
+5. Exercise: View the ***Football Team Cards*** fCC project on [codepen](https://codepen.io/s-manguy/full/BaErPpe)
+6. Exercise: View the ***Todo App*** fCC project on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ)
+7. Exercise: View the ***Decimal to binary Converter*** fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
+8. Exercise: View the ***Number Sort*** fCC project on [codepen](https://codepen.io/s-manguy/full/YzMLjwE)
+9. Exercise: View the ***Statistics Calculator*** fCC project on [codepen](https://codepen.io/s-manguy/full/zYXjMOv)
 
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
-1. **Personal project**: [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker), a fCC project
-2. **Personal project**: [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter), a fCC project
-3. **Personal project**: [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher), a fCC project
-4. **Personal project**: [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator), a fCC project
-5. **Personal project**: [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register), a fCC project  
+1. **Personal project**: View the [Palindrome Checker](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker) fCC Certification project
+2. **Personal project**: View the [Roman Numeral Converter](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter) fCC Certification project
+3. **Personal project**: View the [Caesars Cipher](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher) fCC Certification project
+4. **Personal project**: View the [Telephone Number Validator](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator) fCC Certification project
+5. **Personal project**: View the [Cash Register](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register) fCC Certification project 
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
