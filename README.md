@@ -95,21 +95,21 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
 
 #### JavaScript Algorithms and Data structure - 20 projects
-1. Exercise: View the ***RPG - Dragon Repeller*** fCC project on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
-2. Exercise: View the ***Calorie Counter*** fCC project on [codepen](https://codepen.io/s-manguy/full/xxePNoz)
-3. Exercice: View the ***Music Player*** fCC project on [condepen](https://codepen.io/s-manguy/full/LYvejGE)
-4. Exercise: View the ***Date Formatter*** fCC project on [codepen](https://codepen.io/s-manguy/full/gOyoJXB)
-5. Exercise: View the ***Football Team Cards*** fCC project on [codepen](https://codepen.io/s-manguy/full/BaErPpe)
-6. Exercise: View the ***Todo App*** fCC project on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ)
-7. Exercise: View the ***Decimal to binary Converter*** fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
-8. Exercise: View the ***Number Sort*** fCC project on [codepen](https://codepen.io/s-manguy/full/YzMLjwE)
-9. Exercise: View the ***Statistics Calculator*** fCC project on [codepen](https://codepen.io/s-manguy/full/zYXjMOv)
-10. Exercise: View the ***Spreadsheet*** fCC project on [codepen](https://codepen.io/s-manguy/full/xxezMVB)
-11. Exercise: View the ***Spam Filter*** fCC project on [codepen](https://codepen.io/s-manguy/full/zYXLyaE)
-12. Exercise: View the ***Shopping Cart*** OOP fCC project on [codepen](https://codepen.io/s-manguy/full/yLrqdMZ)
-13. Exercise: View the ***Platformer Game*** canvas intermediate OOP fCC project on [codepen](https://codepen.io/s-manguy/full/xxeaPGv)
-14. Exercise: View the ***Dice Game***  intermediate algorithms fCC project on [codepen](https://codepen.io/s-manguy/full/yLrGJMz)
-15. Exercise: View the ***authors Page*** fCC project on [codepen](https://codepen.io/s-manguy/full/KKYbWpe)
+1. Exercise: View the ***RPG - Dragon Repeller*** on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
+2. Exercise: View the ***Calorie Counter*** on [codepen](https://codepen.io/s-manguy/full/xxePNoz), a fCC project
+3. Exercice: View the ***Music Player*** on [condepen](https://codepen.io/s-manguy/full/LYvejGE), a fCC project
+4. Exercise: View the ***Date Formatter*** on [codepen](https://codepen.io/s-manguy/full/gOyoJXB), a fCC project
+5. Exercise: View the ***Football Team Cards*** on [codepen](https://codepen.io/s-manguy/full/BaErPpe), a fCC project
+6. Exercise: View the ***Todo App*** on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ), a fCC project
+7. Exercise: View the ***Decimal to binary Converter*** on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO), a fCC project
+8. Exercise: View the ***Number Sort*** on [codepen](https://codepen.io/s-manguy/full/YzMLjwE), a fCC project
+9. Exercise: View the ***Statistics Calculator*** fon [codepen](https://codepen.io/s-manguy/full/zYXjMOv), a fCC project
+10. Exercise: View the ***Spreadsheet*** on [codepen](https://codepen.io/s-manguy/full/xxezMVB), a fCC project
+11. Exercise: View the ***Spam Filter*** on [codepen](https://codepen.io/s-manguy/full/zYXLyaE), a fCC project
+12. Exercise: View the ***Shopping Cart***  on [codepen](https://codepen.io/s-manguy/full/yLrqdMZ), an OOP fCC project
+13. Exercise: View the ***Platformer Game*** on [codepen](https://codepen.io/s-manguy/full/xxeaPGv), a canvas intermediate OOP fCC project
+14. Exercise: View the ***Dice Game*** on [codepen](https://codepen.io/s-manguy/full/yLrGJMz), an intermediate algorithms fCC project
+15. Exercise: View the ***authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), a fCC project
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
