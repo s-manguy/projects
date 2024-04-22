@@ -109,7 +109,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 12. Exercise: View the ***Shopping Cart***  on [codepen](https://codepen.io/s-manguy/full/yLrqdMZ), an OOP fCC project
 13. Exercise: View the ***Platformer Game*** on [codepen](https://codepen.io/s-manguy/full/xxeaPGv), a canvas intermediate OOP fCC project
 14. Exercise: View the ***Dice Game*** on [codepen](https://codepen.io/s-manguy/full/yLrGJMz), an intermediate algorithms fCC project
-15. Exercise: View the ***authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), a fCC project
+15. Exercise: View the ***Authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), a fCC project
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
