@@ -94,7 +94,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 1. **Personal project**: View the ***Clicked squares*** Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
 2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
 
-#### JavaScript Algorithms and Data structure - 21 projects
+#### JavaScript Algorithms and Data structure - 22 projects
 1. Exercise: View the ***Pyramid Generator*** on [Codepen](https://codepen.io/s-manguy/full/PogXLOq), a fCC project
 2. Exercise: View the ***RPG - Dragon Repeller*** on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
 3. Exercise: View the ***Calorie Counter*** on [codepen](https://codepen.io/s-manguy/full/xxePNoz), a fCC project
@@ -111,6 +111,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 14. Exercise: View the ***Platformer Game*** on [codepen](https://codepen.io/s-manguy/full/xxeaPGv), a canvas intermediate OOP fCC project
 15. Exercise: View the ***Dice Game*** on [codepen](https://codepen.io/s-manguy/full/yLrGJMz), an intermediate algorithms fCC project
 16. Exercise: View the ***Authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), a fCC project
+17. Exercise: View the ***Forum Leaderboard*** on [codepen](https://codepen.io/s-manguy/full/WNWPBra), a fCC project
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
