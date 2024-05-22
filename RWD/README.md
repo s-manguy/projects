@@ -10,6 +10,36 @@ This directory contains Responsive Web Design Project.
 4. [**Technical documentation**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-04-technical-documentation), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/bGBjwvx)
 5. [**Portfolio**](https://github.com/s-manguy/projects/tree/main/RWD/fcc-05-portfolio), a freeCodeCamp project. Look at the following [codepen](https://codepen.io/s-manguy/full/KKapbzd)
 
+## Drawings and Animations - 17 projects
+View all the below projects as a [collection on codepen](https://codepen.io/collection/VYRqWM)
+1. Exercise: View the ***Rothko painting*** on [codepen](https://codepen.io/s-manguy/full/jOdmqPQ), on [github](), a fCC project
+2. Exercise: View the ***Cat painting*** on [codepen](https://codepen.io/s-manguy/full/abXjXRv), on [github](), a fCC project
+3. Exercise: View the ***Piano*** on [codepen]( https://codepen.io/s-manguy/full/abXaVEJ), on [github](), a fCC project
+4. Exercise: View the ***City Skyline*** on [codepen](https://codepen.io/s-manguy/full/abXRdJE), on [github](), a fCC project
+5. Exercise: View the ***Ferris wheel*** on [codepen](https://codepen.io/s-manguy/full/YzBJjge), on [github](), a fCC project
+6. Exercise: View the ***Penguin*** on [codepen](https://codepen.io/s-manguy/full/KKJLmEK), on [github](), a fCC project
+7. Exercice! View the ***Heartbeat*** on [codepen](https://codepen.io/s-manguy/full/Yzgmapg)), a fCC project
+8. Exercise: View ***Three sparkling stars*** on [codepen](https://codepen.io/s-manguy/full/VwNMzeb), a fCC project
+9. Exercise: View an ***Animated ball*** on[codepen](https://codepen.io/s-manguy/full/LYvzjZx), a fCC project
+10. Exercice: View ***Three juggled balls*** on [codepen](https://codepen.io/s-manguy/full/PogJKWa), a fCC project
+11. Exercise: view the ***Animate me button*** on [codepen](https://codepen.io/s-manguy/full/zYXEdXZ), an Openclassrooms project
+13. Exercise: View the ***Light saber animation*** on [codepen](https://codepen.io/s-manguy/full/KKYXvJw), an OpenClassrooms project
+14. Exercize: View the ***3D Flip button*** on [codepen](https://codepen.io/s-manguy/full/mdgBBba)), an openClassrooms project
+15. Exercise: View the ***Hover me button*** on [codepen](https://codepen.io/s-manguy/full/qBwPPbo), an Openclassrooms project
+16. Exercise: View the ***Loading bar*** on [codepen](https://codepen.io/s-manguy/full/gOyGGMJ), an OpenClassrooms project
+17. Exercise: View the ***loading bars*** on [codepen](https://codepen.io/s-manguy/full/LYvzzRr), an OpenClassrooms project
+
+## Webdesign - 10 projects
+1. Exercise: View the ***Camper Cafe menu*** on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), on [github](), a fCC project
+2. Exercise: View the ***CSS Color Markers*** on [codepen](https://codepen.io/s-manguy/full/WNPRqww), on [github](), a fCC project
+3. Exercise: View the ***Registration form*** on [codepen](https://codepen.io/s-manguy/full/wvNJyvx), on [github](), a fCC project
+4. Exercise: View the ***CSS flexbox gallery*** on [codepen](https://codepen.io/s-manguy/full/yLZbxMv), on [github](), a fCC project
+5. Exercise: View the ***Nutrition label*** in HTML and CSS [codepen](https://codepen.io/s-manguy/full/eYxRwzp), on [github](), a fCC project
+6. Exercise: View the ***Accessibility*** quiz on [codepen](https://codepen.io/s-manguy/full/gOqGbJp), on [github](), a fCC project
+7. Exercise: View the ***Magazine*** on [codepen](https://codepen.io/s-manguy/full/ZEwqRQx), on [github](), a fCC project
+8. Exercise: ***Le blog de Zozor***, an OpenClassrooms project
+9. Exercice: ***Curriculum Vitae***, an Openclassrooms project
+10. **Personal project**: View my ***Portfolio*** [onLine](https://sandrinemanguy.com/en/web-developer.html)
 
 ## Diploma & Certifications
 2021-2021 : [freeCodeCamp **Data Visualization** Certification](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
