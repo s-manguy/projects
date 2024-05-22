@@ -73,6 +73,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 16. Exercise: View the ***Loading bar*** on [codepen](https://codepen.io/s-manguy/full/gOyGGMJ), an OpenClassrooms project
 17. Exercise: View the ***loading bars*** on [codepen](https://codepen.io/s-manguy/full/LYvzzRr), an OpenClassrooms project
 
+
+
 #### Webdesign - 16 projects
 1. Exercise: View the ***Camper Cafe menu*** on [codepen](https://codepen.io/s-manguy/full/wvNgJoy), on [github](https://github.com/s-manguy/projects/tree/main/RWD/cafe-menu), a fCC project
    
@@ -88,6 +90,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 12. **Personal project**: View my ***Portfolio*** [onLine](https://sandrinemanguy.com/en/web-developer.html)
 
 
+
+
 [view the RWD projects](https://github.com/s-manguy/projects/tree/main/RWD) realized to get the fCC Certification
 
 1. **Personal project**: View the [***Tribute Page***](https://github.com/s-manguy/projects/tree/main/RWD/fcc-01-tribute-page) fCC Certification project
@@ -101,7 +105,10 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 ### Vanilla Javascript
 #### JavaScript Animation - 2 projects
 1. **Personal project**: View the ***Clicked squares*** Vanilla JS animation on [codepen](https://codepen.io/s-manguy/full/KKJLvMy)
-2. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
+   
+3. Exercise: View the *Decimal to binary Converter* fCC project on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO)
+
+
 
 #### JavaScript Algorithms and Data structure - 22 projects
 1. Exercise: View the ***Pyramid Generator*** on [Codepen](https://codepen.io/s-manguy/full/PogXLOq), on [github](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/pyramid-ge,erator),a fCC project
@@ -122,6 +129,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 16. Exercise: View the ***Dice Game*** on [codepen](https://codepen.io/s-manguy/full/yLrGJMz), on [github](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/dice-game),an intermediate algorithms fCC project
 17. Exercise: View the ***Authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), on [github](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/authore-page),a fCC project
 18. Exercise: View the ***Forum Leaderboard*** on [codepen](https://codepen.io/s-manguy/full/WNWPBra), on [github](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/forum_leaderboard),a fCC project
+
+
 
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
@@ -147,6 +156,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 5. Exercise + **Personal project**: [***La maison jungle***, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
 6. Exercise: [***Shiny Agency***, a SPA with React Router (& redux)](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-05-shiny-agency), an OpenClassrooms project - 4 versions
 
+
+
 #### Applications  - 9 projects
 1. **Personal projects**: ***Random Quote machine***, a fCC project - 3 versions:
     * first version: [HTML-SCSS-jQuery](https://github.com/s-manguy/projects/tree/main/front-end-libraries/fcc-01-randomquote-version-01-html-scss-jquery)
@@ -169,6 +180,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 1. Exercise + **Personal project**: ***[Memory game***, with React](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
    
 3. Exercise: [***Tennis Score***, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
+
+
 
 ### Data visualization with d3.js - 8 projects
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
@@ -198,6 +211,8 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 7. File Metadata Microservice  
 [Certification]()
 
+
+
 ### Symfony and API Platform - 1 project
 * [***Comment module on a blog***](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Grafikart project.
 
@@ -209,11 +224,17 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 3. Exercise: [***Ma Super Agence*** - a Real Estate Agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence), a Symfony + MySQL Grafikart project.
 4. Exercise: [***Comment module*** on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Symfony, SQL, API Platform & React Grafikart project.
 
+
+
 ### React / React + Redux, express.js, PostgreSQL - 1 project
 1. **personal project**:  a [***notes-app***](https://github.com/s-manguy/notes-app) + [Notes-app-server](https://github.com/s-manguy/notes-app-server), a React + express.js + elephantSQL + Prisma project.
 
+
+
 ### WordPress custom theme website - 1 project
 1. **Personal project**: ***Coding-Tricks*** a blog created from design to coding and articles writing. View the [result](https://coding-tricks.sandrinemanguy.com/).
+
+
 
 ## Appendices
 * Personal project: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
