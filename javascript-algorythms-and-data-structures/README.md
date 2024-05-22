@@ -12,7 +12,23 @@ This directory contains JavaScript algorythms and Data Structures Projects.
 [View Certification & solutions](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)
 
 ## JavaScript algorythms and Data Structures Exercises projects
-
+1. Exercise: View the ***Pyramid Generator*** on [Codepen](https://codepen.io/s-manguy/full/PogXLOq), a fCC project
+2. Exercise: View the ***RPG - Dragon Repeller*** on [Codepen](https://codepen.io/s-manguy/full/MWREmrv), a fCC project
+3. Exercise: View the ***Calorie Counter*** on [codepen](https://codepen.io/s-manguy/full/xxePNoz), a fCC project
+4. Exercice: View the ***Music Player*** on [condepen](https://codepen.io/s-manguy/full/LYvejGE), a fCC project
+5. Exercise: View the ***Date Formatter*** on [codepen](https://codepen.io/s-manguy/full/gOyoJXB), a fCC project
+6. Exercise: View the ***Football Team Cards*** on [codepen](https://codepen.io/s-manguy/full/BaErPpe), a fCC project
+7. Exercise: View the ***Todo App*** on [codepen](https://codepen.io/s-manguy/full/GRLdoXZ), a fCC project
+8. Exercise: View the ***Decimal to binary Converter*** on [codepen](https://codepen.io/s-manguy/full/ZEZoyvO), a fCC project
+9. Exercise: View the ***Number Sort*** on [codepen](https://codepen.io/s-manguy/full/YzMLjwE), a fCC project
+10. Exercise: View the ***Statistics Calculator*** fon [codepen](https://codepen.io/s-manguy/full/zYXjMOv), a fCC project
+11. Exercise: View the ***Spreadsheet*** on [codepen](https://codepen.io/s-manguy/full/xxezMVB), a fCC project
+12. Exercise: View the ***Spam Filter*** on [codepen](https://codepen.io/s-manguy/full/zYXLyaE), a fCC project
+13. Exercise: View the ***Shopping Cart***  on [codepen](https://codepen.io/s-manguy/full/yLrqdMZ), an OOP fCC project
+14. Exercise: View the ***Platformer Game*** on [codepen](https://codepen.io/s-manguy/full/xxeaPGv), a canvas intermediate OOP fCC project
+15. Exercise: View the ***Dice Game*** on [codepen](https://codepen.io/s-manguy/full/yLrGJMz), an intermediate algorithms fCC project
+16. Exercise: View the ***Authors Page*** on [codepen](https://codepen.io/s-manguy/full/KKYbWpe), a fCC project
+17. Exercise: View the ***Forum Leaderboard*** on [codepen](https://codepen.io/s-manguy/full/WNWPBra), a fCC project
 
 ## Diploma & Certifications
 2021-2021 : [freeCodeCamp **Data Visualization** Certification](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
