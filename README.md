@@ -10,15 +10,17 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 ## UX-UI
 ### UX
 1. **Personal project**: View the ***UX navigation map*** from the *Mon Super Blog* project on [github](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf).
-2. **Personal project**: View the ***Information Architecture: UX User flows*** from the *Mon Super Blog* project on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1).
+   
+3. **Personal project**: View the ***Information Architecture: UX User flows*** from the *Mon Super Blog* project on [figma](https://www.figma.com/file/RY5rw9KxqXZBkWP0q4SfnA/Mon-super-blog----User-flow?type=whiteboard&node-id=0%3A1&t=bYUHFw3c6ND4ijsB-1).
 
    
 ### Webdesign
 #### style guide
 1. **Personal project**: View the ***Style guide*** from the *Antoine Parmentier Tribute* Page project on [github](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png)
-2. **Personal project**: View the ***Style guide*** from the *Sunnyside agency landing page* project on [figma](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design)
-3. **Personal project**: ***Style guide*** from the *portfolio* project. View the *Portfolio* [online](https://sandrinemanguy.com/en/web-developer.html)
-4. **Personal project**: ***Style guide*** from the *Coding-tricks* WordPress custom theme blog. View *Coding-Tircks* [online](https://coding-tricks.sandrinemanguy.com/)
+   
+3. **Personal project**: View the ***Style guide*** from the *Sunnyside agency landing page* project on [figma](https://www.figma.com/file/KorWlWLjfqqE1BqGaStgOP/Sunnyside---Figma-from-crach-course?type=design&node-id=40-3&mode=design)
+4. **Personal project**: ***Style guide*** from the *portfolio* project. View the *Portfolio* [online](https://sandrinemanguy.com/en/web-developer.html)
+5. **Personal project**: ***Style guide*** from the *Coding-tricks* WordPress custom theme blog. View *Coding-Tircks* [online](https://coding-tricks.sandrinemanguy.com/)
 
 
 #### Accessibility
@@ -28,6 +30,7 @@ Go to [**UX/UI**](#ux-ui) projects list, [**Front-End**](#front-end) projects li
 
 #### Wireframes + Mock-up + Components + Prototypes - 8 projects
 1. **Personal project**: View the ***Tribute Page: Antoine Parmentier*** fCC project realised with figma, on [github](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page). The screenshots are on [github](https://github.com/s-manguy/projects/tree/main/webdesign/antoine-parmentier_tribute-page#design-the-final-tribute-page)
+   
 3. **Personal project**: View the ***Sunnyside Agency Landing Page*** project realised with figma based on an **Adrian Twarog**'s tutorial,  on [github](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page). The screenshots are on [github](https://github.com/s-manguy/projects/tree/main/webdesign/sunnyside-agency_landing-page#links-to-the-final-landing-page)
 4. Exercise: View the ***Travel Agency website: Xtreme*** OpenClassrooms project realised with AdobeXD, on [github](https://github.com/s-manguy/projects/tree/main/webdesign/xtreme_website). The prototype is on [adobe.com](https://xd.adobe.com/view/4c3f2b3d-a2b5-46ee-a191-0476bd32094c-196c/?fullscreen)
 5. Exercise: View the ***Puppies to adopt website: Puppy*** OpenClassrooms project realised with AdobeXD, on [github](https://github.com/s-manguy/projects/tree/main/webdesign/puppy_website). The prototype is on [adobe.com](https://xd.adobe.com/view/bc0da935-a16b-4a12-99e3-85e0b7122110-e95e/?fullscreen)
@@ -40,8 +43,9 @@ And the below Front-End and Back-End personal projects !
 
 #### Webdesign + Wordpress integration - 3 projects
 1. Exercise: View thea WordPress + Elementor ***Banana Design Agency*** OpenClassrooms project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/banana-design), [online](https://sandrinemanguy.com/portfolio/Bananadesign/)
-2. **Personal project**: View the WordPress + Elementor ***FitActive*** project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive), [online](https://sandrinemanguy.com/portfolio/FitActive_3/)
-3. **Personal project**: View the ***Coding-Tricks*** WordPress Core Custom theme project [online](https://coding-tricks.sandrinemanguy.com/)
+   
+3. **Personal project**: View the WordPress + Elementor ***FitActive*** project on [github](https://github.com/s-manguy/projects/tree/main/webdesign/fitactive), [online](https://sandrinemanguy.com/portfolio/FitActive_3/)
+4. **Personal project**: View the ***Coding-Tricks*** WordPress Core Custom theme project [online](https://coding-tricks.sandrinemanguy.com/)
 
 
 
@@ -120,10 +124,11 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 [view the LEGACY Javascript algorythms and Data structure projects](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures) realized to get the fCC Certification
 
 1. **Personal project**: View the [***Palindrome Checker***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/01-palindrome-checker) fCC Certification project
-2. **Personal project**: View the [***Roman Numeral Converter***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter) fCC Certification project
-3. **Personal project**: View the [***Caesars Cipher***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher) fCC Certification project
-4. **Personal project**: View the [***Telephone Number Validator***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator) fCC Certification project
-5. **Personal project**: View the [***Cash Register***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register) fCC Certification project 
+   
+3. **Personal project**: View the [***Roman Numeral Converter***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/02-roman-numeral-converter) fCC Certification project
+4. **Personal project**: View the [***Caesars Cipher***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/03-caesars-cipher) fCC Certification project
+5. **Personal project**: View the [***Telephone Number Validator***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/04-telephone-number-validator) fCC Certification project
+6. **Personal project**: View the [***Cash Register***](https://github.com/s-manguy/projects/tree/main/javascript-algorythms-and-data-structures/05-cash-register) fCC Certification project 
 [Certification](https://www.freecodecamp.org/certification/fcc3ab085a4-3e2d-4160-a445-50914111cc0d/javascript-algorithms-and-data-structures)  
 
 
@@ -132,8 +137,9 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 #### Websites  - 9 projects
 1. Exercise: [***take, a one page website***](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-01-onepage-website), an OpenClassrooms project
-2. Exercise: [***info school, a multi-page website***](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
-3. ***Café avec vue***, an e-shop website with VueJS, an OpenClassrooms project - 2 versions
+   
+3. Exercise: [***info school, a multi-page website***](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-02-website-InfoSchool), an OpenClassrooms project
+4. ***Café avec vue***, an e-shop website with VueJS, an OpenClassrooms project - 2 versions
     * Exercise - first version: [basic project slightly improved](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue)
     * **Personal project** - second version: [with shopping cart displayed with a  modal](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc_cafe-avec-vue-shoppingcart)
 5. Exercise + **Personal project**: [***La maison jungle***, an e-shop website with ReactJS](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-04-la-maison-jungle), an OpenClassrooms project  
@@ -159,12 +165,14 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 #### Games - 2 projects
 1. Exercise + **Personal project**: ***[Memory game***, with React](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-03-memory-game), an OpenClassrooms project
-2. Exercise: [***Tennis Score***, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
+   
+3. Exercise: [***Tennis Score***, an App with redux](https://github.com/s-manguy/projects/tree/main/front-end-libraries/oc-06-tennis-score-redux), an OpenClassrooms project.
 
 ### Data visualization with d3.js - 8 projects
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
 
 1. **Personal project**: [***Bar chart***](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project - 2 versions
+   
 3. **Personal project**: [***Scatter plot chart***](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-02-scatterplot-RWD), a fCC project  - 2 versions
 4. **Personal project**: [***Heat map***](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-03-heatmap), a fCC project
 5. **Personal project**: [***Chloropleth map***](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-04-choroplethmap-RWD), a fCC project - 2 versions
@@ -181,6 +189,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 **view the the Back-ENd, APIs and Microservices projects] realized to get the fCC Certification** 
 1. **Personal project**: [***Timestamp Microservice***](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-01-timestamp), a fCC project.
+   
 4. **Personal project**: [***Request Header Parser Microservice***](https://github.com/s-manguy/projects/tree/main/APIs-microservices/fcc-02-requestheaderparser), a fCC project.  
 5. URL Shortener Microservice 
 6. Exercise Tracker 
@@ -194,6 +203,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 ### Vanilla PHP / Symfony, MySQL/SQL - 3 projects
 [View the fullstack projects](https://github.com/s-manguy/projects/tree/main/fullstack)
 1. **Personal project** in Vanilla PHP, MySQL: [***Mon super blog***](https://github.com/s-manguy/projects/tree/main/fullstack/mon-super-blog), based on an OpenClassrooms project.
+   
 3. Exercise: [***Ma Super Agence*** - a Real Estate Agency website](https://github.com/s-manguy/projects/tree/main/fullstack/ma-super-agence), a Symfony + MySQL Grafikart project.
 4. Exercise: [***Comment module*** on a blog](https://github.com/s-manguy/projects/tree/main/fullstack/comment-module), a Symfony, SQL, API Platform & React Grafikart project.
 
@@ -205,6 +215,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 ## Appendices
 * Personal project: [Style guide](https://github.com/s-manguy/projects/blob/main/webdesign/antoine-parmentier_tribute-page/Assets/Exports/Mobile%20version.png) from the Antoine Parmentier Tribute project.
+  
 * Personal project: [UX navigation map](https://github.com/s-manguy/projects/blob/main/appendices/blog-PHP_navigation_UX_sandrine_manguy.pdf) from the Mon Super Blog project.
 * Personal project: [Tagging informations](https://github.com/s-manguy/projects/blob/main/webdesign/sunnyside-agency_landing-page/Assets/Exports%20and%20captures/Sunnyside_Accessibility%20notes_ms.png) from the Sunnyside agency landing page project.
 * Personal project: [User stories and test cases](https://github.com/s-manguy/projects/blob/main/appendices/User%20storie.pdf) from the blog comment-module project.
