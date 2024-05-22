@@ -1,0 +1,161 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    color: #0a0a23;
+}
+
+span[class~="sr-only"] /*will select any span element whose class includes sr-only */ {
+    border: 0 !important;
+    clip: rect(1px, 1px, 1px, 1px) !important; /* The CSS clip property is used to define the visible portions of an element. */
+    clip-path: inset(50%) !important; /* The clip-path property determines the shape the clip property should take. */
+    width: 1px !important;
+    height: 1px !important;
+    /* To prevent the text content from overflowing */
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    /* To take these hidden elements out of the document flow. This will ensure that not only are they no longer visible, but they are not even within the page view. */
+    position: absolute !important;
+    padding: 0 !important;
+    margin: -1px !important;
+} /* Rather than having to constantly double-check the earlier properties are not being overwriten, another solution can be using the !important keyword to ensure these properties are always applied, regardless of order or specificity. */
+
+h1 {
+    max-width: 37.25rem;
+    margin: 0 auto;
+    padding: 1.5rem 1.25rem;
+}
+
+/* To reverse the Balance sheet and AcmeWidgetCorp elements */
+h1 .flex {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+}
+
+h1 .flex span:first-of-type /* targets the first span element in the .flex container Remark: the span elements are reversed, visually, so this will appear to be the second element on the page*/ {
+    font-size: 0.7em; /* makex it look like a sub-heading */
+}
+
+h1 .flex span:last-of-type /* targets the last element that matches the selector */ {
+    font-size: 1.2em; /* makex it look like a header */
+} 
+
+section {
+    max-width: 40rem; /* RWD */
+    margin: 0 auto; /* centers it */
+    border: 2px solid #d0d0d5;
+}
+
+#years {
+    display: flex;
+    justify-content: flex-end; /* right alignment */
+    position: sticky;
+    top: 0; /* fixed to the top of its container */
+    color: #fff;
+    background-color: #0a0a23;
+    margin: 0 -2px;
+    padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
+    z-index: 999; /* To ensure the #years element does not get hidden by different stacks */
+}
+
+#years span[class] /* The span[class] syntax will target any span element that has a class attribute set, regardless of the attribute's value. */ {
+    font-weight: bold;
+    width: 4.5rem;
+    text-align: right;
+} 
+
+.table-wrap {
+    padding: 0 0.75rem 1.5rem 0.75rem;
+}
+
+table {
+    border-collapse: collapse; /* allows cell borders to collapse into a single border, instead of a border around each cell. */
+    border: 0; /* hidex the borders themselves.*/
+    width: 100%; /* table fills its container */
+    position: relative;
+    margin-top: 3rem;
+}
+
+table caption {
+    color: #356eaf;
+    font-size: 1.3em;
+    font-weight: normal;
+    position: absolute;
+    top: -2.25rem;
+    left: 0.5rem;
+}
+
+tbody td {
+    width: 100vw; /* fills the viewport */
+    min-width: 4rem;
+    max-width: 4rem;
+    /* This approach ensures that the width is fixed, whereas setting width specifically would allow the elements to shrink to the container. */
+}
+
+tbody th {
+    width: calc(100% - 12rem); /* width of the entire container, less 12rem (3 * td with) */
+}
+
+tr[class="total"] /* The [attribute="value"] selector targets any element that has an attribute with a specific value. */ {
+border-bottom: 4px double #0a0a23 ;
+font-weight: bold;
+}
+
+tr[class="total"] th {
+    text-align: left;
+    padding: 0.5rem 0 0.25rem 0.5rem;
+}
+
+tr.total td {
+    text-align: right;
+    padding: 0 0.25rem;
+}
+
+tr.total td:nth-of-type(3) /* The :nth-of-type() pseudo-selector is used to target specific elements based on their order among siblings of the same type. */ {
+    padding-right: 0.5rem;
+}
+
+tr.total:hover {
+    background-color: #99c9ff;
+}
+
+td.current {
+    font-style: italic;
+}
+
+tr.data {
+    background-image: linear-gradient(to bottom, #dfdfe2 1.845rem, white 1.845rem);
+}
+
+tr.data th {
+    text-align: left;
+    padding-top: 0.3rem;
+    padding-left: 0.5rem;
+}
+
+tr.data th .description {
+    display: block;
+    font-style: italic;
+    font-weight: normal;
+    padding: 1rem 0 0.75rem;
+    margin-right: -13.5rem;
+}
+
+tr.data td {
+    vertical-align: top;
+    text-align: right;
+    padding: 0.3rem 0.25rem 0;
+}
+
+tr.data td:last-of-type {
+    padding-right: 0.5rem;
+}
+
+/* Added on codepen */
+footer {
+	text-align: center;
+	margin: 2.5rem auto 0.5rem auto;
+}
