@@ -183,7 +183,7 @@ View all the below projects as a [collection on codepen](https://codepen.io/coll
 
 
 
-### Data visualization with d3.js - 8 projects
+### Data visualization with d3.js - 9 projects
 [view the Data visualization projects](https://github.com/s-manguy/projects/tree/main/data-visualization) 
 
 1. **Personal project**: [***Bar chart***](https://github.com/s-manguy/projects/tree/main/data-visualization/fcc-01-barchart-RWD), a fCC project - 2 versions
